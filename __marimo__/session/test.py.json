@@ -1,0 +1,61 @@
+{
+  "version": "1",
+  "metadata": {
+    "marimo_version": "0.23.9",
+    "script_metadata_hash": null
+  },
+  "cells": [
+    {
+      "id": "Hbol",
+      "code_hash": "f1ab4803c60ee908f8c0e3366c54bf87",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "ZIhd",
+      "code_hash": "8035c4081363d3a04ef54aa8b36d7990",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/html": "<marimo-ui-element object-id='ZIhd-0' random-id='9b06338a-11e9-0f66-fd44-bf073ef5c693'><marimo-table data-initial-value='[]' data-label='null' data-data='&quot;[{&#92;&quot;ID&#92;&quot;:29,&#92;&quot;Asset Name&#92;&quot;:&#92;&quot;Kiste f&#92;&#92;u00fcr Chemoplanen&#92;&quot;,&#92;&quot;Asset Tag&#92;&quot;:&#92;&quot;#00001&#92;&quot;,&#92;&quot;Modell&#92;&quot;:&#92;&quot;Blechkiste&#92;&quot;,&#92;&quot;Modellnr.&#92;&quot;:&#92;&quot;BLK&#92;&quot;,&#92;&quot;Kategorie&#92;&quot;:&#92;&quot;Container&#92;&quot;},{&#92;&quot;ID&#92;&quot;:30,&#92;&quot;Asset Name&#92;&quot;:&#92;&quot;Chemoplane Rechteckig&#92;&quot;,&#92;&quot;Asset Tag&#92;&quot;:&#92;&quot;#00002&#92;&quot;,&#92;&quot;Modell&#92;&quot;:&#92;&quot;Chemoplane&#92;&quot;,&#92;&quot;Modellnr.&#92;&quot;:&#92;&quot;CHP&#92;&quot;,&#92;&quot;Kategorie&#92;&quot;:&#92;&quot;Abdeckplanen&#92;&quot;},{&#92;&quot;ID&#92;&quot;:31,&#92;&quot;Asset Name&#92;&quot;:&#92;&quot;Chemoplane Rechteckig&#92;&quot;,&#92;&quot;Asset Tag&#92;&quot;:&#92;&quot;#00003&#92;&quot;,&#92;&quot;Modell&#92;&quot;:&#92;&quot;Chemoplane&#92;&quot;,&#92;&quot;Modellnr.&#92;&quot;:&#92;&quot;CHP&#92;&quot;,&#92;&quot;Kategorie&#92;&quot;:&#92;&quot;Abdeckplanen&#92;&quot;},{&#92;&quot;ID&#92;&quot;:32,&#92;&quot;Asset Name&#92;&quot;:&#92;&quot;Chemoplane Rechteckig&#92;&quot;,&#92;&quot;Asset Tag&#92;&quot;:&#92;&quot;#00004&#92;&quot;,&#92;&quot;Modell&#92;&quot;:&#92;&quot;Chemoplane&#92;&quot;,&#92;&quot;Modellnr.&#92;&quot;:&#92;&quot;CHP&#92;&quot;,&#92;&quot;Kategorie&#92;&quot;:&#92;&quot;Abdeckplanen&#92;&quot;},{&#92;&quot;ID&#92;&quot;:33,&#92;&quot;Asset Name&#92;&quot;:&#92;&quot;Jurtendach&#92;&quot;,&#92;&quot;Asset Tag&#92;&quot;:&#92;&quot;#00005&#92;&quot;,&#92;&quot;Modell&#92;&quot;:&#92;&quot;Jurtendach 610 cm&#92;&quot;,&#92;&quot;Modellnr.&#92;&quot;:&#92;&quot;JUD&#92;&quot;,&#92;&quot;Kategorie&#92;&quot;:&#92;&quot;Zeltplane&#92;&quot;},{&#92;&quot;ID&#92;&quot;:34,&#92;&quot;Asset Name&#92;&quot;:&#92;&quot;Kiste f&#92;&#92;u00fcr Reperatur&#92;&quot;,&#92;&quot;Asset Tag&#92;&quot;:&#92;&quot;#00187&#92;&quot;,&#92;&quot;Modell&#92;&quot;:&#92;&quot;Blechkiste&#92;&quot;,&#92;&quot;Modellnr.&#92;&quot;:&#92;&quot;BLK&#92;&quot;,&#92;&quot;Kategorie&#92;&quot;:&#92;&quot;Container&#92;&quot;},{&#92;&quot;ID&#92;&quot;:35,&#92;&quot;Asset Name&#92;&quot;:&#92;&quot;Jurtendach&#92;&quot;,&#92;&quot;Asset Tag&#92;&quot;:&#92;&quot;#00006&#92;&quot;,&#92;&quot;Modell&#92;&quot;:&#92;&quot;Jurtendach 610 cm&#92;&quot;,&#92;&quot;Modellnr.&#92;&quot;:&#92;&quot;JUD&#92;&quot;,&#92;&quot;Kategorie&#92;&quot;:&#92;&quot;Zeltplane&#92;&quot;},{&#92;&quot;ID&#92;&quot;:36,&#92;&quot;Asset Name&#92;&quot;:&#92;&quot;Doppelte Seitenplane&#92;&quot;,&#92;&quot;Asset Tag&#92;&quot;:&#92;&quot;#00007&#92;&quot;,&#92;&quot;Modell&#92;&quot;:&#92;&quot;Doppelzeltbahn &#92;&quot;,&#92;&quot;Modellnr.&#92;&quot;:&#92;&quot;DSP&#92;&quot;,&#92;&quot;Kategorie&#92;&quot;:&#92;&quot;Zeltplane&#92;&quot;},{&#92;&quot;ID&#92;&quot;:37,&#92;&quot;Asset Name&#92;&quot;:&#92;&quot;Jurtenplane Standart&#92;&quot;,&#92;&quot;Asset Tag&#92;&quot;:&#92;&quot;#00008&#92;&quot;,&#92;&quot;Modell&#92;&quot;:&#92;&quot;Viereckzeltbahn&#92;&quot;,&#92;&quot;Modellnr.&#92;&quot;:&#92;&quot;JPS&#92;&quot;,&#92;&quot;Kategorie&#92;&quot;:&#92;&quot;Zeltplane&#92;&quot;},{&#92;&quot;ID&#92;&quot;:38,&#92;&quot;Asset Name&#92;&quot;:&#92;&quot;Jurtenplane Standart&#92;&quot;,&#92;&quot;Asset Tag&#92;&quot;:&#92;&quot;#00009&#92;&quot;,&#92;&quot;Modell&#92;&quot;:&#92;&quot;Viereckzeltbahn&#92;&quot;,&#92;&quot;Modellnr.&#92;&quot;:&#92;&quot;JPS&#92;&quot;,&#92;&quot;Kategorie&#92;&quot;:&#92;&quot;Zeltplane&#92;&quot;}]&quot;' data-total-rows='373' data-total-columns='6' data-max-columns='50' data-banner-text='&quot;&quot;' data-pagination='true' data-page-size='10' data-field-types='[[&quot;ID&quot;,[&quot;integer&quot;,&quot;int64&quot;]],[&quot;Asset Name&quot;,[&quot;string&quot;,&quot;str&quot;]],[&quot;Asset Tag&quot;,[&quot;string&quot;,&quot;str&quot;]],[&quot;Modell&quot;,[&quot;string&quot;,&quot;str&quot;]],[&quot;Modellnr.&quot;,[&quot;string&quot;,&quot;str&quot;]],[&quot;Kategorie&quot;,[&quot;string&quot;,&quot;str&quot;]]]' data-show-filters='true' data-show-download='true' data-show-column-summaries='true' data-show-data-types='true' data-show-page-size-selector='true' data-show-column-explorer='true' data-show-chart-builder='true' data-row-headers='[]' data-hidden-columns='[]' data-has-stable-row-id='false' data-lazy='false' data-preload='false'></marimo-table></marimo-ui-element>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "YGsg",
+      "code_hash": "f6e6628cff3865863556172f1146ce8f",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/html": "<marimo-ui-element object-id='YGsg-0' random-id='bc8d4b46-6d58-2a90-99cf-d1d539ec744d'><marimo-table data-initial-value='[]' data-label='null' data-data='&quot;[{&#92;&quot;Modell&#92;&quot;:&#92;&quot;Sack&#92;&quot;,&#92;&quot;count&#92;&quot;:58},{&#92;&quot;Modell&#92;&quot;:&#92;&quot;Kothenplane f&#92;&#92;u00fcr Hochkothe (S45/59)&#92;&quot;,&#92;&quot;count&#92;&quot;:45},{&#92;&quot;Modell&#92;&quot;:&#92;&quot;Doppelzeltbahn &#92;&quot;,&#92;&quot;count&#92;&quot;:43},{&#92;&quot;Modell&#92;&quot;:&#92;&quot;Viereckzeltbahn&#92;&quot;,&#92;&quot;count&#92;&quot;:24},{&#92;&quot;Modell&#92;&quot;:&#92;&quot;Jurtenabdeckplane (Opi)&#92;&quot;,&#92;&quot;count&#92;&quot;:18},{&#92;&quot;Modell&#92;&quot;:&#92;&quot;Chemoplane&#92;&quot;,&#92;&quot;count&#92;&quot;:15},{&#92;&quot;Modell&#92;&quot;:&#92;&quot;Holzkiste&#92;&quot;,&#92;&quot;count&#92;&quot;:15},{&#92;&quot;Modell&#92;&quot;:&#92;&quot;Trangia&#92;&quot;,&#92;&quot;count&#92;&quot;:15},{&#92;&quot;Modell&#92;&quot;:&#92;&quot;Kothenplane mit Erdstreifen (S20/53)&#92;&quot;,&#92;&quot;count&#92;&quot;:14},{&#92;&quot;Modell&#92;&quot;:&#92;&quot;Kothenabdeckplane (Opi)&#92;&quot;,&#92;&quot;count&#92;&quot;:13}]&quot;' data-total-rows='35' data-total-columns='1' data-max-columns='50' data-banner-text='&quot;&quot;' data-pagination='true' data-page-size='10' data-field-types='[[&quot;count&quot;,[&quot;integer&quot;,&quot;int64&quot;]]]' data-show-filters='true' data-show-download='true' data-show-column-summaries='true' data-show-data-types='true' data-show-page-size-selector='true' data-show-column-explorer='true' data-show-chart-builder='true' data-row-headers='[[&quot;Modell&quot;,[&quot;string&quot;,&quot;str&quot;]]]' data-hidden-columns='[]' data-has-stable-row-id='false' data-lazy='false' data-preload='false'></marimo-table></marimo-ui-element>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "TOfb",
+      "code_hash": "25ed2fa5261f1e28588ca0f1f2bb4aeb",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/html": "<marimo-ui-element object-id='TOfb-0' random-id='813a9212-2ab3-49f2-b3d6-295a644cb534'><marimo-table data-initial-value='[]' data-label='null' data-data='&quot;[{&#92;&quot;&#92;&quot;:27,&#92;&quot;Asset Tag&#92;&quot;:&#92;&quot;#00026&#92;&quot;},{&#92;&quot;&#92;&quot;:68,&#92;&quot;Asset Tag&#92;&quot;:&#92;&quot;#00064&#92;&quot;},{&#92;&quot;&#92;&quot;:72,&#92;&quot;Asset Tag&#92;&quot;:&#92;&quot;#00067&#92;&quot;},{&#92;&quot;&#92;&quot;:98,&#92;&quot;Asset Tag&#92;&quot;:&#92;&quot;#00091&#92;&quot;},{&#92;&quot;&#92;&quot;:99,&#92;&quot;Asset Tag&#92;&quot;:&#92;&quot;#00092&#92;&quot;},{&#92;&quot;&#92;&quot;:100,&#92;&quot;Asset Tag&#92;&quot;:&#92;&quot;#00093&#92;&quot;},{&#92;&quot;&#92;&quot;:101,&#92;&quot;Asset Tag&#92;&quot;:&#92;&quot;#00094&#92;&quot;},{&#92;&quot;&#92;&quot;:104,&#92;&quot;Asset Tag&#92;&quot;:&#92;&quot;#00097&#92;&quot;},{&#92;&quot;&#92;&quot;:110,&#92;&quot;Asset Tag&#92;&quot;:&#92;&quot;#00102&#92;&quot;},{&#92;&quot;&#92;&quot;:112,&#92;&quot;Asset Tag&#92;&quot;:&#92;&quot;#00104&#92;&quot;}]&quot;' data-total-rows='45' data-total-columns='1' data-max-columns='50' data-banner-text='&quot;&quot;' data-pagination='true' data-page-size='10' data-field-types='[[&quot;Asset Tag&quot;,[&quot;string&quot;,&quot;str&quot;]]]' data-show-filters='true' data-show-download='true' data-show-column-summaries='true' data-show-data-types='true' data-show-page-size-selector='true' data-show-column-explorer='true' data-show-chart-builder='true' data-row-headers='[[&quot;&quot;,[&quot;integer&quot;,&quot;int64&quot;]]]' data-hidden-columns='[]' data-has-stable-row-id='false' data-lazy='false' data-preload='false'></marimo-table></marimo-ui-element>"
+          }
+        }
+      ],
+      "console": []
+    }
+  ]
+}

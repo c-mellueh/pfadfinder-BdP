@@ -1,0 +1,374 @@
+﻿ID,"Asset Name","Asset Tag",Modell,Modellnr.,Kategorie
+29,"Kiste für Chemoplanen",#00001,Blechkiste,BLK,Container
+30,"Chemoplane Rechteckig",#00002,Chemoplane,CHP,Abdeckplanen
+31,"Chemoplane Rechteckig",#00003,Chemoplane,CHP,Abdeckplanen
+32,"Chemoplane Rechteckig",#00004,Chemoplane,CHP,Abdeckplanen
+33,Jurtendach,#00005,"Jurtendach 610 cm",JUD,Zeltplane
+34,"Kiste für Reperatur",#00187,Blechkiste,BLK,Container
+35,Jurtendach,#00006,"Jurtendach 610 cm",JUD,Zeltplane
+36,"Doppelte Seitenplane",#00007,"Doppelzeltbahn ",DSP,Zeltplane
+37,"Jurtenplane Standart",#00008,Viereckzeltbahn,JPS,Zeltplane
+38,"Jurtenplane Standart",#00009,Viereckzeltbahn,JPS,Zeltplane
+39,"Doppelte Seitenplane",#00010,"Doppelzeltbahn ",DSP,Zeltplane
+40,"Jurtenplane Standart",#00011,Viereckzeltbahn,JPS,Zeltplane
+41,"Doppelte Seitenplane",#00012,"Doppelzeltbahn ",DSP,Zeltplane
+42,"Doppelte Seitenplane",#00013,"Doppelzeltbahn ",DSP,Zeltplane
+43,"Super Doppelzeltbahn XL",#00014,"Super-Doppelzeltbahn XL",DSH,Zeltplane
+44,"Doppelte Seitenplane",#00015,"Doppelzeltbahn ",DSP,Zeltplane
+45,"Doppelte Seitenplane",#00016,"Doppelzeltbahn ",DSP,Zeltplane
+46,"Jurtenplane Standart",#00017,Viereckzeltbahn,JPS,Zeltplane
+47,"Jurtenplane Standart",#00018,Viereckzeltbahn,JPS,Zeltplane
+48,"Jurtenplane Standart",#00019,Viereckzeltbahn,JPS,Zeltplane
+49,"Doppelte Seitenplane",#00020,"Doppelzeltbahn ",DSP,Zeltplane
+50,"Jurtenplane Standart",#00021,Viereckzeltbahn,JPS,Zeltplane
+51,"Jurtenplane Standart",#00022,Viereckzeltbahn,JPS,Zeltplane
+52,"Doppelte Seitenplane",#00023,"Doppelzeltbahn ",DSP,Zeltplane
+53,"Doppelte Seitenplane",#00024,"Doppelzeltbahn ",DSP,Zeltplane
+54,"Doppelte Seitenplane",#00025,"Doppelzeltbahn ",DSP,Zeltplane
+55,"Kiste für Reperatur",#00179,Blechkiste,BLK,Container
+56,"Kothenplane Hochkothe",#00026,"Kothenplane für Hochkothe (S45/59)",KPH,Zeltplane
+57,"Doppelte Seitenplane",#00027,"Doppelzeltbahn ",DSP,Zeltplane
+58,"Jurtenplane Standart",#00028,Viereckzeltbahn,JPS,Zeltplane
+59,"Super Doppelzeltbahn XL",#00029,"Super-Doppelzeltbahn XL",DSH,Zeltplane
+60,"Jurtenplane Standart",#00030,Viereckzeltbahn,JPS,Zeltplane
+61,"Doppelte Seitenplane",#00031,"Doppelzeltbahn ",DSP,Zeltplane
+62,Jurtenabdeckplane,#00032,"Jurtenabdeckplane (Opi)",JAP,Zeltplane
+63,"Doppelte Seitenplane",#00033,"Doppelzeltbahn ",DSP,Zeltplane
+64,"Doppelte Seitenplane",#00034,"Doppelzeltbahn ",DSP,Zeltplane
+65,"Doppelte Seitenplane",#00035,"Doppelzeltbahn ",DSP,Zeltplane
+66,"Chemoplane Rund",#00036,Chemoplane,CHP,Abdeckplanen
+67,"Kothe mit Erdstreifen (S20/53)",#00175,Holzkiste,HOK,Container
+68,"Halbes Jurtendach",#00037,"Halbes Jurtendach",HJD,Zeltplane
+69,"Halbes Jurtendach",#00038,"Halbes Jurtendach",HJD,Zeltplane
+70,Jurtendach,#00039,"Jurtendach 610 cm",JUD,Zeltplane
+71,"Super Doppelzeltbahn XL",#00040,"Super-Doppelzeltbahn XL",DSH,Zeltplane
+72,"Super Doppelzeltbahn XL",#00041,"Super-Doppelzeltbahn XL",DSH,Zeltplane
+73,"Super Doppelzeltbahn XL",#00042,"Super-Doppelzeltbahn XL",DSH,Zeltplane
+74,"Super Doppelzeltbahn XL",#00043,"Super-Doppelzeltbahn XL",DSH,Zeltplane
+75,"Sack für Aufenthaltsdach (TARP)",#00044,Sack,SAC,Container
+76,"Aufenthaltsdach 400x500",#00045,Tarp,TRP,Zeltplane
+77,Armeeplane,#00046,Armeeplane,AMP,Abdeckplanen
+78,Armeeplane,#00047,Armeeplane,AMP,Abdeckplanen
+79,Armeeponcho,#00048,Poncho,PON,Abdeckplanen
+80,"Gitter für Jurte",#00049,"Gitter für Jurte",JPG,Zeltplane
+81,Sack,#00050,Sack,SAC,Container
+82,Sackkiste,#00254,Holzkiste,HOK,Container
+83,Sack,#00051,Sack,SAC,Container
+84,Sack,#00052,Sack,SAC,Container
+85,Sack,#00053,Sack,SAC,Container
+86,Sack,#00054,Sack,SAC,Container
+87,Sack,#00055,Sack,SAC,Container
+88,"Halbes Jurtendach",#00056,"Halbes Jurtendach",HJD,Zeltplane
+89,"Halbes Jurtendach",#00057,"Halbes Jurtendach",HJD,Zeltplane
+90,Sack,#00058,Sack,SAC,Container
+91,Sack,#00059,Sack,SAC,Container
+92,Sack,#00060,Sack,SAC,Container
+93,Kothenplanen,#00222,Holzkiste,HOK,Container
+94,"Kothenplane mit Erdstreifen",#00061,"Kothenplane mit Erdstreifen (S20/53)",KPE,Zeltplane
+95,Sack,#00062,Sack,SAC,Container
+96,Sack,#00063,Sack,SAC,Container
+97,"Kothenplane Hochkothe",#00064,"Kothenplane für Hochkothe (S45/59)",KPH,Zeltplane
+98,Sack,#00065,Sack,SAC,Container
+99,Sack,#00066,Sack,SAC,Container
+100,"Jurtenkiste 190 cm",#00174,Holzkiste,HOK,Container
+101,"Kothenplane Hochkothe",#00067,"Kothenplane für Hochkothe (S45/59)",KPH,Zeltplane
+104,Sack,#00068,Sack,SAC,Container
+105,Sack,#00069,Sack,SAC,Container
+106,"Kothenplane mit Erdstreifen",#00070,"Kothenplane mit Erdstreifen (S20/53)",KPE,Zeltplane
+107,Sack,#00071,Sack,SAC,Container
+108,"Kiste Jurtenabdeckplanen (Obi)",#00177,Holzkiste,HOK,Container
+109,Jurtenabdeckplane,#00072,"Jurtenabdeckplane (Opi)",JAP,Zeltplane
+110,Jurtenabdeckplane,#00073,"Jurtenabdeckplane (Opi)",JAP,Zeltplane
+111,Jurtenabdeckplane,#00074,"Jurtenabdeckplane (Opi)",JAP,Zeltplane
+112,"Jurtenplane Standart",#00075,Viereckzeltbahn,JPS,Zeltplane
+113,"Halbes Jurtendach",#00076,"Halbes Jurtendach",HJD,Zeltplane
+114,"Jurtenplane Standart",#00077,Viereckzeltbahn,JPS,Zeltplane
+115,Jurtendach,#00078,"Jurtendach 610 cm",JUD,Zeltplane
+116,"Jurtenplane Standart",#00079,Viereckzeltbahn,JPS,Zeltplane
+117,"Jurtenplane Standart",#00080,Viereckzeltbahn,JPS,Zeltplane
+118,"Doppelte Seitenplane",#00081,"Doppelzeltbahn ",DSP,Zeltplane
+119,"Jurtenplane Standart",#00082,Viereckzeltbahn,JPS,Zeltplane
+120,"Jurtenplane Standart",#00083,Viereckzeltbahn,JPS,Zeltplane
+121,"Jurtenplane Standart",#00084,Viereckzeltbahn,JPS,Zeltplane
+122,"Doppelte Seitenplane",#00085,"Doppelzeltbahn ",DSP,Zeltplane
+123,"Doppelte Seitenplane",#00086,"Doppelzeltbahn ",DSP,Zeltplane
+124,"Doppelte Seitenplane",#00087,"Doppelzeltbahn ",DSP,Zeltplane
+125,Sack,#00088,Sack,SAC,Container
+126,"Doppelte Seitenplane",#00089,"Doppelzeltbahn ",DSP,Zeltplane
+127,"Doppelte Seitenplane",#00090,"Doppelzeltbahn ",DSP,Zeltplane
+128,"Kothenkiste Hochkothe",#00142,Holzkiste,HOK,Container
+129,"Kothenplane Hochkothe",#00091,"Kothenplane für Hochkothe (S45/59)",KPH,Zeltplane
+130,"Kothenplane Hochkothe",#00092,"Kothenplane für Hochkothe (S45/59)",KPH,Zeltplane
+131,"Kothenplane Hochkothe",#00093,"Kothenplane für Hochkothe (S45/59)",KPH,Zeltplane
+132,"Kothenplane Hochkothe",#00094,"Kothenplane für Hochkothe (S45/59)",KPH,Zeltplane
+133,Zargeskiste,#00095,"Zarges Kiste",ZAK,Container
+134,"Kothenabdeckplane (Opi)",#00096,"Kothenabdeckplane (Opi)",KAP,Zeltplane
+135,"Kothenplane Hochkothe",#00097,"Kothenplane für Hochkothe (S45/59)",KPH,Zeltplane
+136,Heringskiste,#00264,"Plastik Kiste",PLK,Container
+137,"Tasche Heringe T mittelgroß",#00098,Tasche,TAS,Container
+138,"Tasche Heringe 23cm",#00099,Tasche,TAS,Container
+139,"Kothenplane mit Erdstreifen",#00100,"Kothenplane mit Erdstreifen (S20/53)",KPE,Zeltplane
+140,"Kothenabdeckplane (Opi)",#00101,"Kothenabdeckplane (Opi)",KAP,Zeltplane
+141,"Kothenplane Hochkothe",#00102,"Kothenplane für Hochkothe (S45/59)",KPH,Zeltplane
+142,"Kothenkiste Hochkothe",#00103,Holzkiste,HOK,Container
+143,"Kothenplane Hochkothe",#00104,"Kothenplane für Hochkothe (S45/59)",KPH,Zeltplane
+144,"Kothenplane Hochkothe",#00105,"Kothenplane für Hochkothe (S45/59)",KPH,Zeltplane
+145,"Kothenplane Hochkothe",#00106,"Kothenplane für Hochkothe (S45/59)",KPH,Zeltplane
+146,Hammer,#00107,Hammer,HAM,Werkzeug
+147,"Chemoplane Rechteckig",#00108,Chemoplane,CHP,Abdeckplanen
+148,"Kothenplane mit Erdstreifen",#00109,"Kothenplane mit Erdstreifen (S20/53)",KPE,Zeltplane
+149,"Kothenplane mit Erdstreifen",#00110,"Kothenplane mit Erdstreifen (S20/53)",KPE,Zeltplane
+150,"Kothenplane mit Erdstreifen",#00111,"Kothenplane mit Erdstreifen (S20/53)",KPE,Zeltplane
+151,"Kothenplane Hochkothe",#00112,"Kothenplane für Hochkothe (S45/59)",KPH,Zeltplane
+152,"Kothenplane Hochkothe",#00113,"Kothenplane für Hochkothe (S45/59)",KPH,Zeltplane
+153,"Kothenkiste Hochkothe",#00116,Holzkiste,HOK,Container
+154,"Kothenplane Hochkothe",#00114,"Kothenplane für Hochkothe (S45/59)",KPH,Zeltplane
+155,Axt,#00115,Axt,AXT,Werkzeug
+156,Werkzeugkiste,#00278,"Plastik Kiste",PLK,Container
+157,Axt,#00117,Axt,AXT,Werkzeug
+158,Axt,#00118,Axt,AXT,Werkzeug
+159,Jurtenabdeckplane,#00119,"Jurtenabdeckplane (Opi)",JAP,Zeltplane
+160,"Kothenplane Hochkothe",#00120,"Kothenplane für Hochkothe (S45/59)",KPH,Zeltplane
+161,"Kothenplane Hochkothe",#00121,"Kothenplane für Hochkothe (S45/59)",KPH,Zeltplane
+162,"Kothenplane Hochkothe",#00122,"Kothenplane für Hochkothe (S45/59)",KPH,Zeltplane
+163,"Kothenplane Hochkothe",#00123,"Kothenplane für Hochkothe (S45/59)",KPH,Zeltplane
+164,Hammer,#00124,Hammer,HAM,Werkzeug
+165,"Kothenplane mit Erdstreifen",#00125,"Kothenplane mit Erdstreifen (S20/53)",KPE,Zeltplane
+166,"Kothenplane mit Erdstreifen",#00126,"Kothenplane mit Erdstreifen (S20/53)",KPE,Zeltplane
+167,"Kothenplane Hochkothe",#00127,"Kothenplane für Hochkothe (S45/59)",KPH,Zeltplane
+168,"Kothenplane mit Erdstreifen",#00128,"Kothenplane mit Erdstreifen (S20/53)",KPE,Zeltplane
+169,"Kothenplane mit Erdstreifen",#00129,"Kothenplane mit Erdstreifen (S20/53)",KPE,Zeltplane
+170,Jurte,#00130,"Zarges Kiste",ZAK,Container
+171,"Chemos und Theaterplanen",#00131,"Zarges Kiste",ZAK,Container
+172,Agadir,#00132,"Zarges Kiste",ZAK,Container
+173,Jurte,#00133,"Zarges Kiste",ZAK,Container
+174,Jurtendach,#00134,"Jurtendach 610 cm",JUD,Zeltplane
+175,"Jurtenplane Standart",#00135,Viereckzeltbahn,JPS,Zeltplane
+176,"Doppelte Seitenplane",#00136,"Doppelzeltbahn ",DSP,Zeltplane
+177,"Doppelte Seitenplane",#00137,"Doppelzeltbahn ",DSP,Zeltplane
+178,"Jurtenplane Standart",#00138,Viereckzeltbahn,JPS,Zeltplane
+179,"Doppelte Seitenplane",#00139,"Doppelzeltbahn ",DSP,Zeltplane
+180,"Doppelte Seitenplane",#00140,"Doppelzeltbahn ",DSP,Zeltplane
+181,"Doppelte Seitenplane",#00141,"Doppelzeltbahn ",DSP,Zeltplane
+182,Jurtenabdeckplane,#00143,"Jurtenabdeckplane (Opi)",JAP,Zeltplane
+183,"Kothenabdeckplane (Opi)",#00144,"Kothenabdeckplane (Opi)",KAP,Zeltplane
+184,Jurtenabdeckplane,#00145,"Jurtenabdeckplane (Opi)",JAP,Zeltplane
+185,Jurtenabdeckplane,#00147,"Jurtenabdeckplane (Opi)",JAP,Zeltplane
+186,Jurtenabdeckplane,#00148,"Jurtenabdeckplane (Opi)",JAP,Zeltplane
+187,"Kothenabdeckplane (Opi)",#00146,"Kothenabdeckplane (Opi)",KAP,Zeltplane
+188,"Kothenabdeckplane (Opi)",#00149,"Kothenabdeckplane (Opi)",KAP,Zeltplane
+189,"Kothenabdeckplane (Opi)",#00150,"Kothenabdeckplane (Opi)",KAP,Zeltplane
+190,"Kothenabdeckplane (Opi)",#00151,"Kothenabdeckplane (Opi)",KAP,Zeltplane
+191,"Kothenabdeckplane (Opi)",#00152,"Kothenabdeckplane (Opi)",KAP,Zeltplane
+192,Jurtenabdeckplane,#00153,"Jurtenabdeckplane (Opi)",JAP,Zeltplane
+193,Theaterplane,#00154,"Jurten-Zwischendachteil (Theaterplane)",THP,Zeltplane
+194,Theaterplane,#00155,"Jurten-Zwischendachteil (Theaterplane)",THP,Zeltplane
+195,"Schlaufjurte und Theaterplanen",#00192,Holzkiste,HOK,Container
+196,"Kothenplane Hochkothe",#00156,"Kothenplane für Hochkothe (S45/59)",KPH,Zeltplane
+197,"Chemoplane Rechteckig",#00157,Chemoplane,CHP,Abdeckplanen
+198,"Kothenplane mit Erdstreifen",#00158,"Kothenplane mit Erdstreifen (S20/53)",KPE,Zeltplane
+199,"Kothenplane Hochkothe",#00159,"Kothenplane für Hochkothe (S45/59)",KPH,Zeltplane
+200,"Chemoplane Rechteckig",#00160,Chemoplane,CHP,Abdeckplanen
+201,"Kothenplane Hochkothe",#00161,"Kothenplane für Hochkothe (S45/59)",KPH,Zeltplane
+202,"Chemoplane Rechteckig",#00162,Chemoplane,CHP,Abdeckplanen
+203,Jurtenabdeckplane,#00163,"Jurtenabdeckplane (Opi)",JAP,Zeltplane
+204,"Kothenplane Hochkothe",#00164,"Kothenplane für Hochkothe (S45/59)",KPH,Zeltplane
+205,"Kothenplane Hochkothe",#00165,"Kothenplane für Hochkothe (S45/59)",KPH,Zeltplane
+206,"Kothenplane Hochkothe",#00166,"Kothenplane für Hochkothe (S45/59)",KPH,Zeltplane
+207,"Kothenplane Hochkothe",#00167,"Kothenplane für Hochkothe (S45/59)",KPH,Zeltplane
+208,"Kothenplane Hochkothe",#00168,"Kothenplane für Hochkothe (S45/59)",KPH,Zeltplane
+209,"Kothenplane Hochkothe",#00169,"Kothenplane für Hochkothe (S45/59)",KPH,Zeltplane
+210,"Kothenabdeckplane (Opi)",#00170,"Kothenabdeckplane (Opi)",KAP,Zeltplane
+211,"Kothenabdeckplane (Opi)",#00171,"Kothenabdeckplane (Opi)",KAP,Zeltplane
+212,"Kothenplane mit Erdstreifen",#00172,"Kothenplane mit Erdstreifen (S20/53)",KPE,Zeltplane
+213,"Kothenplane Hochkothe",#00173,"Kothenplane für Hochkothe (S45/59)",KPH,Zeltplane
+214,Axt,#00176,Axt,AXT,Werkzeug
+215,"Chemoplane Rechteckig",#00178,Chemoplane,CHP,Abdeckplanen
+216,"Doppelte Seitenplane",#00180,"Doppelzeltbahn ",DSP,Zeltplane
+217,"Doppelte Seitenplane",#00181,"Doppelzeltbahn ",DSP,Zeltplane
+218,"Doppelte Seitenplane",#00183,"Doppelzeltbahn ",DSP,Zeltplane
+219,"Doppelte Seitenplane",#00184,"Doppelzeltbahn ",DSP,Zeltplane
+220,"Jurtenplane Standart",#00182,Viereckzeltbahn,JPS,Zeltplane
+221,"Doppelte Seitenplane",#00185,"Doppelzeltbahn ",DSP,Zeltplane
+222,"Doppelplane Spezial",#00186,"Doppelplane Spezial",DPS,Zeltplane
+223,"Schlaufenwand mit Tür",#00188,"Seitenwand Schlaufenjurte 640 cm mit Tür",MJT,Zelt
+224,Schlaufenwand,#00189,"Seitenwand Schlaufenjurte 640 cm",MJS,Zelt
+225,Schlaufenwand,#00190,"Seitenwand Schlaufenjurte 640 cm",MJS,Zelt
+226,Schlaufenwand,#00191,"Seitenwand Schlaufenjurte 640 cm",MJS,Zelt
+227,"Jurtenplane Standart (1.60m breit)",#00193,Viereckzeltbahn,JPS,Zeltplane
+228,"Jurtenplane Standart (1.60m breit)",#00194,Viereckzeltbahn,JPS,Zeltplane
+229,"Jurtenplane Doppelt (1.60m breit)",#00195,"Doppelzeltbahn ",DSP,Zeltplane
+230,"Jurtenplane Doppelt (1.60m breit)",#00196,"Doppelzeltbahn ",DSP,Zeltplane
+231,"Doppelte Seitenplane",#00197,"Doppelzeltbahn ",DSP,Zeltplane
+232,"Doppelte Seitenplane",#00199,"Doppelzeltbahn ",DSP,Zeltplane
+233,"Jurtenplane Standart",#00198,Viereckzeltbahn,JPS,Zeltplane
+234,"Jurtenplane Standart",#00200,Viereckzeltbahn,JPS,Zeltplane
+235,"Blaue Jurte",#00201,"Zarges Kiste",ZAK,Container
+236,"Kothenplane Hochkothe",#00202,"Kothenplane für Hochkothe (S45/59)",KPH,Zeltplane
+237,Theaterplane,#00203,"Jurten-Zwischendachteil (Theaterplane)",THP,Zeltplane
+238,Theaterplane,#00204,"Jurten-Zwischendachteil (Theaterplane)",THP,Zeltplane
+239,Theaterplane,#00205,"Jurten-Zwischendachteil (Theaterplane)",THP,Zeltplane
+240,Theaterplane,#00206,"Jurten-Zwischendachteil (Theaterplane)",THP,Zeltplane
+241,"Halbes Jurtendach",#00207,"Halbes Jurtendach",HJD,Zeltplane
+242,"Halbes Jurtendach",#00208,"Halbes Jurtendach",HJD,Zeltplane
+243,Jurtenabdeckplane,#00209,"Jurtenabdeckplane (Opi)",JAP,Zeltplane
+244,"Kothenplane Hochkothe",#00210,"Kothenplane für Hochkothe (S45/59)",KPH,Zeltplane
+245,"Kothenplane mit Erdstreifen",#00211,"Kothenplane mit Erdstreifen (S20/53)",KPE,Zeltplane
+246,"Kothenplane Hochkothe",#00212,"Kothenplane für Hochkothe (S45/59)",KPH,Zeltplane
+247,"Kothenplane Hochkothe",#00214,"Kothenplane für Hochkothe (S45/59)",KPH,Zeltplane
+248,"Kothenplane Hochkothe",#00215,"Kothenplane für Hochkothe (S45/59)",KPH,Zeltplane
+249,"Kothenplane mit Erdstreifen",#00213,"Kothenplane mit Erdstreifen (S20/53)",KPE,Zeltplane
+250,"Kothenplane Hochkothe",#00216,"Kothenplane für Hochkothe (S45/59)",KPH,Zeltplane
+251,Sack,#00217,Sack,SAC,Container
+252,"Kothenabdeckplane (Opi)",#00218,"Kothenabdeckplane (Opi)",KAP,Zeltplane
+253,"Sack (evtl. Waschzelt)",#00219,Sack,SAC,Container
+254,"Kothenplane Hochkothe",#00220,"Kothenplane für Hochkothe (S45/59)",KPH,Zeltplane
+255,Jurtenabdeckplane,#00221,"Jurtenabdeckplane (Opi)",JAP,Zeltplane
+256,Sack,#00223,Sack,SAC,Container
+257,Sack,#00224,Sack,SAC,Container
+258,Sack,#00225,Sack,SAC,Container
+259,Sack,#00226,Sack,SAC,Container
+260,Sack,#00227,Sack,SAC,Container
+261,Sack,#00228,Sack,SAC,Container
+262,Sack,#00229,Sack,SAC,Container
+263,Sack,#00230,Sack,SAC,Container
+264,Sack,#00231,Sack,SAC,Container
+265,Sack,#00232,Sack,SAC,Container
+266,Sack,#00233,Sack,SAC,Container
+267,Sack,#00234,Sack,SAC,Container
+268,Sack,#00235,Sack,SAC,Container
+269,Sack,#00236,Sack,SAC,Container
+270,Sack,#00237,Sack,SAC,Container
+271,Sack,#00238,Sack,SAC,Container
+272,Sack,#00239,Sack,SAC,Container
+273,Sack,#00240,Sack,SAC,Container
+274,Sack,#00241,Sack,SAC,Container
+275,Sack,#00242,Sack,SAC,Container
+276,Sack,#00243,Sack,SAC,Container
+277,Sack,#00244,Sack,SAC,Container
+278,"Sack (evtl Agadir)",#00245,Sack,SAC,Container
+279,Kothe,#00246,"Zarges Kiste",ZAK,Container
+280,Sack,#00247,Sack,SAC,Container
+281,Sack,#00248,Sack,SAC,Container
+282,Sack,#00249,Sack,SAC,Container
+283,Sack,#00250,Sack,SAC,Container
+284,Sack,#00251,Sack,SAC,Container
+285,Sack,#00252,Sack,SAC,Container
+286,Sack,#00253,Sack,SAC,Container
+287,"Doppelte Seitenplane",#00255,"Doppelzeltbahn ",DSP,Zeltplane
+288,"Doppelte Seitenplane",#00256,"Doppelzeltbahn ",DSP,Zeltplane
+289,Sturmheringe,#00257,Holzkiste,HOK,Container
+290,Seilkiste,#00258,Blechkiste,BLK,Container
+291,Sack,#00259,Sack,SAC,Container
+292,"Sack (evtl Sahara)",#00260,Sack,SAC,Container
+293,"Tasche Heringe",#00261,Tasche,TAS,Container
+294,Küchenjurte,#00262,Blechkiste,BLK,Container
+295,Tasche,#00263,Tasche,TAS,Container
+296,Heringssack,#00265,Sack,SAC,Container
+297,Axt,#00266,Axt,AXT,Werkzeug
+298,Axt,#00268,Axt,AXT,Werkzeug
+299,Axt,#00274,Axt,AXT,Werkzeug
+300,Axt,#00275,Axt,AXT,Werkzeug
+301,Hammer,#00267,Hammer,HAM,Werkzeug
+302,Hammer,#00271,Hammer,HAM,Werkzeug
+303,Hammer,#00272,Hammer,HAM,Werkzeug
+304,Hammer,#00273,Hammer,HAM,Werkzeug
+305,Hammer,#00276,Hammer,HAM,Werkzeug
+306,Hammer,#00294,Hammer,HAM,Werkzeug
+307,Spaten,#00269,Spaten,SPA,Werkzeug
+308,Spaten,#00270,Spaten,SPA,Werkzeug
+309,Sturmheringskiste,#00277,"Plastik Kiste",PLK,Container
+310,Werkzeug,#00279,"Zarges Kiste",ZAK,Container
+311,Kettenkiste,#00280,"Plastik Kiste",PLK,Container
+312,Holzkiste,#00281,Holzkiste,HOK,Container
+313,"Technikkiste (Krimskrams)",#00282,Holzkiste,HOK,Container
+314,Stangensack,#00283,Sack,SAC,Container
+315,"Abspannschnüre Jurtenburg",#00284,"Plastik Kiste",PLK,Container
+316,Säge,#00285,Säge,SAE,Werkzeug
+317,Säge,#00286,Säge,SAE,Werkzeug
+318,Säge,#00287,Säge,SAE,Werkzeug
+319,"Farben und Lacke",#00288,"Plastik Kiste",PLK,Container
+320,Krimskrams,#00289,"Plastik Kiste",PLK,Container
+321,Wassersäcke,#00290,"Plastik Kiste",PLK,Container
+322,Krimskrams,#00291,"Plastik Kiste",PLK,Container
+323,Gummihammer,#00292,Gummihammer,GHA,Werkzeug
+324,Gummihammer,#00293,Gummihammer,GHA,Werkzeug
+325,Hammer,#00295,Hammer,HAM,Werkzeug
+326,"Kaputte Heringe",#00296,"Plastik Kiste",PLK,Container
+327,Kanthölzer,#00297,"Plastik Kiste",PLK,Container
+328,Trangia,#00298,Trangia,TRAN,"Küchenzubehör (Passiv)"
+329,Trangia,#00299,Trangia,TRAN,"Küchenzubehör (Passiv)"
+330,Trangia,#00300,Trangia,TRAN,"Küchenzubehör (Passiv)"
+331,Trangia,#00301,Trangia,TRAN,"Küchenzubehör (Passiv)"
+332,Trangia,#00302,Trangia,TRAN,"Küchenzubehör (Passiv)"
+333,Trangia,#00303,Trangia,TRAN,"Küchenzubehör (Passiv)"
+334,Trangia,#00304,Trangia,TRAN,"Küchenzubehör (Passiv)"
+335,Trangia,#00305,Trangia,TRAN,"Küchenzubehör (Passiv)"
+336,Trangia,#00306,Trangia,TRAN,"Küchenzubehör (Passiv)"
+337,Trangia,#00307,Trangia,TRAN,"Küchenzubehör (Passiv)"
+338,Trangia,#00308,Trangia,TRAN,"Küchenzubehör (Passiv)"
+339,Trangia,#00309,Trangia,TRAN,"Küchenzubehör (Passiv)"
+340,Trangia,#00310,Trangia,TRAN,"Küchenzubehör (Passiv)"
+341,Trangia,#00311,Trangia,TRAN,"Küchenzubehör (Passiv)"
+342,Trangia,#00312,Trangia,TRAN,"Küchenzubehör (Passiv)"
+343,Jurtendach,#00313,"Jurtendach 610 cm",JUD,Zeltplane
+344,Heringssack,#00314,Sack,SAC,Container
+345,Jurtenabdeckplane,#00315,"Jurtenabdeckplane (Opi)",JAP,Zeltplane
+346,Fensterplane,#00316,Fensterplane,JPF,Zeltplane
+347,Fensterplane,#00317,Fensterplane,JPF,Zeltplane
+348,Fensterplane,#00318,Fensterplane,JPF,Zeltplane
+349,Fensterplane,#00319,Fensterplane,JPF,Zeltplane
+350,Fensterplane,#00320,Fensterplane,JPF,Zeltplane
+351,Fensterplane,#00321,Fensterplane,JPF,Zeltplane
+352,"Doppelte Seitenplane",#00322,"Doppelzeltbahn ",DSP,Zeltplane
+353,"Doppelte Seitenplane",#00323,"Doppelzeltbahn ",DSP,Zeltplane
+354,"Doppelte Seitenplane",#00324,"Doppelzeltbahn ",DSP,Zeltplane
+355,"Doppelte Seitenplane",#00325,"Doppelzeltbahn ",DSP,Zeltplane
+356,"Doppelte Seitenplane",#00326,"Doppelzeltbahn ",DSP,Zeltplane
+357,"Doppelte Seitenplane",#00327,"Doppelzeltbahn ",DSP,Zeltplane
+358,"Kothenabdeckplane (Opi)",#00328,"Kothenabdeckplane (Opi)",KAP,Zeltplane
+359,"Kothenplane Hochkothe",#00329,"Kothenplane für Hochkothe (S45/59)",KPH,Zeltplane
+360,"Kothenplane Hochkothe",#00330,"Kothenplane für Hochkothe (S45/59)",KPH,Zeltplane
+361,"Kothenplane Hochkothe",#00331,"Kothenplane für Hochkothe (S45/59)",KPH,Zeltplane
+362,"Kothenplane Hochkothe",#00332,"Kothenplane für Hochkothe (S45/59)",KPH,Zeltplane
+363,"Kothenplane Hochkothe",#00333,"Kothenplane für Hochkothe (S45/59)",KPH,Zeltplane
+364,"Kothenplane Hochkothe",#00334,"Kothenplane für Hochkothe (S45/59)",KPH,Zeltplane
+365,"Kothenplane Hochkothe",#00335,"Kothenplane für Hochkothe (S45/59)",KPH,Zeltplane
+366,"Kothenplane Hochkothe",#00336,"Kothenplane für Hochkothe (S45/59)",KPH,Zeltplane
+367,Jurtenabdeckplane,#00337,"Jurtenabdeckplane (Opi)",JAP,Zeltplane
+368,Jurtenabdeckplane,#00338,"Jurtenabdeckplane (Opi)",JAP,Zeltplane
+369,Jurtenabdeckplane,#00339,"Jurtenabdeckplane (Opi)",JAP,Zeltplane
+370,Jurtenabdeckplane,#00340,"Jurtenabdeckplane (Opi)",JAP,Zeltplane
+371,Kothensack,#00341,Sack,SAC,Container
+372,Kothensack,#00342,Sack,SAC,Container
+373,Küchenkiste,#00343,"Zarges Kiste",ZAK,Container
+374,Küchenkiste,#00344,Holzkiste,HOK,Container
+375,Kühlbox,#00345,"Plastik Kiste",PLK,Container
+376,Kühlbox,#00346,"Plastik Kiste",PLK,Container
+377,Petrolas,#00347,"Zarges Kiste",ZAK,Container
+378,Spielzeugkiste,#00348,Holzkiste,HOK,Container
+379,Armeeplane,#00349,Armeeplane,AMP,Abdeckplanen
+380,"Kocher und Kanister",#00350,"Zarges Kiste",ZAK,Container
+381,"Blaue Jurte",#00351,"Zarges Kiste",ZAK,Container
+382,Seilsack,#00352,Sack,SAC,Container
+383,"Erdstreifen Rainbow Kothe",#00353,"Erdstreifen Rainbow Kothe",ERK,Zeltplane
+384,"Erdstreifen Rainbow Kothe",#00354,"Erdstreifen Rainbow Kothe",ERK,Zeltplane
+385,"Erdstreifen Rainbow Kothe",#00355,"Erdstreifen Rainbow Kothe",ERK,Zeltplane
+386,"Erdstreifen Rainbow Kothe",#00356,"Erdstreifen Rainbow Kothe",ERK,Zeltplane
+387,"Erdstreifen Rainbow Kothe",#00357,"Erdstreifen Rainbow Kothe",ERK,Zeltplane
+388,"Eingang Rainbow",#00358,"Vorzelt Rainbow Kothe",VRK,Zeltplane
+389,"Plane Rainbowkothe",#00359,"Rainbow Kothenplane ",KPR,Zeltplane
+390,"Plane Rainbowkothe",#00360,"Rainbow Kothenplane ",KPR,Zeltplane
+391,"Plane Rainbowkothe",#00361,"Rainbow Kothenplane ",KPR,Zeltplane
+392,"Plane Rainbowkothe",#00362,"Rainbow Kothenplane ",KPR,Zeltplane
+393,"Plane Rainbowkothe",#00363,"Rainbow Kothenplane ",KPR,Zeltplane
+394,"Kothenabdeckplane Rainbow Kothe (Opi)",#00364,"Kothenabdeckplane (Opi)",KAP,Zeltplane
+395,"Chemoplane Rainbow Kothe",#00365,Chemoplane,CHP,Abdeckplanen
+396,Stangenkiste,#00366,Holzkiste,HOK,Container
+397,Chemoplane,#00367,Chemoplane,CHP,Abdeckplanen
+398,Chemoplane,#00368,Chemoplane,CHP,Abdeckplanen
+399,"Doppelfensterstück Tüll ",#00369,"Doppelfensterstück Tüll",,Zeltplane
+400,"Doppelfensterstück Tüll ",#00370,"Doppelfensterstück Tüll",,Zeltplane
+401,Chemoplane,#00371,Chemoplane,CHP,Abdeckplanen
+402,Chemoplane,#00372,Chemoplane,CHP,Abdeckplanen
+403,Chemoplane,#00373,Chemoplane,CHP,Abdeckplanen
