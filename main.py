@@ -112,7 +112,7 @@ def make_sign(label: str):
 df = pd.read_csv("Daten.csv")
 
 labels = sorted(list(df[df["Modell"] == "Kothenplane für Hochkothe (S45/59)"]["Asset Tag"]))
-labels = ["#00001", "#00002", "#00003", "#00004", "#00005", "#00006", "#00007", "#00008", "#00009", "#00010"]
+#labels = ["#00001", "#00002", "#00003", "#00004", "#00005", "#00006", "#00007", "#00008", "#00009", "#00010"]
 OUTDIR    = "Kothenplane für Hochkothe"
 os.makedirs(OUTDIR, exist_ok=True)
 
@@ -131,7 +131,7 @@ for label in labels:
         obj_id=comp.GetResourceID(),
         plate_id=plate_mesh.GetResourceID(),
         text_id=text_mesh.GetResourceID(),
-        name=label,
+        name=safe,
     )
     with zipfile.ZipFile(path, "a") as z:
         z.writestr("Metadata/model_settings.config", settings)
