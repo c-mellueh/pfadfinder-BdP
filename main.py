@@ -27,7 +27,7 @@ MODEL_SETTINGS = """<?xml version="1.0" encoding="UTF-8"?>
 
 
 # --- parameters ---
-PLATE_W, PLATE_H, PLATE_T = 100, 35, 1.2    # mm
+PLATE_W, PLATE_H, PLATE_T = 100, 35, 1.6    # mm
 TEXT_T    = 0.4                           # raised text height
 FONT      = "Nimbus Mono PS"              # monospace, plain zeros
 FONT_SIZE = 8
@@ -35,14 +35,14 @@ FONT_SIZE_NUMBER = 14
 HOLE_D    = 6.0                           # hanging hole diameter
 HOLDE_DISTANCE = 3.
 CORNER_R  = 6.0
-QR_SIZE   = 33.0                          # QR side length, mm
+QR_SIZE   = 30.0                          # QR side length, mm
 QR_VERSION = 3                            # 29x29 modules, fits 36-byte URLs at error level M
 QR_EDGE_MARGIN = 3.5                      # from right plate edge, keeps quiet zone clear of corner rounding
 QR_TEXT_GAP = 1.5                         # white gap between text and QR
 
 MODEL_TYPE_TEXT = "Hochkothe\n(S45/59)"
 FILTER_TEXT = "Kothenplane für Hochkothe (S45/59)"
-
+ORDNER = "Kothenplane für Hochkothe"
 
 
 def make_mesh(mesher, shape, color: Color, extra=None):
@@ -198,7 +198,7 @@ if __name__ == "__main__":
     labels = list(df[df_filter]["Asset Tag"])
     urls = list(df[df_filter]["URL"])
     #labels = ["#00001", "#00002", "#00003", "#00004", "#00005", "#00006", "#00007", "#00008", "#00009", "#00010"]
-    OUTDIR    = Path("Schilder/Kothenplane für Hochkothe")
+    OUTDIR    = Path("Schilder") / ORDNER
     os.makedirs(OUTDIR, exist_ok=True)
 
     for label,url in zip(labels, urls):
