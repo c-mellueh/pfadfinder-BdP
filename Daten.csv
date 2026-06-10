@@ -1,374 +1,374 @@
-﻿ID,"Asset Name","Asset Tag",Modell,Modellnr.,Kategorie
-29,"Kiste für Chemoplanen",#00001,Blechkiste,BLK,Container
-30,"Chemoplane Rechteckig",#00002,Chemoplane,CHP,Abdeckplanen
-31,"Chemoplane Rechteckig",#00003,Chemoplane,CHP,Abdeckplanen
-32,"Chemoplane Rechteckig",#00004,Chemoplane,CHP,Abdeckplanen
-33,Jurtendach,#00005,"Jurtendach 610 cm",JUD,Zeltplane
-34,"Kiste für Reperatur",#00187,Blechkiste,BLK,Container
-35,Jurtendach,#00006,"Jurtendach 610 cm",JUD,Zeltplane
-36,"Doppelte Seitenplane",#00007,"Doppelzeltbahn ",DSP,Zeltplane
-37,"Jurtenplane Standart",#00008,Viereckzeltbahn,JPS,Zeltplane
-38,"Jurtenplane Standart",#00009,Viereckzeltbahn,JPS,Zeltplane
-39,"Doppelte Seitenplane",#00010,"Doppelzeltbahn ",DSP,Zeltplane
-40,"Jurtenplane Standart",#00011,Viereckzeltbahn,JPS,Zeltplane
-41,"Doppelte Seitenplane",#00012,"Doppelzeltbahn ",DSP,Zeltplane
-42,"Doppelte Seitenplane",#00013,"Doppelzeltbahn ",DSP,Zeltplane
-43,"Super Doppelzeltbahn XL",#00014,"Super-Doppelzeltbahn XL",DSH,Zeltplane
-44,"Doppelte Seitenplane",#00015,"Doppelzeltbahn ",DSP,Zeltplane
-45,"Doppelte Seitenplane",#00016,"Doppelzeltbahn ",DSP,Zeltplane
-46,"Jurtenplane Standart",#00017,Viereckzeltbahn,JPS,Zeltplane
-47,"Jurtenplane Standart",#00018,Viereckzeltbahn,JPS,Zeltplane
-48,"Jurtenplane Standart",#00019,Viereckzeltbahn,JPS,Zeltplane
-49,"Doppelte Seitenplane",#00020,"Doppelzeltbahn ",DSP,Zeltplane
-50,"Jurtenplane Standart",#00021,Viereckzeltbahn,JPS,Zeltplane
-51,"Jurtenplane Standart",#00022,Viereckzeltbahn,JPS,Zeltplane
-52,"Doppelte Seitenplane",#00023,"Doppelzeltbahn ",DSP,Zeltplane
-53,"Doppelte Seitenplane",#00024,"Doppelzeltbahn ",DSP,Zeltplane
-54,"Doppelte Seitenplane",#00025,"Doppelzeltbahn ",DSP,Zeltplane
-55,"Kiste für Reperatur",#00179,Blechkiste,BLK,Container
-56,"Kothenplane Hochkothe",#00026,"Kothenplane für Hochkothe (S45/59)",KPH,Zeltplane
-57,"Doppelte Seitenplane",#00027,"Doppelzeltbahn ",DSP,Zeltplane
-58,"Jurtenplane Standart",#00028,Viereckzeltbahn,JPS,Zeltplane
-59,"Super Doppelzeltbahn XL",#00029,"Super-Doppelzeltbahn XL",DSH,Zeltplane
-60,"Jurtenplane Standart",#00030,Viereckzeltbahn,JPS,Zeltplane
-61,"Doppelte Seitenplane",#00031,"Doppelzeltbahn ",DSP,Zeltplane
-62,Jurtenabdeckplane,#00032,"Jurtenabdeckplane (Opi)",JAP,Zeltplane
-63,"Doppelte Seitenplane",#00033,"Doppelzeltbahn ",DSP,Zeltplane
-64,"Doppelte Seitenplane",#00034,"Doppelzeltbahn ",DSP,Zeltplane
-65,"Doppelte Seitenplane",#00035,"Doppelzeltbahn ",DSP,Zeltplane
-66,"Chemoplane Rund",#00036,Chemoplane,CHP,Abdeckplanen
-67,"Kothe mit Erdstreifen (S20/53)",#00175,Holzkiste,HOK,Container
-68,"Halbes Jurtendach",#00037,"Halbes Jurtendach",HJD,Zeltplane
-69,"Halbes Jurtendach",#00038,"Halbes Jurtendach",HJD,Zeltplane
-70,Jurtendach,#00039,"Jurtendach 610 cm",JUD,Zeltplane
-71,"Super Doppelzeltbahn XL",#00040,"Super-Doppelzeltbahn XL",DSH,Zeltplane
-72,"Super Doppelzeltbahn XL",#00041,"Super-Doppelzeltbahn XL",DSH,Zeltplane
-73,"Super Doppelzeltbahn XL",#00042,"Super-Doppelzeltbahn XL",DSH,Zeltplane
-74,"Super Doppelzeltbahn XL",#00043,"Super-Doppelzeltbahn XL",DSH,Zeltplane
-75,"Sack für Aufenthaltsdach (TARP)",#00044,Sack,SAC,Container
-76,"Aufenthaltsdach 400x500",#00045,Tarp,TRP,Zeltplane
-77,Armeeplane,#00046,Armeeplane,AMP,Abdeckplanen
-78,Armeeplane,#00047,Armeeplane,AMP,Abdeckplanen
-79,Armeeponcho,#00048,Poncho,PON,Abdeckplanen
-80,"Gitter für Jurte",#00049,"Gitter für Jurte",JPG,Zeltplane
-81,Sack,#00050,Sack,SAC,Container
-82,Sackkiste,#00254,Holzkiste,HOK,Container
-83,Sack,#00051,Sack,SAC,Container
-84,Sack,#00052,Sack,SAC,Container
-85,Sack,#00053,Sack,SAC,Container
-86,Sack,#00054,Sack,SAC,Container
-87,Sack,#00055,Sack,SAC,Container
-88,"Halbes Jurtendach",#00056,"Halbes Jurtendach",HJD,Zeltplane
-89,"Halbes Jurtendach",#00057,"Halbes Jurtendach",HJD,Zeltplane
-90,Sack,#00058,Sack,SAC,Container
-91,Sack,#00059,Sack,SAC,Container
-92,Sack,#00060,Sack,SAC,Container
-93,Kothenplanen,#00222,Holzkiste,HOK,Container
-94,"Kothenplane mit Erdstreifen",#00061,"Kothenplane mit Erdstreifen (S20/53)",KPE,Zeltplane
-95,Sack,#00062,Sack,SAC,Container
-96,Sack,#00063,Sack,SAC,Container
-97,"Kothenplane Hochkothe",#00064,"Kothenplane für Hochkothe (S45/59)",KPH,Zeltplane
-98,Sack,#00065,Sack,SAC,Container
-99,Sack,#00066,Sack,SAC,Container
-100,"Jurtenkiste 190 cm",#00174,Holzkiste,HOK,Container
-101,"Kothenplane Hochkothe",#00067,"Kothenplane für Hochkothe (S45/59)",KPH,Zeltplane
-104,Sack,#00068,Sack,SAC,Container
-105,Sack,#00069,Sack,SAC,Container
-106,"Kothenplane mit Erdstreifen",#00070,"Kothenplane mit Erdstreifen (S20/53)",KPE,Zeltplane
-107,Sack,#00071,Sack,SAC,Container
-108,"Kiste Jurtenabdeckplanen (Obi)",#00177,Holzkiste,HOK,Container
-109,Jurtenabdeckplane,#00072,"Jurtenabdeckplane (Opi)",JAP,Zeltplane
-110,Jurtenabdeckplane,#00073,"Jurtenabdeckplane (Opi)",JAP,Zeltplane
-111,Jurtenabdeckplane,#00074,"Jurtenabdeckplane (Opi)",JAP,Zeltplane
-112,"Jurtenplane Standart",#00075,Viereckzeltbahn,JPS,Zeltplane
-113,"Halbes Jurtendach",#00076,"Halbes Jurtendach",HJD,Zeltplane
-114,"Jurtenplane Standart",#00077,Viereckzeltbahn,JPS,Zeltplane
-115,Jurtendach,#00078,"Jurtendach 610 cm",JUD,Zeltplane
-116,"Jurtenplane Standart",#00079,Viereckzeltbahn,JPS,Zeltplane
-117,"Jurtenplane Standart",#00080,Viereckzeltbahn,JPS,Zeltplane
-118,"Doppelte Seitenplane",#00081,"Doppelzeltbahn ",DSP,Zeltplane
-119,"Jurtenplane Standart",#00082,Viereckzeltbahn,JPS,Zeltplane
-120,"Jurtenplane Standart",#00083,Viereckzeltbahn,JPS,Zeltplane
-121,"Jurtenplane Standart",#00084,Viereckzeltbahn,JPS,Zeltplane
-122,"Doppelte Seitenplane",#00085,"Doppelzeltbahn ",DSP,Zeltplane
-123,"Doppelte Seitenplane",#00086,"Doppelzeltbahn ",DSP,Zeltplane
-124,"Doppelte Seitenplane",#00087,"Doppelzeltbahn ",DSP,Zeltplane
-125,Sack,#00088,Sack,SAC,Container
-126,"Doppelte Seitenplane",#00089,"Doppelzeltbahn ",DSP,Zeltplane
-127,"Doppelte Seitenplane",#00090,"Doppelzeltbahn ",DSP,Zeltplane
-128,"Kothenkiste Hochkothe",#00142,Holzkiste,HOK,Container
-129,"Kothenplane Hochkothe",#00091,"Kothenplane für Hochkothe (S45/59)",KPH,Zeltplane
-130,"Kothenplane Hochkothe",#00092,"Kothenplane für Hochkothe (S45/59)",KPH,Zeltplane
-131,"Kothenplane Hochkothe",#00093,"Kothenplane für Hochkothe (S45/59)",KPH,Zeltplane
-132,"Kothenplane Hochkothe",#00094,"Kothenplane für Hochkothe (S45/59)",KPH,Zeltplane
-133,Zargeskiste,#00095,"Zarges Kiste",ZAK,Container
-134,"Kothenabdeckplane (Opi)",#00096,"Kothenabdeckplane (Opi)",KAP,Zeltplane
-135,"Kothenplane Hochkothe",#00097,"Kothenplane für Hochkothe (S45/59)",KPH,Zeltplane
-136,Heringskiste,#00264,"Plastik Kiste",PLK,Container
-137,"Tasche Heringe T mittelgroß",#00098,Tasche,TAS,Container
-138,"Tasche Heringe 23cm",#00099,Tasche,TAS,Container
-139,"Kothenplane mit Erdstreifen",#00100,"Kothenplane mit Erdstreifen (S20/53)",KPE,Zeltplane
-140,"Kothenabdeckplane (Opi)",#00101,"Kothenabdeckplane (Opi)",KAP,Zeltplane
-141,"Kothenplane Hochkothe",#00102,"Kothenplane für Hochkothe (S45/59)",KPH,Zeltplane
-142,"Kothenkiste Hochkothe",#00103,Holzkiste,HOK,Container
-143,"Kothenplane Hochkothe",#00104,"Kothenplane für Hochkothe (S45/59)",KPH,Zeltplane
-144,"Kothenplane Hochkothe",#00105,"Kothenplane für Hochkothe (S45/59)",KPH,Zeltplane
-145,"Kothenplane Hochkothe",#00106,"Kothenplane für Hochkothe (S45/59)",KPH,Zeltplane
-146,Hammer,#00107,Hammer,HAM,Werkzeug
-147,"Chemoplane Rechteckig",#00108,Chemoplane,CHP,Abdeckplanen
-148,"Kothenplane mit Erdstreifen",#00109,"Kothenplane mit Erdstreifen (S20/53)",KPE,Zeltplane
-149,"Kothenplane mit Erdstreifen",#00110,"Kothenplane mit Erdstreifen (S20/53)",KPE,Zeltplane
-150,"Kothenplane mit Erdstreifen",#00111,"Kothenplane mit Erdstreifen (S20/53)",KPE,Zeltplane
-151,"Kothenplane Hochkothe",#00112,"Kothenplane für Hochkothe (S45/59)",KPH,Zeltplane
-152,"Kothenplane Hochkothe",#00113,"Kothenplane für Hochkothe (S45/59)",KPH,Zeltplane
-153,"Kothenkiste Hochkothe",#00116,Holzkiste,HOK,Container
-154,"Kothenplane Hochkothe",#00114,"Kothenplane für Hochkothe (S45/59)",KPH,Zeltplane
-155,Axt,#00115,Axt,AXT,Werkzeug
-156,Werkzeugkiste,#00278,"Plastik Kiste",PLK,Container
-157,Axt,#00117,Axt,AXT,Werkzeug
-158,Axt,#00118,Axt,AXT,Werkzeug
-159,Jurtenabdeckplane,#00119,"Jurtenabdeckplane (Opi)",JAP,Zeltplane
-160,"Kothenplane Hochkothe",#00120,"Kothenplane für Hochkothe (S45/59)",KPH,Zeltplane
-161,"Kothenplane Hochkothe",#00121,"Kothenplane für Hochkothe (S45/59)",KPH,Zeltplane
-162,"Kothenplane Hochkothe",#00122,"Kothenplane für Hochkothe (S45/59)",KPH,Zeltplane
-163,"Kothenplane Hochkothe",#00123,"Kothenplane für Hochkothe (S45/59)",KPH,Zeltplane
-164,Hammer,#00124,Hammer,HAM,Werkzeug
-165,"Kothenplane mit Erdstreifen",#00125,"Kothenplane mit Erdstreifen (S20/53)",KPE,Zeltplane
-166,"Kothenplane mit Erdstreifen",#00126,"Kothenplane mit Erdstreifen (S20/53)",KPE,Zeltplane
-167,"Kothenplane Hochkothe",#00127,"Kothenplane für Hochkothe (S45/59)",KPH,Zeltplane
-168,"Kothenplane mit Erdstreifen",#00128,"Kothenplane mit Erdstreifen (S20/53)",KPE,Zeltplane
-169,"Kothenplane mit Erdstreifen",#00129,"Kothenplane mit Erdstreifen (S20/53)",KPE,Zeltplane
-170,Jurte,#00130,"Zarges Kiste",ZAK,Container
-171,"Chemos und Theaterplanen",#00131,"Zarges Kiste",ZAK,Container
-172,Agadir,#00132,"Zarges Kiste",ZAK,Container
-173,Jurte,#00133,"Zarges Kiste",ZAK,Container
-174,Jurtendach,#00134,"Jurtendach 610 cm",JUD,Zeltplane
-175,"Jurtenplane Standart",#00135,Viereckzeltbahn,JPS,Zeltplane
-176,"Doppelte Seitenplane",#00136,"Doppelzeltbahn ",DSP,Zeltplane
-177,"Doppelte Seitenplane",#00137,"Doppelzeltbahn ",DSP,Zeltplane
-178,"Jurtenplane Standart",#00138,Viereckzeltbahn,JPS,Zeltplane
-179,"Doppelte Seitenplane",#00139,"Doppelzeltbahn ",DSP,Zeltplane
-180,"Doppelte Seitenplane",#00140,"Doppelzeltbahn ",DSP,Zeltplane
-181,"Doppelte Seitenplane",#00141,"Doppelzeltbahn ",DSP,Zeltplane
-182,Jurtenabdeckplane,#00143,"Jurtenabdeckplane (Opi)",JAP,Zeltplane
-183,"Kothenabdeckplane (Opi)",#00144,"Kothenabdeckplane (Opi)",KAP,Zeltplane
-184,Jurtenabdeckplane,#00145,"Jurtenabdeckplane (Opi)",JAP,Zeltplane
-185,Jurtenabdeckplane,#00147,"Jurtenabdeckplane (Opi)",JAP,Zeltplane
-186,Jurtenabdeckplane,#00148,"Jurtenabdeckplane (Opi)",JAP,Zeltplane
-187,"Kothenabdeckplane (Opi)",#00146,"Kothenabdeckplane (Opi)",KAP,Zeltplane
-188,"Kothenabdeckplane (Opi)",#00149,"Kothenabdeckplane (Opi)",KAP,Zeltplane
-189,"Kothenabdeckplane (Opi)",#00150,"Kothenabdeckplane (Opi)",KAP,Zeltplane
-190,"Kothenabdeckplane (Opi)",#00151,"Kothenabdeckplane (Opi)",KAP,Zeltplane
-191,"Kothenabdeckplane (Opi)",#00152,"Kothenabdeckplane (Opi)",KAP,Zeltplane
-192,Jurtenabdeckplane,#00153,"Jurtenabdeckplane (Opi)",JAP,Zeltplane
-193,Theaterplane,#00154,"Jurten-Zwischendachteil (Theaterplane)",THP,Zeltplane
-194,Theaterplane,#00155,"Jurten-Zwischendachteil (Theaterplane)",THP,Zeltplane
-195,"Schlaufjurte und Theaterplanen",#00192,Holzkiste,HOK,Container
-196,"Kothenplane Hochkothe",#00156,"Kothenplane für Hochkothe (S45/59)",KPH,Zeltplane
-197,"Chemoplane Rechteckig",#00157,Chemoplane,CHP,Abdeckplanen
-198,"Kothenplane mit Erdstreifen",#00158,"Kothenplane mit Erdstreifen (S20/53)",KPE,Zeltplane
-199,"Kothenplane Hochkothe",#00159,"Kothenplane für Hochkothe (S45/59)",KPH,Zeltplane
-200,"Chemoplane Rechteckig",#00160,Chemoplane,CHP,Abdeckplanen
-201,"Kothenplane Hochkothe",#00161,"Kothenplane für Hochkothe (S45/59)",KPH,Zeltplane
-202,"Chemoplane Rechteckig",#00162,Chemoplane,CHP,Abdeckplanen
-203,Jurtenabdeckplane,#00163,"Jurtenabdeckplane (Opi)",JAP,Zeltplane
-204,"Kothenplane Hochkothe",#00164,"Kothenplane für Hochkothe (S45/59)",KPH,Zeltplane
-205,"Kothenplane Hochkothe",#00165,"Kothenplane für Hochkothe (S45/59)",KPH,Zeltplane
-206,"Kothenplane Hochkothe",#00166,"Kothenplane für Hochkothe (S45/59)",KPH,Zeltplane
-207,"Kothenplane Hochkothe",#00167,"Kothenplane für Hochkothe (S45/59)",KPH,Zeltplane
-208,"Kothenplane Hochkothe",#00168,"Kothenplane für Hochkothe (S45/59)",KPH,Zeltplane
-209,"Kothenplane Hochkothe",#00169,"Kothenplane für Hochkothe (S45/59)",KPH,Zeltplane
-210,"Kothenabdeckplane (Opi)",#00170,"Kothenabdeckplane (Opi)",KAP,Zeltplane
-211,"Kothenabdeckplane (Opi)",#00171,"Kothenabdeckplane (Opi)",KAP,Zeltplane
-212,"Kothenplane mit Erdstreifen",#00172,"Kothenplane mit Erdstreifen (S20/53)",KPE,Zeltplane
-213,"Kothenplane Hochkothe",#00173,"Kothenplane für Hochkothe (S45/59)",KPH,Zeltplane
-214,Axt,#00176,Axt,AXT,Werkzeug
-215,"Chemoplane Rechteckig",#00178,Chemoplane,CHP,Abdeckplanen
-216,"Doppelte Seitenplane",#00180,"Doppelzeltbahn ",DSP,Zeltplane
-217,"Doppelte Seitenplane",#00181,"Doppelzeltbahn ",DSP,Zeltplane
-218,"Doppelte Seitenplane",#00183,"Doppelzeltbahn ",DSP,Zeltplane
-219,"Doppelte Seitenplane",#00184,"Doppelzeltbahn ",DSP,Zeltplane
-220,"Jurtenplane Standart",#00182,Viereckzeltbahn,JPS,Zeltplane
-221,"Doppelte Seitenplane",#00185,"Doppelzeltbahn ",DSP,Zeltplane
-222,"Doppelplane Spezial",#00186,"Doppelplane Spezial",DPS,Zeltplane
-223,"Schlaufenwand mit Tür",#00188,"Seitenwand Schlaufenjurte 640 cm mit Tür",MJT,Zelt
-224,Schlaufenwand,#00189,"Seitenwand Schlaufenjurte 640 cm",MJS,Zelt
-225,Schlaufenwand,#00190,"Seitenwand Schlaufenjurte 640 cm",MJS,Zelt
-226,Schlaufenwand,#00191,"Seitenwand Schlaufenjurte 640 cm",MJS,Zelt
-227,"Jurtenplane Standart (1.60m breit)",#00193,Viereckzeltbahn,JPS,Zeltplane
-228,"Jurtenplane Standart (1.60m breit)",#00194,Viereckzeltbahn,JPS,Zeltplane
-229,"Jurtenplane Doppelt (1.60m breit)",#00195,"Doppelzeltbahn ",DSP,Zeltplane
-230,"Jurtenplane Doppelt (1.60m breit)",#00196,"Doppelzeltbahn ",DSP,Zeltplane
-231,"Doppelte Seitenplane",#00197,"Doppelzeltbahn ",DSP,Zeltplane
-232,"Doppelte Seitenplane",#00199,"Doppelzeltbahn ",DSP,Zeltplane
-233,"Jurtenplane Standart",#00198,Viereckzeltbahn,JPS,Zeltplane
-234,"Jurtenplane Standart",#00200,Viereckzeltbahn,JPS,Zeltplane
-235,"Blaue Jurte",#00201,"Zarges Kiste",ZAK,Container
-236,"Kothenplane Hochkothe",#00202,"Kothenplane für Hochkothe (S45/59)",KPH,Zeltplane
-237,Theaterplane,#00203,"Jurten-Zwischendachteil (Theaterplane)",THP,Zeltplane
-238,Theaterplane,#00204,"Jurten-Zwischendachteil (Theaterplane)",THP,Zeltplane
-239,Theaterplane,#00205,"Jurten-Zwischendachteil (Theaterplane)",THP,Zeltplane
-240,Theaterplane,#00206,"Jurten-Zwischendachteil (Theaterplane)",THP,Zeltplane
-241,"Halbes Jurtendach",#00207,"Halbes Jurtendach",HJD,Zeltplane
-242,"Halbes Jurtendach",#00208,"Halbes Jurtendach",HJD,Zeltplane
-243,Jurtenabdeckplane,#00209,"Jurtenabdeckplane (Opi)",JAP,Zeltplane
-244,"Kothenplane Hochkothe",#00210,"Kothenplane für Hochkothe (S45/59)",KPH,Zeltplane
-245,"Kothenplane mit Erdstreifen",#00211,"Kothenplane mit Erdstreifen (S20/53)",KPE,Zeltplane
-246,"Kothenplane Hochkothe",#00212,"Kothenplane für Hochkothe (S45/59)",KPH,Zeltplane
-247,"Kothenplane Hochkothe",#00214,"Kothenplane für Hochkothe (S45/59)",KPH,Zeltplane
-248,"Kothenplane Hochkothe",#00215,"Kothenplane für Hochkothe (S45/59)",KPH,Zeltplane
-249,"Kothenplane mit Erdstreifen",#00213,"Kothenplane mit Erdstreifen (S20/53)",KPE,Zeltplane
-250,"Kothenplane Hochkothe",#00216,"Kothenplane für Hochkothe (S45/59)",KPH,Zeltplane
-251,Sack,#00217,Sack,SAC,Container
-252,"Kothenabdeckplane (Opi)",#00218,"Kothenabdeckplane (Opi)",KAP,Zeltplane
-253,"Sack (evtl. Waschzelt)",#00219,Sack,SAC,Container
-254,"Kothenplane Hochkothe",#00220,"Kothenplane für Hochkothe (S45/59)",KPH,Zeltplane
-255,Jurtenabdeckplane,#00221,"Jurtenabdeckplane (Opi)",JAP,Zeltplane
-256,Sack,#00223,Sack,SAC,Container
-257,Sack,#00224,Sack,SAC,Container
-258,Sack,#00225,Sack,SAC,Container
-259,Sack,#00226,Sack,SAC,Container
-260,Sack,#00227,Sack,SAC,Container
-261,Sack,#00228,Sack,SAC,Container
-262,Sack,#00229,Sack,SAC,Container
-263,Sack,#00230,Sack,SAC,Container
-264,Sack,#00231,Sack,SAC,Container
-265,Sack,#00232,Sack,SAC,Container
-266,Sack,#00233,Sack,SAC,Container
-267,Sack,#00234,Sack,SAC,Container
-268,Sack,#00235,Sack,SAC,Container
-269,Sack,#00236,Sack,SAC,Container
-270,Sack,#00237,Sack,SAC,Container
-271,Sack,#00238,Sack,SAC,Container
-272,Sack,#00239,Sack,SAC,Container
-273,Sack,#00240,Sack,SAC,Container
-274,Sack,#00241,Sack,SAC,Container
-275,Sack,#00242,Sack,SAC,Container
-276,Sack,#00243,Sack,SAC,Container
-277,Sack,#00244,Sack,SAC,Container
-278,"Sack (evtl Agadir)",#00245,Sack,SAC,Container
-279,Kothe,#00246,"Zarges Kiste",ZAK,Container
-280,Sack,#00247,Sack,SAC,Container
-281,Sack,#00248,Sack,SAC,Container
-282,Sack,#00249,Sack,SAC,Container
-283,Sack,#00250,Sack,SAC,Container
-284,Sack,#00251,Sack,SAC,Container
-285,Sack,#00252,Sack,SAC,Container
-286,Sack,#00253,Sack,SAC,Container
-287,"Doppelte Seitenplane",#00255,"Doppelzeltbahn ",DSP,Zeltplane
-288,"Doppelte Seitenplane",#00256,"Doppelzeltbahn ",DSP,Zeltplane
-289,Sturmheringe,#00257,Holzkiste,HOK,Container
-290,Seilkiste,#00258,Blechkiste,BLK,Container
-291,Sack,#00259,Sack,SAC,Container
-292,"Sack (evtl Sahara)",#00260,Sack,SAC,Container
-293,"Tasche Heringe",#00261,Tasche,TAS,Container
-294,Küchenjurte,#00262,Blechkiste,BLK,Container
-295,Tasche,#00263,Tasche,TAS,Container
-296,Heringssack,#00265,Sack,SAC,Container
-297,Axt,#00266,Axt,AXT,Werkzeug
-298,Axt,#00268,Axt,AXT,Werkzeug
-299,Axt,#00274,Axt,AXT,Werkzeug
-300,Axt,#00275,Axt,AXT,Werkzeug
-301,Hammer,#00267,Hammer,HAM,Werkzeug
-302,Hammer,#00271,Hammer,HAM,Werkzeug
-303,Hammer,#00272,Hammer,HAM,Werkzeug
-304,Hammer,#00273,Hammer,HAM,Werkzeug
-305,Hammer,#00276,Hammer,HAM,Werkzeug
-306,Hammer,#00294,Hammer,HAM,Werkzeug
-307,Spaten,#00269,Spaten,SPA,Werkzeug
-308,Spaten,#00270,Spaten,SPA,Werkzeug
-309,Sturmheringskiste,#00277,"Plastik Kiste",PLK,Container
-310,Werkzeug,#00279,"Zarges Kiste",ZAK,Container
-311,Kettenkiste,#00280,"Plastik Kiste",PLK,Container
-312,Holzkiste,#00281,Holzkiste,HOK,Container
-313,"Technikkiste (Krimskrams)",#00282,Holzkiste,HOK,Container
-314,Stangensack,#00283,Sack,SAC,Container
-315,"Abspannschnüre Jurtenburg",#00284,"Plastik Kiste",PLK,Container
-316,Säge,#00285,Säge,SAE,Werkzeug
-317,Säge,#00286,Säge,SAE,Werkzeug
-318,Säge,#00287,Säge,SAE,Werkzeug
-319,"Farben und Lacke",#00288,"Plastik Kiste",PLK,Container
-320,Krimskrams,#00289,"Plastik Kiste",PLK,Container
-321,Wassersäcke,#00290,"Plastik Kiste",PLK,Container
-322,Krimskrams,#00291,"Plastik Kiste",PLK,Container
-323,Gummihammer,#00292,Gummihammer,GHA,Werkzeug
-324,Gummihammer,#00293,Gummihammer,GHA,Werkzeug
-325,Hammer,#00295,Hammer,HAM,Werkzeug
-326,"Kaputte Heringe",#00296,"Plastik Kiste",PLK,Container
-327,Kanthölzer,#00297,"Plastik Kiste",PLK,Container
-328,Trangia,#00298,Trangia,TRAN,"Küchenzubehör (Passiv)"
-329,Trangia,#00299,Trangia,TRAN,"Küchenzubehör (Passiv)"
-330,Trangia,#00300,Trangia,TRAN,"Küchenzubehör (Passiv)"
-331,Trangia,#00301,Trangia,TRAN,"Küchenzubehör (Passiv)"
-332,Trangia,#00302,Trangia,TRAN,"Küchenzubehör (Passiv)"
-333,Trangia,#00303,Trangia,TRAN,"Küchenzubehör (Passiv)"
-334,Trangia,#00304,Trangia,TRAN,"Küchenzubehör (Passiv)"
-335,Trangia,#00305,Trangia,TRAN,"Küchenzubehör (Passiv)"
-336,Trangia,#00306,Trangia,TRAN,"Küchenzubehör (Passiv)"
-337,Trangia,#00307,Trangia,TRAN,"Küchenzubehör (Passiv)"
-338,Trangia,#00308,Trangia,TRAN,"Küchenzubehör (Passiv)"
-339,Trangia,#00309,Trangia,TRAN,"Küchenzubehör (Passiv)"
-340,Trangia,#00310,Trangia,TRAN,"Küchenzubehör (Passiv)"
-341,Trangia,#00311,Trangia,TRAN,"Küchenzubehör (Passiv)"
-342,Trangia,#00312,Trangia,TRAN,"Küchenzubehör (Passiv)"
-343,Jurtendach,#00313,"Jurtendach 610 cm",JUD,Zeltplane
-344,Heringssack,#00314,Sack,SAC,Container
-345,Jurtenabdeckplane,#00315,"Jurtenabdeckplane (Opi)",JAP,Zeltplane
-346,Fensterplane,#00316,Fensterplane,JPF,Zeltplane
-347,Fensterplane,#00317,Fensterplane,JPF,Zeltplane
-348,Fensterplane,#00318,Fensterplane,JPF,Zeltplane
-349,Fensterplane,#00319,Fensterplane,JPF,Zeltplane
-350,Fensterplane,#00320,Fensterplane,JPF,Zeltplane
-351,Fensterplane,#00321,Fensterplane,JPF,Zeltplane
-352,"Doppelte Seitenplane",#00322,"Doppelzeltbahn ",DSP,Zeltplane
-353,"Doppelte Seitenplane",#00323,"Doppelzeltbahn ",DSP,Zeltplane
-354,"Doppelte Seitenplane",#00324,"Doppelzeltbahn ",DSP,Zeltplane
-355,"Doppelte Seitenplane",#00325,"Doppelzeltbahn ",DSP,Zeltplane
-356,"Doppelte Seitenplane",#00326,"Doppelzeltbahn ",DSP,Zeltplane
-357,"Doppelte Seitenplane",#00327,"Doppelzeltbahn ",DSP,Zeltplane
-358,"Kothenabdeckplane (Opi)",#00328,"Kothenabdeckplane (Opi)",KAP,Zeltplane
-359,"Kothenplane Hochkothe",#00329,"Kothenplane für Hochkothe (S45/59)",KPH,Zeltplane
-360,"Kothenplane Hochkothe",#00330,"Kothenplane für Hochkothe (S45/59)",KPH,Zeltplane
-361,"Kothenplane Hochkothe",#00331,"Kothenplane für Hochkothe (S45/59)",KPH,Zeltplane
-362,"Kothenplane Hochkothe",#00332,"Kothenplane für Hochkothe (S45/59)",KPH,Zeltplane
-363,"Kothenplane Hochkothe",#00333,"Kothenplane für Hochkothe (S45/59)",KPH,Zeltplane
-364,"Kothenplane Hochkothe",#00334,"Kothenplane für Hochkothe (S45/59)",KPH,Zeltplane
-365,"Kothenplane Hochkothe",#00335,"Kothenplane für Hochkothe (S45/59)",KPH,Zeltplane
-366,"Kothenplane Hochkothe",#00336,"Kothenplane für Hochkothe (S45/59)",KPH,Zeltplane
-367,Jurtenabdeckplane,#00337,"Jurtenabdeckplane (Opi)",JAP,Zeltplane
-368,Jurtenabdeckplane,#00338,"Jurtenabdeckplane (Opi)",JAP,Zeltplane
-369,Jurtenabdeckplane,#00339,"Jurtenabdeckplane (Opi)",JAP,Zeltplane
-370,Jurtenabdeckplane,#00340,"Jurtenabdeckplane (Opi)",JAP,Zeltplane
-371,Kothensack,#00341,Sack,SAC,Container
-372,Kothensack,#00342,Sack,SAC,Container
-373,Küchenkiste,#00343,"Zarges Kiste",ZAK,Container
-374,Küchenkiste,#00344,Holzkiste,HOK,Container
-375,Kühlbox,#00345,"Plastik Kiste",PLK,Container
-376,Kühlbox,#00346,"Plastik Kiste",PLK,Container
-377,Petrolas,#00347,"Zarges Kiste",ZAK,Container
-378,Spielzeugkiste,#00348,Holzkiste,HOK,Container
-379,Armeeplane,#00349,Armeeplane,AMP,Abdeckplanen
-380,"Kocher und Kanister",#00350,"Zarges Kiste",ZAK,Container
-381,"Blaue Jurte",#00351,"Zarges Kiste",ZAK,Container
-382,Seilsack,#00352,Sack,SAC,Container
-383,"Erdstreifen Rainbow Kothe",#00353,"Erdstreifen Rainbow Kothe",ERK,Zeltplane
-384,"Erdstreifen Rainbow Kothe",#00354,"Erdstreifen Rainbow Kothe",ERK,Zeltplane
-385,"Erdstreifen Rainbow Kothe",#00355,"Erdstreifen Rainbow Kothe",ERK,Zeltplane
-386,"Erdstreifen Rainbow Kothe",#00356,"Erdstreifen Rainbow Kothe",ERK,Zeltplane
-387,"Erdstreifen Rainbow Kothe",#00357,"Erdstreifen Rainbow Kothe",ERK,Zeltplane
-388,"Eingang Rainbow",#00358,"Vorzelt Rainbow Kothe",VRK,Zeltplane
-389,"Plane Rainbowkothe",#00359,"Rainbow Kothenplane ",KPR,Zeltplane
-390,"Plane Rainbowkothe",#00360,"Rainbow Kothenplane ",KPR,Zeltplane
-391,"Plane Rainbowkothe",#00361,"Rainbow Kothenplane ",KPR,Zeltplane
-392,"Plane Rainbowkothe",#00362,"Rainbow Kothenplane ",KPR,Zeltplane
-393,"Plane Rainbowkothe",#00363,"Rainbow Kothenplane ",KPR,Zeltplane
-394,"Kothenabdeckplane Rainbow Kothe (Opi)",#00364,"Kothenabdeckplane (Opi)",KAP,Zeltplane
-395,"Chemoplane Rainbow Kothe",#00365,Chemoplane,CHP,Abdeckplanen
-396,Stangenkiste,#00366,Holzkiste,HOK,Container
-397,Chemoplane,#00367,Chemoplane,CHP,Abdeckplanen
-398,Chemoplane,#00368,Chemoplane,CHP,Abdeckplanen
-399,"Doppelfensterstück Tüll ",#00369,"Doppelfensterstück Tüll",,Zeltplane
-400,"Doppelfensterstück Tüll ",#00370,"Doppelfensterstück Tüll",,Zeltplane
-401,Chemoplane,#00371,Chemoplane,CHP,Abdeckplanen
-402,Chemoplane,#00372,Chemoplane,CHP,Abdeckplanen
-403,Chemoplane,#00373,Chemoplane,CHP,Abdeckplanen
+﻿ID,Firma,"Asset Name","Asset Tag",Modell,Modellnr.,Kategorie,Hersteller,Seriennummer,"Gekauft am",Kosten,EOL,Garantie,"Garantie Ablaufdatum","Aktueller Wert",Differenz,"Komplett Abgeschrieben",Auftragsnummer,Lieferant,Standort,Adresse,Adresse,Stadt,Bundesland,Land,Postleitzahl,Standard-Standort,Adresse,Adresse,Stadt,Bundesland,Land,Postleitzahl,Herausgegeben,Typ,Username,Benutzer-Unternehmen,Email,"Employee No.",Manager,Abteilung,Titel,Telefonnummer,Benutzeradresse,Benutzerstadt,Benutzerstaat,Benutzerland,"Benutzer PLZ",Notizen,Status,Herausgabedatum,"Letztes Rücknahmedatum","Erwartetes Rückgabedatum","Erstellt am","Aktualisiert am",Gelöscht,"Letzte Prüfung","Nächstes Prüfdatum",URL,"MAC Address",RAM,Länge,Breite,Höhe,Durchmesser
+29,"LV Thüringen","Kiste für Chemoplanen",#00001,Blechkiste,BLK,Container,,,2022-05-28,,2022-05-28,,,,0.00,,,,"Schuppen 2","Jugendherberge 1",,"Bad Blankenburg",Thüringen,DE,07422,"Schuppen 2","Jugendherberge 1",,"Bad Blankenburg",Thüringen,DE,07422,,,,,,,,,,,,,,,,,"Einsetzbar (deployable)",,2022-06-07,,"2022-05-29 10:59:20","2022-06-07 09:52:34",,,,https://ams.bdp-th.de/hardware/29,,,,,,
+30,"LV Thüringen","Chemoplane Rechteckig",#00002,Chemoplane,CHP,Abdeckplanen,,,,,,,,,0.00,,,,Schrank,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Einsetzbar (deployable)",,2022-09-20,,"2022-05-29 11:15:47","2022-11-10 12:03:14",,,,https://ams.bdp-th.de/hardware/30,,,400,500,,
+31,"LV Thüringen","Chemoplane Rechteckig",#00003,Chemoplane,CHP,Abdeckplanen,,,,,,,,,0.00,,,,Schrank,,,,,,,"Schuppen 2","Jugendherberge 1",,"Bad Blankenburg",Thüringen,DE,07422,,,,,,,,,,,,,,,,,"Mangelhaft (deployable)",,2022-09-20,,"2022-05-29 11:17:35","2022-11-10 12:04:18",,,,https://ams.bdp-th.de/hardware/31,,,300,200,,
+32,"LV Thüringen","Chemoplane Rechteckig",#00004,Chemoplane,CHP,Abdeckplanen,,,,,,,,,0.00,,,,Schrank,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Mangelhaft (deployable)",,2022-09-20,,"2022-05-29 11:18:50","2022-11-10 12:02:38",,,,https://ams.bdp-th.de/hardware/32,,,500,400,,
+33,"LV Thüringen",Jurtendach,#00005,"Jurtendach 610 cm",JUD,Zeltplane,Bundeskämmerei,,,,,,,,0.00,,,,Garage,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Kaputt (deployable)",,2022-08-23,,"2022-05-29 11:20:18","2022-08-23 17:04:59",,,,https://ams.bdp-th.de/hardware/33,,,,,,
+34,"LV Thüringen","Kiste für Reperatur",#00187,Blechkiste,BLK,Container,,,,,,,,,0.00,,,,"Schuppen 2","Jugendherberge 1",,"Bad Blankenburg",Thüringen,DE,07422,"Schuppen 2","Jugendherberge 1",,"Bad Blankenburg",Thüringen,DE,07422,,,,,,,,,,,,,,,,,"Einsetzbar (deployable)",,,,"2022-05-29 11:21:49","2022-05-29 11:22:41",,,,https://ams.bdp-th.de/hardware/34,,,,,,
+35,"LV Thüringen",Jurtendach,#00006,"Jurtendach 610 cm",JUD,Zeltplane,Bundeskämmerei,,,,,,,,0.00,,,,"Kiste #00174",,,,,,,"Kiste #00174",,,,,,,,,,,,,,,,,,,,,,,"Einsetzbar (deployable)",,2023-04-07,,"2022-05-29 11:26:32","2024-06-19 11:27:12",,,,https://ams.bdp-th.de/hardware/35,,,,,,
+36,"LV Thüringen","Doppelte Seitenplane",#00007,"Doppelzeltbahn ",DSP,Zeltplane,,12051323,2003-05-01,,2003-05-01,,,,0.00,,,Tortuga,"Schuppen 1","Jugendherberge 1",,"Bad Blankenburg",Thüringen,DE,07422,R1.1.unten,,,,,,,,,,,,,,,,,,,,,,,"muss bearbeitet werden (deployable)",,2024-05-15,,"2022-05-29 11:29:16","2024-05-15 09:02:02",,,,https://ams.bdp-th.de/hardware/36,,,,,,
+37,"LV Thüringen","Jurtenplane Standart",#00008,Viereckzeltbahn,JPS,Zeltplane,Bundeskämmerei,,,,,,,,0.00,,,,"Regal 5 Ebene 2",,,,,,,"Regal 5 Ebene 2",,,,,,,,,,,,,,,,,,,,,,,"Einsetzbar (deployable)",,,,"2022-05-29 11:31:45","2024-04-26 13:12:32",,,,https://ams.bdp-th.de/hardware/37,,,,150,,
+38,"LV Thüringen","Jurtenplane Standart",#00009,Viereckzeltbahn,JPS,Zeltplane,Bundeskämmerei,,,,,,,,0.00,,,,"Regal 5 Ebene 2",,,,,,,"Regal 5 Ebene 2",,,,,,,,,,,,,,,,,,,,,,,"Einsetzbar (deployable)",,2023-04-05,,"2022-05-29 11:33:55","2024-04-26 13:13:02",,,,https://ams.bdp-th.de/hardware/38,,,,150,,
+39,"LV Thüringen","Doppelte Seitenplane",#00010,"Doppelzeltbahn ",DSP,Zeltplane,,45000214,2003-05-01,,2003-05-01,,,,0.00,,,Stromeyer,"Regal 5 Ebene 3",,,,,,,"Regal 5 Ebene 3",,,,,,,,,,,,,,,,,,,,,,,"Einsetzbar (deployable)","2024-05-15 08:55:32",2024-05-24,,"2022-05-29 11:34:34","2024-05-24 13:35:02",,,,https://ams.bdp-th.de/hardware/39,,,,,,
+40,"LV Thüringen","Jurtenplane Standart",#00011,Viereckzeltbahn,JPS,Zeltplane,Bundeskämmerei,,,,,,,,0.00,,,,"Regal 5 Ebene 2",,,,,,,"Regal 5 Ebene 2",,,,,,,,,,,,,,,,,,,,,,,"Einsetzbar (deployable)",,2024-04-26,,"2022-05-29 11:38:28","2024-04-26 13:15:19",,,,https://ams.bdp-th.de/hardware/40,,,,150,,
+41,"LV Thüringen","Doppelte Seitenplane",#00012,"Doppelzeltbahn ",DSP,Zeltplane,,,2003-05-01,,2003-05-01,,,,0.00,,,,"Regal 5 Ebene 3",,,,,,,"Regal 5 Ebene 3",,,,,,,,,,,,,,,,,,,,,,,"Verdreckt (deployable)",,2023-04-05,,"2022-05-29 11:45:18","2024-04-26 13:14:32",,,,https://ams.bdp-th.de/hardware/41,,,,,,
+42,"LV Thüringen","Doppelte Seitenplane",#00013,"Doppelzeltbahn ",DSP,Zeltplane,,,2003-05-01,,2003-05-01,,,,0.00,,,,"Regal 5 Ebene 3",,,,,,,"Regal 5 Ebene 3",,,,,,,,,,,,,,,,,,,,,,,"benötigt Reparatur (deployable)",,,,"2022-05-29 11:46:29","2024-04-26 13:15:42",,,,https://ams.bdp-th.de/hardware/42,,,,150,,
+43,"LV Thüringen","Super Doppelzeltbahn XL",#00014,"Super-Doppelzeltbahn XL",DSH,Zeltplane,,,,,,,,,0.00,,,Tortuga,"Kiste #00174",,,,,,,"Kiste #00174",,,,,,,,,,,,,,,,,,,,,,,"Einsetzbar (deployable)","2024-05-15 08:55:32",2024-05-24,,"2022-05-29 11:48:38","2024-06-19 11:27:45",,,,https://ams.bdp-th.de/hardware/43,,,,190,,
+44,"LV Thüringen","Doppelte Seitenplane",#00015,"Doppelzeltbahn ",DSP,Zeltplane,,,2003-05-01,,2003-05-01,,,,0.00,,,,"Regal 5 Ebene 3",,,,,,,"Regal 5 Ebene 3",,,,,,,,,,,,,,,,,,,,,,,"benötigt Reparatur (deployable)",,,,"2022-05-29 11:50:10","2024-05-09 15:11:07",,,,https://ams.bdp-th.de/hardware/44,,,,,,
+45,"LV Thüringen","Doppelte Seitenplane",#00016,"Doppelzeltbahn ",DSP,Zeltplane,,,2003-05-01,,2003-05-01,,,,0.00,,,,"Regal 5 Ebene 3",,,,,,,"Regal 5 Ebene 3",,,,,,,,,,,,,,,,,,,,,,,"Einsetzbar (deployable)",,2023-04-05,,"2022-05-29 11:50:39","2024-05-09 15:11:29",,,,https://ams.bdp-th.de/hardware/45,,,,150,,
+46,"LV Thüringen","Jurtenplane Standart",#00017,Viereckzeltbahn,JPS,Zeltplane,Bundeskämmerei,,,,,,,,0.00,,,,"Regal 5 Ebene 2",,,,,,,"Regal 5 Ebene 2",,,,,,,,,,,,,,,,,,,,,,,"Einsetzbar (deployable)",,2023-04-05,,"2022-05-29 11:51:14","2024-05-09 15:11:54",,,,https://ams.bdp-th.de/hardware/46,,,,150,,
+47,"LV Thüringen","Jurtenplane Standart",#00018,Viereckzeltbahn,JPS,Zeltplane,Bundeskämmerei,,,,,,,,0.00,,,,"Regal 5 Ebene 2",,,,,,,"Regal 5 Ebene 2",,,,,,,,,,,,,,,,,,,,,,,"Einsetzbar (deployable)",,,,"2022-05-29 11:51:35","2024-05-09 15:12:17",,,,https://ams.bdp-th.de/hardware/47,,,,150,,
+48,"LV Thüringen","Jurtenplane Standart",#00019,Viereckzeltbahn,JPS,Zeltplane,Bundeskämmerei,,,,,,,,0.00,,,,"Regal 5 Ebene 2",,,,,,,"Regal 5 Ebene 2",,,,,,,,,,,,,,,,,,,,,,,"Einsetzbar (deployable)",,,,"2022-05-29 11:51:35","2024-05-09 15:12:32",,,,https://ams.bdp-th.de/hardware/48,,,,150,,
+49,"LV Thüringen","Doppelte Seitenplane",#00020,"Doppelzeltbahn ",DSP,Zeltplane,,,2003-05-01,,2003-05-01,,,,0.00,,,,"Regal 5 Ebene 3",,,,,,,"Regal 5 Ebene 3",,,,,,,,,,,,,,,,,,,,,,,"Einsetzbar (deployable)",,,,"2022-05-29 11:51:59","2024-05-09 15:12:50",,,,https://ams.bdp-th.de/hardware/49,,,,150,,
+50,"LV Thüringen","Jurtenplane Standart",#00021,Viereckzeltbahn,JPS,Zeltplane,Bundeskämmerei,45000212,,,,,,,0.00,,,Stromeyer,"Regal 5 Ebene 2",,,,,,,"Regal 5 Ebene 2",,,,,,,,,,,,,,,,,,,,,,,"Verdreckt (deployable)",,,,"2022-05-29 11:52:38","2024-05-09 15:13:07",,,,https://ams.bdp-th.de/hardware/50,,,,150,,
+51,"LV Thüringen","Jurtenplane Standart",#00022,Viereckzeltbahn,JPS,Zeltplane,Bundeskämmerei,,,,,,,,0.00,,,,"Regal 5 Ebene 2",,,,,,,"Regal 5 Ebene 2",,,,,,,,,,,,,,,,,,,,,,,"Einsetzbar (deployable)",,2023-04-05,,"2022-05-29 11:55:55","2024-05-09 15:13:34",,,,https://ams.bdp-th.de/hardware/51,,,,150,,
+52,"LV Thüringen","Doppelte Seitenplane",#00023,"Doppelzeltbahn ",DSP,Zeltplane,,,2003-05-01,,2003-05-01,,,,0.00,,,,"Kiste #00130",,,,,,,"Kiste #00130",,,,,,,,,,,,,,,,,,,,,,,"Einsetzbar (deployable)",,2023-04-07,,"2022-05-29 11:56:17","2023-04-07 11:59:59",,,,https://ams.bdp-th.de/hardware/52,,,,150,,
+53,"LV Thüringen","Doppelte Seitenplane",#00024,"Doppelzeltbahn ",DSP,Zeltplane,,,2003-05-01,,2003-05-01,,,,0.00,,,,"Regal 5 Ebene 3",,,,,,,"Regal 5 Ebene 3",,,,,,,,,,,,,,,,,,,,,,,"Einsetzbar (deployable)",,2022-09-20,,"2022-05-29 11:56:36","2024-06-19 11:15:05",,,,https://ams.bdp-th.de/hardware/53,,,,150,,
+54,"LV Thüringen","Doppelte Seitenplane",#00025,"Doppelzeltbahn ",DSP,Zeltplane,,,2003-05-01,,2003-05-01,,,,0.00,,,,"Regal 5 Ebene 3",,,,,,,R1.1.unten,,,,,,,,,,,,,,,,,,,,,,,"Einsetzbar (deployable)",,2024-05-09,,"2022-05-29 11:56:36","2024-05-09 15:14:07",,,,https://ams.bdp-th.de/hardware/54,,,,150,,
+55,"LV Thüringen","Kiste für Reperatur",#00179,Blechkiste,BLK,Container,,,,,,,,,0.00,,,,"Schuppen 2","Jugendherberge 1",,"Bad Blankenburg",Thüringen,DE,07422,"Schuppen 2","Jugendherberge 1",,"Bad Blankenburg",Thüringen,DE,07422,,,,,,,,,,,,,,,,,"Einsetzbar (deployable)",,,,"2022-05-29 11:57:31","2022-05-29 11:57:31",,,,https://ams.bdp-th.de/hardware/55,,,,,,
+56,"LV Thüringen","Kothenplane Hochkothe",#00026,"Kothenplane für Hochkothe (S45/59)",KPH,Zeltplane,Tortuga,,,,,,,,0.00,,,,"Kiste #00179",,,,,,,"Kiste #00179",,,,,,,,,,,,,,,,,,,,,,,"benötigt Reparatur (deployable)",,2023-04-07,,"2022-05-29 11:59:47","2023-04-07 11:59:59",,,,https://ams.bdp-th.de/hardware/56,,,,,,
+57,"LV Thüringen","Doppelte Seitenplane",#00027,"Doppelzeltbahn ",DSP,Zeltplane,,,2003-05-01,,2003-05-01,,,,0.00,,,,"Regal 5 Ebene 3",,,,,,,"Regal 5 Ebene 3",,,,,,,,,,,,,,,,,,,,,,,"Einsetzbar (deployable)",,,,"2022-05-29 12:01:14","2024-05-09 15:15:10",,,,https://ams.bdp-th.de/hardware/57,,,,150,,
+58,"LV Thüringen","Jurtenplane Standart",#00028,Viereckzeltbahn,JPS,Zeltplane,Bundeskämmerei,,,,,,,,0.00,,,,"Regal 5 Ebene 2",,,,,,,"Regal 5 Ebene 2",,,,,,,,,,,,,,,,,,,,,,,"Einsetzbar (deployable)",,2023-04-05,,"2022-05-29 12:01:53","2024-05-09 15:15:34",,,,https://ams.bdp-th.de/hardware/58,,,,150,,
+59,"LV Thüringen","Super Doppelzeltbahn XL",#00029,"Super-Doppelzeltbahn XL",DSH,Zeltplane,,,,,,,,,0.00,,,,"Kiste #00174",,,,,,,"Kiste #00174",,,,,,,,,,,,,,,,,,,,,,,"Einsetzbar (deployable)","2024-05-15 08:55:32",2024-05-24,,"2022-05-29 12:02:28","2024-06-19 11:27:45",,,,https://ams.bdp-th.de/hardware/59,,,,190,,
+60,"LV Thüringen","Jurtenplane Standart",#00030,Viereckzeltbahn,JPS,Zeltplane,Bundeskämmerei,,,,,,,,0.00,,,,"Regal 5 Ebene 2",,,,,,,"Regal 5 Ebene 2",,,,,,,,,,,,,,,,,,,,,,,"Einsetzbar (deployable)",,,,"2022-05-29 12:03:04","2024-05-09 15:16:20",,,,https://ams.bdp-th.de/hardware/60,,,,150,,
+61,"LV Thüringen","Doppelte Seitenplane",#00031,"Doppelzeltbahn ",DSP,Zeltplane,,,2003-05-01,,2003-05-01,,,,0.00,,,,"Regal 5 Ebene 3",,,,,,,R.1.2.unten,,,,,,,,,,,,,,,,,,,,,,,"Einsetzbar (deployable)",,2024-05-09,,"2022-05-29 12:04:09","2024-05-09 15:16:35",,,,https://ams.bdp-th.de/hardware/61,,,,150,,
+62,"LV Thüringen",Jurtenabdeckplane,#00032,"Jurtenabdeckplane (Opi)",JAP,Zeltplane,Bundeskämmerei,,,,,,,,0.00,,,Stromeyer,"Kiste #00187",,,,,,,"Kiste #00187",,,,,,,,,,,,,,,,,,,,,,,"Kaputt (deployable)",,2023-04-07,,"2022-05-29 12:05:39","2023-04-07 11:59:59",,,,https://ams.bdp-th.de/hardware/62,,,,,,
+63,"LV Thüringen","Doppelte Seitenplane",#00033,"Doppelzeltbahn ",DSP,Zeltplane,,,2003-05-01,,2003-05-01,,,,0.00,,,,"Regal 5 Ebene 3",,,,,,,"Regal 5 Ebene 3",,,,,,,,,,,,,,,,,,,,,,,"Einsetzbar (deployable)",,2023-04-07,,"2022-05-29 12:06:29","2024-06-19 11:15:33",,,,https://ams.bdp-th.de/hardware/63,,,,150,,
+64,"LV Thüringen","Doppelte Seitenplane",#00034,"Doppelzeltbahn ",DSP,Zeltplane,,,2003-05-01,,2003-05-01,,,,0.00,,,,"Regal 5 Ebene 3",,,,,,,"Regal 5 Ebene 3",,,,,,,,,,,,,,,,,,,,,,,"Einsetzbar (deployable)",,2023-04-05,,"2022-05-29 12:06:29","2024-05-09 15:17:06",,,,https://ams.bdp-th.de/hardware/64,,,,150,,
+65,"LV Thüringen","Doppelte Seitenplane",#00035,"Doppelzeltbahn ",DSP,Zeltplane,,,2003-05-01,,2003-05-01,,,,0.00,,,,"Regal 5 Ebene 3",,,,,,,"Regal 5 Ebene 3",,,,,,,,,,,,,,,,,,,,,,,"Verdreckt (deployable)",,2023-04-05,,"2022-05-29 12:06:30","2024-05-09 15:17:26",,,,https://ams.bdp-th.de/hardware/65,,,,150,,
+66,"LV Thüringen","Chemoplane Rund",#00036,Chemoplane,CHP,Abdeckplanen,,,,,,,,,0.00,,,,"Kiste #00175",,,,,,,"Kiste #00175",,,,,,,,,,,,,,,,,,,,,,,"Mangelhaft (deployable)",,2023-04-07,,"2022-05-29 12:09:21","2023-04-07 11:59:58",,,,https://ams.bdp-th.de/hardware/66,,,,,,600
+67,"LV Thüringen","Kothe mit Erdstreifen (S20/53)",#00175,Holzkiste,HOK,Container,Bundeskämmerei,,,,,,,,0.00,,,,"Schuppen 2 Regal 1",,,,,,,"Schuppen 2 Regal 1",,,,,,,,,,,,,,,,,,,,,,,"Einsetzbar (deployable)",,,,"2022-05-29 12:11:05","2022-06-02 20:07:26",,,,https://ams.bdp-th.de/hardware/67,,,40,50,40,
+68,"LV Thüringen","Halbes Jurtendach",#00037,"Halbes Jurtendach",HJD,Zeltplane,,,,,,,,,0.00,,,,"Regal 5 Ebene 1",,,,,,,"Regal 5 Ebene 1",,,,,,,,,,,,,,,,,,,,,,,"benötigt Reparatur (deployable)",,,,"2022-05-29 12:13:24","2024-05-09 15:17:45",,,,https://ams.bdp-th.de/hardware/68,,,,,,
+69,"LV Thüringen","Halbes Jurtendach",#00038,"Halbes Jurtendach",HJD,Zeltplane,,,,,,,,,0.00,,,,R.2.2.oben,,,,,,,R.2.2.oben,,,,,,,,,,,,,,,,,,,,,,,"Einsetzbar (deployable)","2026-04-20 16:03:44",2026-04-26,,"2022-05-29 12:14:08","2026-04-26 15:50:13",,,,https://ams.bdp-th.de/hardware/69,,,,,,
+70,"LV Thüringen",Jurtendach,#00039,"Jurtendach 610 cm",JUD,Zeltplane,Bundeskämmerei,,,,,,,,0.00,,,,"Regal 5 Ebene 4",,,,,,,"Regal 5 Ebene 4",,,,,,,,,,,,,,,,,,,,,,,"muss bearbeitet werden (deployable)",,2022-07-27,,"2022-05-29 12:15:04","2024-05-09 15:18:30",,,,https://ams.bdp-th.de/hardware/70,,,,,,
+71,"LV Thüringen","Super Doppelzeltbahn XL",#00040,"Super-Doppelzeltbahn XL",DSH,Zeltplane,,,,,,,,,0.00,,,Tortuga,"Kiste #00174",,,,,,,"Kiste #00174",,,,,,,,,,,,,,,,,,,,,,,"Einsetzbar (deployable)","2024-05-15 08:55:32",2024-05-24,,"2022-05-29 12:16:52","2024-06-19 11:27:45",,,,https://ams.bdp-th.de/hardware/71,,,,190,,
+72,"LV Thüringen","Super Doppelzeltbahn XL",#00041,"Super-Doppelzeltbahn XL",DSH,Zeltplane,,,,,,,,,0.00,,,Tortuga,"Kiste #00174",,,,,,,"Kiste #00174",,,,,,,,,,,,,,,,,,,,,,,"Einsetzbar (deployable)","2024-05-15 08:55:32",2024-05-24,,"2022-05-29 12:16:53","2024-06-19 11:27:45",,,,https://ams.bdp-th.de/hardware/72,,,,190,,
+73,"LV Thüringen","Super Doppelzeltbahn XL",#00042,"Super-Doppelzeltbahn XL",DSH,Zeltplane,,,,,,,,,0.00,,,Tortuga,"Kiste #00174",,,,,,,"Kiste #00174",,,,,,,,,,,,,,,,,,,,,,,"Einsetzbar (deployable)","2024-05-15 08:55:32",2024-05-24,,"2022-05-29 12:16:54","2024-06-19 11:27:45",,,,https://ams.bdp-th.de/hardware/73,,,,190,,
+74,"LV Thüringen","Super Doppelzeltbahn XL",#00043,"Super-Doppelzeltbahn XL",DSH,Zeltplane,,,,,,,,,0.00,,,Tortuga,"Kiste #00174",,,,,,,"Kiste #00174",,,,,,,,,,,,,,,,,,,,,,,"Einsetzbar (deployable)","2024-05-15 08:55:32",2024-05-24,,"2022-05-29 12:16:55","2024-06-19 11:27:45",,,,https://ams.bdp-th.de/hardware/74,,,,190,,
+75,"LV Thüringen","Sack für Aufenthaltsdach (TARP)",#00044,Sack,SAC,Container,,,,,,,,,0.00,,,Tortuga,"Regal 4 Ebene 4",,,,,,,"Schuppen 2","Jugendherberge 1",,"Bad Blankenburg",Thüringen,DE,07422,,,,,,,,,,,,,,,,,"Einsetzbar (deployable)",,2024-05-15,,"2022-05-29 12:18:45","2024-05-15 09:02:55",,,,https://ams.bdp-th.de/hardware/75,,,,,,
+76,"LV Thüringen","Aufenthaltsdach 400x500",#00045,Tarp,TRP,Zeltplane,,,,,,,,,0.00,,,,"Regal 4 Ebene 4",,,,,,,"Regal 4 Ebene 4",,,,,,,,,,,,,,,,,,,,,,,"Einsetzbar (deployable)",,2024-05-15,,"2022-05-29 12:21:07","2024-05-15 09:02:45",,,,https://ams.bdp-th.de/hardware/76,,,400,500,,
+77,"LV Thüringen",Armeeplane,#00046,Armeeplane,AMP,Abdeckplanen,,,,,,,,,0.00,,,,"Kiste #00001",,,,,,,"Kiste #00001",,,,,,,,,,,,,,,,,,,,,,,"muss bearbeitet werden (deployable)",,2023-04-07,,"2022-05-29 12:23:24","2023-04-07 11:59:58",,,,https://ams.bdp-th.de/hardware/77,,,,,,
+78,"LV Thüringen",Armeeplane,#00047,Armeeplane,AMP,Abdeckplanen,,,,,,,,,0.00,,,,"Kiste #00131",,,,,,,"Kiste #00131",,,,,,,,,,,,,,,,,,,,,,,"muss bearbeitet werden (deployable)",,2023-04-07,,"2022-05-29 12:23:33","2023-04-07 11:59:58",,,,https://ams.bdp-th.de/hardware/78,,,,,,
+79,"LV Thüringen",Armeeponcho,#00048,Poncho,PON,Abdeckplanen,,,,,,,,,0.00,,,,"Kiste #00001",,,,,,,"Kiste #00001",,,,,,,,,,,,,,,,,,,,,,,"muss bearbeitet werden (deployable)",,2023-04-07,,"2022-05-29 12:27:37","2023-04-07 11:59:58",,,,https://ams.bdp-th.de/hardware/79,,,,,,
+80,"LV Thüringen","Gitter für Jurte",#00049,"Gitter für Jurte",JPG,Zeltplane,Bundeskämmerei,,,,,,,,0.00,,,,"Regal 4 Ebene 4",,,,,,,"Regal 4 Ebene 4",,,,,,,,,,,,,,,,,,,,,,,"Einsetzbar (deployable)",,,,"2022-05-29 12:28:31","2024-05-09 15:21:05",,,,https://ams.bdp-th.de/hardware/80,,,,,,
+81,"LV Thüringen",Sack,#00050,Sack,SAC,Container,,,,,,,,,0.00,,,,R.3.1,,,,,,,R.3.1,,,,,,,,,,,,,,,,,,,,,,,"Leer (deployable)",,,,"2022-05-29 12:29:36","2022-05-29 12:29:36",,,,https://ams.bdp-th.de/hardware/81,,,,,,
+82,"LV Thüringen",Sackkiste,#00254,Holzkiste,HOK,Container,Bundeskämmerei,,,,,,,,0.00,,,,R.3.1,,,,,,,R.3.1,,,,,,,,,,,,,,,,,,,,,,,"Einsetzbar (deployable)",,,,"2022-05-29 12:31:50","2022-05-29 12:31:50",,,,https://ams.bdp-th.de/hardware/82,,,,,,
+83,"LV Thüringen",Sack,#00051,Sack,SAC,Container,,,,,,,,,0.00,,,,"Kiste #00254",,,,,,,"Kiste #00254",,,,,,,,,,,,,,,,,,,,,,,"Leer (deployable)",,2023-04-07,,"2022-05-29 12:33:01","2023-04-07 11:59:58",,,,https://ams.bdp-th.de/hardware/83,,,,,,
+84,"LV Thüringen",Sack,#00052,Sack,SAC,Container,,,,,,,,,0.00,,,,"Kiste #00254",,,,,,,"Kiste #00254",,,,,,,,,,,,,,,,,,,,,,,"Leer (deployable)",,2023-04-07,,"2022-05-29 12:33:01","2023-04-07 11:59:58",,,,https://ams.bdp-th.de/hardware/84,,,,,,
+85,"LV Thüringen",Sack,#00053,Sack,SAC,Container,,,,,,,,,0.00,,,,"Kiste #00254",,,,,,,"Kiste #00254",,,,,,,,,,,,,,,,,,,,,,,"Leer (deployable)",,2023-04-07,,"2022-05-29 12:33:02","2023-04-07 11:59:57",,,,https://ams.bdp-th.de/hardware/85,,,,,,
+86,"LV Thüringen",Sack,#00054,Sack,SAC,Container,,,,,,,,,0.00,,,,"Kiste #00254",,,,,,,"Kiste #00254",,,,,,,,,,,,,,,,,,,,,,,"Leer (deployable)",,2023-04-07,,"2022-05-29 12:33:02","2023-04-07 11:59:57",,,,https://ams.bdp-th.de/hardware/86,,,,,,
+87,"LV Thüringen",Sack,#00055,Sack,SAC,Container,,,,,,,,,0.00,,,,"Kiste #00254",,,,,,,"Kiste #00254",,,,,,,,,,,,,,,,,,,,,,,"Leer (deployable)",,2023-04-07,,"2022-05-29 12:33:02","2023-04-07 11:59:57",,,,https://ams.bdp-th.de/hardware/87,,,,,,
+88,"LV Thüringen","Halbes Jurtendach",#00056,"Halbes Jurtendach",HJD,Zeltplane,,,,,,,,,0.00,,,,"Regal 5 Ebene 4",,,,,,,"Regal 5 Ebene 4",,,,,,,,,,,,,,,,,,,,,,,"Einsetzbar (deployable)","2026-04-20 16:04:11",2026-04-26,,"2022-05-29 12:34:03","2026-04-26 15:50:22",,,,https://ams.bdp-th.de/hardware/88,,,,,,
+89,"LV Thüringen","Halbes Jurtendach",#00057,"Halbes Jurtendach",HJD,Zeltplane,,,,,,,,,0.00,,,,"Kiste #00130",,,,,,,"Kiste #00130",,,,,,,,,,,,,,,,,,,,,,,"Einsetzbar (deployable)",,2022-09-20,,"2022-05-29 12:34:31","2024-06-19 11:14:05",,,,https://ams.bdp-th.de/hardware/89,,,,,,
+90,"LV Thüringen",Sack,#00058,Sack,SAC,Container,,,,,,,,,0.00,,,,"Kiste #00254",,,,,,,"Kiste #00254",,,,,,,,,,,,,,,,,,,,,,,"Leer (deployable)",,2023-04-07,,"2022-05-31 19:01:16","2023-04-07 11:59:57",,,,https://ams.bdp-th.de/hardware/90,,,,,,
+91,"LV Thüringen",Sack,#00059,Sack,SAC,Container,,,,,,,,,0.00,,,,"Kiste #00254",,,,,,,"Kiste #00254",,,,,,,,,,,,,,,,,,,,,,,"Leer (deployable)",,2023-04-07,,"2022-05-31 19:01:16","2023-04-07 11:59:57",,,,https://ams.bdp-th.de/hardware/91,,,,,,
+92,"LV Thüringen",Sack,#00060,Sack,SAC,Container,,,,,,,,,0.00,,,,"Kiste #00254",,,,,,,"Kiste #00254",,,,,,,,,,,,,,,,,,,,,,,"Leer (deployable)",,2023-04-07,,"2022-05-31 19:01:17","2023-04-07 11:59:57",,,,https://ams.bdp-th.de/hardware/92,,,,,,
+93,"LV Thüringen",Kothenplanen,#00222,Holzkiste,HOK,Container,Bundeskämmerei,,,,,,,,0.00,,,,"Regal 6 Ebene 1",,,,,,,"Regal 6 Ebene 1",,,,,,,,,,,,,,,,,,,,,,,"Einsetzbar (deployable)",,,,"2022-05-31 19:05:23","2024-05-09 15:43:11",,,,https://ams.bdp-th.de/hardware/93,,,,,,
+94,"LV Thüringen","Kothenplane mit Erdstreifen",#00061,"Kothenplane mit Erdstreifen (S20/53)",KPE,Zeltplane,Tortuga,,,,,,,,0.00,,,Tortuga,"Regal 4 Ebene 3",,,,,,,"Regal 4 Ebene 3",,,,,,,,,,,,,,,,,,,,,,,"Einsetzbar (deployable)",,2023-04-07,,"2022-05-31 19:07:07","2024-05-09 15:21:57",,,,https://ams.bdp-th.de/hardware/94,,,,,,
+95,"LV Thüringen",Sack,#00062,Sack,SAC,Container,,,,,,,,,0.00,,,,"Kiste #00254",,,,,,,"Kiste #00254",,,,,,,,,,,,,,,,,,,,,,,"Leer (deployable)",,2023-04-07,,"2022-05-31 19:07:39","2023-04-07 11:59:56",,,,https://ams.bdp-th.de/hardware/95,,,,,,
+96,"LV Thüringen",Sack,#00063,Sack,SAC,Container,,,,,,,,,0.00,,,,"Kiste #00254",,,,,,,"Kiste #00254",,,,,,,,,,,,,,,,,,,,,,,"Leer (deployable)",,2023-04-07,,"2022-05-31 19:07:39","2023-04-07 11:59:57",,,,https://ams.bdp-th.de/hardware/96,,,,,,
+97,"LV Thüringen","Kothenplane Hochkothe",#00064,"Kothenplane für Hochkothe (S45/59)",KPH,Zeltplane,Tortuga,10010045,2003-05-01,,2003-05-01,,,,0.00,,,Tortuga,"Regal 4 Ebene 2",,,,,,,"Regal 4 Ebene 2",,,,,,,,,,,,,,,,,,,,,,,"Einsetzbar (deployable)",,2023-04-07,,"2022-05-31 19:10:21","2024-05-09 15:22:13",,,,https://ams.bdp-th.de/hardware/97,,,,,,
+98,"LV Thüringen",Sack,#00065,Sack,SAC,Container,,,,,,,,,0.00,,,,"Kiste #00254",,,,,,,"Kiste #00254",,,,,,,,,,,,,,,,,,,,,,,"Leer (deployable)",,2023-04-07,,"2022-05-31 19:10:52","2023-04-07 11:59:56",,,,https://ams.bdp-th.de/hardware/98,,,,,,
+99,"LV Thüringen",Sack,#00066,Sack,SAC,Container,,,,,,,,,0.00,,,,"Kiste #00254",,,,,,,"Kiste #00254",,,,,,,,,,,,,,,,,,,,,,,"Leer (deployable)",,2023-04-07,,"2022-05-31 19:10:53","2023-04-07 11:59:56",,,,https://ams.bdp-th.de/hardware/99,,,,,,
+100,"LV Thüringen","Jurtenkiste 190 cm",#00174,Holzkiste,HOK,Container,Bundeskämmerei,,,,,,,,0.00,,,,"Schuppen 2 Regal 1",,,,,,,"Schuppen 2 Regal 1",,,,,,,,,,,,,,,,,,,,,,,"Einsetzbar (deployable)",,,,"2022-05-31 19:11:28","2024-06-19 11:28:45",,,,https://ams.bdp-th.de/hardware/100,,,85,45,40,
+101,"LV Thüringen","Kothenplane Hochkothe",#00067,"Kothenplane für Hochkothe (S45/59)",KPH,Zeltplane,Tortuga,,2003-05-01,,2003-05-01,,,,0.00,,,Tortuga,"Regal 4 Ebene 2",,,,,,,"Regal 4 Ebene 2",,,,,,,,,,,,,,,,,,,,,,,"Einsetzbar (deployable)","2025-08-22 00:00:00",2026-01-06,,"2022-05-31 19:13:09","2026-01-06 15:13:27",,,,https://ams.bdp-th.de/hardware/101,,,,,,
+104,"LV Thüringen",Sack,#00068,Sack,SAC,Container,,,,,,,,,0.00,,,,"Kiste #00254",,,,,,,"Kiste #00254",,,,,,,,,,,,,,,,,,,,,,,"Leer (deployable)",,2023-04-07,,"2022-05-31 19:14:49","2023-04-07 11:59:56",,,,https://ams.bdp-th.de/hardware/104,,,,,,
+105,"LV Thüringen",Sack,#00069,Sack,SAC,Container,,,,,,,,,0.00,,,,"Kiste #00254",,,,,,,"Kiste #00254",,,,,,,,,,,,,,,,,,,,,,,"Leer (deployable)",,2023-04-07,,"2022-05-31 19:14:49","2023-04-07 11:59:56",,,,https://ams.bdp-th.de/hardware/105,,,,,,
+106,"LV Thüringen","Kothenplane mit Erdstreifen",#00070,"Kothenplane mit Erdstreifen (S20/53)",KPE,Zeltplane,Tortuga,,,,,,,,0.00,,,Tortuga,"Regal 4 Ebene 3",,,,,,,"Regal 4 Ebene 3",,,,,,,,,,,,,,,,,,,,,,,"Einsetzbar (deployable)",,2023-04-07,,"2022-05-31 19:16:09","2024-05-09 15:22:46",,,,https://ams.bdp-th.de/hardware/106,,,,,,
+107,"LV Thüringen",Sack,#00071,Sack,SAC,Container,,,,,,,,,0.00,,,,"Kiste #00254",,,,,,,"Kiste #00254",,,,,,,,,,,,,,,,,,,,,,,"Leer (deployable)",,2023-04-07,,"2022-05-31 19:16:35","2023-04-07 11:59:55",,,,https://ams.bdp-th.de/hardware/107,,,,,,
+108,"LV Thüringen","Kiste Jurtenabdeckplanen (Obi)",#00177,Holzkiste,HOK,Container,Bundeskämmerei,,,,,,,,0.00,,,,"Schuppen 2","Jugendherberge 1",,"Bad Blankenburg",Thüringen,DE,07422,"Schuppen 2","Jugendherberge 1",,"Bad Blankenburg",Thüringen,DE,07422,,,,,,,,,,,,,,,,,"Einsetzbar (deployable)",,,,"2022-05-31 19:18:24","2022-05-31 19:18:24",,,,https://ams.bdp-th.de/hardware/108,,,70,50,25,
+109,"LV Thüringen",Jurtenabdeckplane,#00072,"Jurtenabdeckplane (Opi)",JAP,Zeltplane,Bundeskämmerei,,,,,,,,0.00,,,,"Kiste #00177",,,,,,,"Kiste #00177",,,,,,,,,,,,,,,,,,,,,,,"Einsetzbar (deployable)",,2023-04-07,,"2022-05-31 19:19:35","2023-04-07 11:59:55",,,,https://ams.bdp-th.de/hardware/109,,,,,,
+110,"LV Thüringen",Jurtenabdeckplane,#00073,"Jurtenabdeckplane (Opi)",JAP,Zeltplane,Bundeskämmerei,,,,,,,,0.00,,,,"Regal 5 Ebene 4",,,,,,,"Regal 5 Ebene 4",,,,,,,,,,,,,,,,,,,,,,,"Einsetzbar (deployable)","2024-05-15 08:55:32",2024-05-24,,"2022-05-31 19:20:06","2024-05-24 13:35:51",,,,https://ams.bdp-th.de/hardware/110,,,,,,
+111,"LV Thüringen",Jurtenabdeckplane,#00074,"Jurtenabdeckplane (Opi)",JAP,Zeltplane,Bundeskämmerei,,,,,,,,0.00,,,,"Kiste #00177",,,,,,,"Kiste #00177",,,,,,,,,,,,,,,,,,,,,,,"Einsetzbar (deployable)",,2023-04-07,,"2022-05-31 19:20:07","2023-04-07 11:59:55",,,,https://ams.bdp-th.de/hardware/111,,,,,,
+112,"LV Thüringen","Jurtenplane Standart",#00075,Viereckzeltbahn,JPS,Zeltplane,Bundeskämmerei,,,,,,,,0.00,,,,"Regal 5 Ebene 2",,,,,,,R.1.2.oben,,,,,,,,,,,,,,,,,,,,,,,"Verdreckt (deployable)",,2024-05-09,,"2022-05-31 19:21:10","2024-05-09 15:23:16",,,,https://ams.bdp-th.de/hardware/112,,,,150,,
+113,"LV Thüringen","Halbes Jurtendach",#00076,"Halbes Jurtendach",HJD,Zeltplane,,,,,,,,,0.00,,,,"Kiste #00130",,,,,,,"Kiste #00130",,,,,,,,,,,,,,,,,,,,,,,"Einsetzbar (deployable)",,,,"2022-05-31 19:21:50","2024-06-19 11:16:24",,,,https://ams.bdp-th.de/hardware/113,,,,,,
+114,"LV Thüringen","Jurtenplane Standart",#00077,Viereckzeltbahn,JPS,Zeltplane,Bundeskämmerei,,,,,,,,0.00,,,Stromeyer,"Regal 5 Ebene 2",,,,,,,"Regal 5 Ebene 2",,,,,,,,,,,,,,,,,,,,,,,"Einsetzbar (deployable)",,,,"2022-05-31 19:22:31","2024-05-09 15:23:51",,,,https://ams.bdp-th.de/hardware/114,,,,150,,
+115,"LV Thüringen",Jurtendach,#00078,"Jurtendach 610 cm",JUD,Zeltplane,Bundeskämmerei,,,,,,,,0.00,,,,"Regal 5 Ebene 1",,,,,,,"Regal 5 Ebene 1",,,,,,,,,,,,,,,,,,,,,,,"muss bearbeitet werden (deployable)",,,,"2022-05-31 19:23:01","2024-05-09 15:24:07",,,,https://ams.bdp-th.de/hardware/115,,,,,,
+116,"LV Thüringen","Jurtenplane Standart",#00079,Viereckzeltbahn,JPS,Zeltplane,Bundeskämmerei,,,,,,,,0.00,,,,"Regal 5 Ebene 2",,,,,,,"Regal 5 Ebene 2",,,,,,,,,,,,,,,,,,,,,,,"Einsetzbar (deployable)","2025-08-22 00:00:00",2026-01-06,,"2022-05-31 19:23:35","2026-01-06 15:12:46",,,,https://ams.bdp-th.de/hardware/116,,,,150,,
+117,"LV Thüringen","Jurtenplane Standart",#00080,Viereckzeltbahn,JPS,Zeltplane,Bundeskämmerei,,,,,,,,0.00,,,,"Regal 5 Ebene 2",,,,,,,"Regal 5 Ebene 2",,,,,,,,,,,,,,,,,,,,,,,"Einsetzbar (deployable)",,2023-04-05,,"2022-05-31 19:23:43","2024-05-09 15:24:40",,,,https://ams.bdp-th.de/hardware/117,,,,150,,
+118,"LV Thüringen","Doppelte Seitenplane",#00081,"Doppelzeltbahn ",DSP,Zeltplane,,,2003-05-01,,2003-05-01,,,,0.00,,,,"Kiste #00130",,,,,,,"Kiste #00130",,,,,,,,,,,,,,,,,,,,,,,"Einsetzbar (deployable)",,2023-04-07,,"2022-05-31 19:24:41","2023-04-07 11:59:55",,,,https://ams.bdp-th.de/hardware/118,,,,150,,
+119,"LV Thüringen","Jurtenplane Standart",#00082,Viereckzeltbahn,JPS,Zeltplane,Bundeskämmerei,,,,,,,,0.00,,,,"Regal 5 Ebene 2",,,,,,,"Regal 5 Ebene 2",,,,,,,,,,,,,,,,,,,,,,,"Einsetzbar (deployable)",,,,"2022-05-31 19:25:15","2024-05-09 15:24:55",,,,https://ams.bdp-th.de/hardware/119,,,,150,,
+120,"LV Thüringen","Jurtenplane Standart",#00083,Viereckzeltbahn,JPS,Zeltplane,Bundeskämmerei,,,,,,,,0.00,,,,"Regal 5 Ebene 2",,,,,,,"Regal 5 Ebene 2",,,,,,,,,,,,,,,,,,,,,,,"Einsetzbar (deployable)",,2023-04-05,,"2022-05-31 19:25:15","2024-05-09 15:25:11",,,,https://ams.bdp-th.de/hardware/120,,,,150,,
+121,"LV Thüringen","Jurtenplane Standart",#00084,Viereckzeltbahn,JPS,Zeltplane,Bundeskämmerei,,,,,,,,0.00,,,,"Regal 5 Ebene 2",,,,,,,"Regal 5 Ebene 2",,,,,,,,,,,,,,,,,,,,,,,"Einsetzbar (deployable)",,,,"2022-05-31 19:25:15","2024-05-09 15:25:29",,,,https://ams.bdp-th.de/hardware/121,,,,150,,
+122,"LV Thüringen","Doppelte Seitenplane",#00085,"Doppelzeltbahn ",DSP,Zeltplane,,,2003-05-01,,2003-05-01,,,,0.00,,,,"Kiste #00130",,,,,,,"Kiste #00130",,,,,,,,,,,,,,,,,,,,,,,"Einsetzbar (deployable)",,2023-04-07,,"2022-05-31 19:26:56","2023-04-07 11:59:55",,,,https://ams.bdp-th.de/hardware/122,,,,150,,
+123,"LV Thüringen","Doppelte Seitenplane",#00086,"Doppelzeltbahn ",DSP,Zeltplane,,,2003-05-01,,2003-05-01,,,,0.00,,,,"Regal 5 Ebene 3",,,,,,,"Regal 5 Ebene 3",,,,,,,,,,,,,,,,,,,,,,,"Einsetzbar (deployable)",,2023-04-07,,"2022-05-31 19:26:56","2024-06-19 11:16:50",,,,https://ams.bdp-th.de/hardware/123,,,,150,,
+124,"LV Thüringen","Doppelte Seitenplane",#00087,"Doppelzeltbahn ",DSP,Zeltplane,,,2003-05-01,,2003-05-01,,,,0.00,,,,"Kiste #00133",,,,,,,"Kiste #00133",,,,,,,,,,,,,,,,,,,,,,,"Einsetzbar (deployable)",,2023-04-07,,"2022-05-31 19:28:32","2023-04-07 11:59:55",,,,https://ams.bdp-th.de/hardware/124,,,,150,,
+125,"LV Thüringen",Sack,#00088,Sack,SAC,Container,,,,,,,,,0.00,,,,"Kiste #00254",,,,,,,"Kiste #00254",,,,,,,,,,,,,,,,,,,,,,,"Leer (deployable)",,2023-04-07,,"2022-05-31 19:28:56","2023-04-07 11:59:54",,,,https://ams.bdp-th.de/hardware/125,,,,,,
+126,"LV Thüringen","Doppelte Seitenplane",#00089,"Doppelzeltbahn ",DSP,Zeltplane,,,2003-05-01,,2003-05-01,,,,0.00,,,,"Regal 5 Ebene 3",,,,,,,"Regal 5 Ebene 3",,,,,,,,,,,,,,,,,,,,,,,"Einsetzbar (deployable)",,2023-04-05,,"2022-05-31 19:29:35","2024-05-09 15:25:44",,,,https://ams.bdp-th.de/hardware/126,,,,150,,
+127,"LV Thüringen","Doppelte Seitenplane",#00090,"Doppelzeltbahn ",DSP,Zeltplane,,,2003-05-01,,2003-05-01,,,,0.00,,,,"Kiste #00133",,,,,,,"Kiste #00133",,,,,,,,,,,,,,,,,,,,,,,"Einsetzbar (deployable)",,2023-04-07,,"2022-05-31 19:29:36","2023-04-07 11:59:54",,,,https://ams.bdp-th.de/hardware/127,,,,150,,
+128,"LV Thüringen","Kothenkiste Hochkothe",#00142,Holzkiste,HOK,Container,Bundeskämmerei,,2003-05-01,,2003-05-01,,,,0.00,,,,"Regal 7 Ebene 1",,,,,,,"Regal 7 Ebene 1",,,,,,,,,,,,,,,,,,,,,,,"Einsetzbar (deployable)",,2022-09-20,,"2022-05-31 19:32:02","2024-05-09 15:34:36",,,,https://ams.bdp-th.de/hardware/128,,,,,,
+129,"LV Thüringen","Kothenplane Hochkothe",#00091,"Kothenplane für Hochkothe (S45/59)",KPH,Zeltplane,Tortuga,,2003-05-01,,2003-05-01,,,,0.00,,,Stromeyer,"Kiste #00142",,,,,,,"Kiste #00142",,,,,,,,,,,,,,,,,,,,,,,"Einsetzbar (deployable)",,2023-04-07,,"2022-05-31 19:33:03","2023-04-07 11:59:54",,,,https://ams.bdp-th.de/hardware/129,,,,,,
+130,"LV Thüringen","Kothenplane Hochkothe",#00092,"Kothenplane für Hochkothe (S45/59)",KPH,Zeltplane,Tortuga,,2003-05-01,,2003-05-01,,,,0.00,,,Stromeyer,"Kiste #00142",,,,,,,"Kiste #00142",,,,,,,,,,,,,,,,,,,,,,,"Einsetzbar (deployable)",,2023-04-07,,"2022-05-31 19:33:03","2023-04-07 11:59:54",,,,https://ams.bdp-th.de/hardware/130,,,,,,
+131,"LV Thüringen","Kothenplane Hochkothe",#00093,"Kothenplane für Hochkothe (S45/59)",KPH,Zeltplane,Tortuga,,2003-05-01,,2003-05-01,,,,0.00,,,Stromeyer,"Kiste #00142",,,,,,,"Kiste #00142",,,,,,,,,,,,,,,,,,,,,,,"benötigt Reparatur (deployable)",,2023-04-07,,"2022-05-31 19:33:04","2023-04-07 11:59:54",,,,https://ams.bdp-th.de/hardware/131,,,,,,
+132,"LV Thüringen","Kothenplane Hochkothe",#00094,"Kothenplane für Hochkothe (S45/59)",KPH,Zeltplane,Tortuga,,2003-05-01,,2003-05-01,,,,0.00,,,Stromeyer,"Kiste #00142",,,,,,,"Kiste #00142",,,,,,,,,,,,,,,,,,,,,,,"Einsetzbar (deployable)",,2023-04-07,,"2022-05-31 19:33:04","2023-04-07 11:59:54",,,,https://ams.bdp-th.de/hardware/132,,,,,,
+133,"LV Thüringen",Zargeskiste,#00095,"Zarges Kiste",ZAK,Container,Bundeskämmerei,,,,,,,,0.00,,,Zarges,"Schuppen 2","Jugendherberge 1",,"Bad Blankenburg",Thüringen,DE,07422,"Schuppen 2","Jugendherberge 1",,"Bad Blankenburg",Thüringen,DE,07422,,,,,,,,,,,,,,,,,"Einsetzbar (deployable)",,2022-09-20,,"2022-05-31 19:34:12","2022-11-10 12:17:04",,,,https://ams.bdp-th.de/hardware/133,,,60,40,50,
+134,"LV Thüringen","Kothenabdeckplane (Opi)",#00096,"Kothenabdeckplane (Opi)",KAP,Zeltplane,Bundeskämmerei,,,,,,,,0.00,,,,"Kiste #00116",,,,,,,"Kiste #00116",,,,,,,,,,,,,,,,,,,,,,,"Einsetzbar (deployable)",,2022-07-27,,"2022-05-31 19:36:06","2024-06-19 11:17:24",,,,https://ams.bdp-th.de/hardware/134,,,,,,
+135,"LV Thüringen","Kothenplane Hochkothe",#00097,"Kothenplane für Hochkothe (S45/59)",KPH,Zeltplane,Tortuga,,2003-05-01,,2003-05-01,,,,0.00,,,,"Kiste #00179",,,,,,,"Kiste #00179",,,,,,,,,,,,,,,,,,,,,,,"benötigt Reparatur (deployable)",,2023-04-07,,"2022-05-31 19:37:37","2023-04-07 11:59:54",,,,https://ams.bdp-th.de/hardware/135,,,,,,
+136,"LV Thüringen",Heringskiste,#00264,"Plastik Kiste",PLK,Container,,,,,,,,,0.00,,,,"Regal 6 Ebene 1",,,,,,,"Regal 6 Ebene 1",,,,,,,,,,,,,,,,,,,,,,,"muss bearbeitet werden (deployable)",,,,"2022-05-31 19:39:13","2024-05-09 15:45:37",,,,https://ams.bdp-th.de/hardware/136,,,,,,
+137,"LV Thüringen","Tasche Heringe T mittelgroß",#00098,Tasche,TAS,Container,,,,,,,,,0.00,,,,"Kiste #00279",,,,,,,"Kiste #00279",,,,,,,,,,,,,,,,,,,,,,,"Einsetzbar (deployable)",,2023-04-07,,"2022-05-31 19:41:02","2023-04-07 11:59:53",,,,https://ams.bdp-th.de/hardware/137,,,,,,
+138,"LV Thüringen","Tasche Heringe 23cm",#00099,Tasche,TAS,Container,,,,,,,,,0.00,,,,"Kiste #00264",,,,,,,"Kiste #00264",,,,,,,,,,,,,,,,,,,,,,,"Einsetzbar (deployable)",,2023-04-07,,"2022-05-31 19:41:02","2023-04-07 11:59:54",,,,https://ams.bdp-th.de/hardware/138,,,,,,
+139,"LV Thüringen","Kothenplane mit Erdstreifen",#00100,"Kothenplane mit Erdstreifen (S20/53)",KPE,Zeltplane,Tortuga,,,,,,,,0.00,,,,"Regal 4 Ebene 3",,,,,,,"Regal 4 Ebene 3",,,,,,,,,,,,,,,,,,,,,,,"muss bearbeitet werden (deployable)",,,,"2022-05-31 19:42:26","2024-05-09 15:26:35",,,,https://ams.bdp-th.de/hardware/139,,,,,,
+140,"LV Thüringen","Kothenabdeckplane (Opi)",#00101,"Kothenabdeckplane (Opi)",KAP,Zeltplane,Bundeskämmerei,,,,,,,,0.00,,,,"Regal 4 Ebene 2",,,,,,,"Regal 4 Ebene 2",,,,,,,,,,,,,,,,,,,,,,,"Einsetzbar (deployable)","2025-08-22 00:00:00",2026-01-06,,"2022-05-31 19:43:08","2026-01-06 15:12:56",,,,https://ams.bdp-th.de/hardware/140,,,,,,
+141,"LV Thüringen","Kothenplane Hochkothe",#00102,"Kothenplane für Hochkothe (S45/59)",KPH,Zeltplane,Tortuga,,2003-05-01,,2003-05-01,,,,0.00,,,,"Kiste #00187",,,,,,,"Kiste #00187",,,,,,,,,,,,,,,,,,,,,,,"Einsetzbar (deployable)",,2023-04-07,,"2022-05-31 19:44:25","2023-04-07 11:59:53",,,,https://ams.bdp-th.de/hardware/141,,,,,,
+142,"LV Thüringen","Kothenkiste Hochkothe",#00103,Holzkiste,HOK,Container,Bundeskämmerei,,2003-05-01,,2003-05-01,,,,0.00,,,,"Regal 7 Ebene 1",,,,,,,"Regal 7 Ebene 1",,,,,,,,,,,,,,,,,,,,,,,"Einsetzbar (deployable)",,,,"2022-05-31 19:44:54","2024-05-09 15:29:23",,,,https://ams.bdp-th.de/hardware/142,,,,,,
+143,"LV Thüringen","Kothenplane Hochkothe",#00104,"Kothenplane für Hochkothe (S45/59)",KPH,Zeltplane,Tortuga,,2003-05-01,,2003-05-01,,,,0.00,,,,"Regal 4 Ebene 2",,,,,,,"Regal 4 Ebene 2",,,,,,,,,,,,,,,,,,,,,,,"Einsetzbar (deployable)",,2023-04-07,,"2022-05-31 19:47:16","2024-05-09 15:29:42",,,,https://ams.bdp-th.de/hardware/143,,,,,,
+144,"LV Thüringen","Kothenplane Hochkothe",#00105,"Kothenplane für Hochkothe (S45/59)",KPH,Zeltplane,Tortuga,,2003-05-01,,2003-05-01,,,,0.00,,,,"Regal 4 Ebene 2",,,,,,,"Regal 4 Ebene 2",,,,,,,,,,,,,,,,,,,,,,,"Einsetzbar (deployable)",,2023-04-07,,"2022-05-31 19:47:17","2024-05-09 15:30:13",,,,https://ams.bdp-th.de/hardware/144,,,,,,
+145,"LV Thüringen","Kothenplane Hochkothe",#00106,"Kothenplane für Hochkothe (S45/59)",KPH,Zeltplane,Tortuga,,2003-05-01,,2003-05-01,,,,0.00,,,Stromeyer,"Regal 4 Ebene 2",,,,,,,"Regal 4 Ebene 2",,,,,,,,,,,,,,,,,,,,,,,"Einsetzbar (deployable)",,2023-04-07,,"2022-05-31 19:47:17","2024-05-09 15:30:30",,,,https://ams.bdp-th.de/hardware/145,,,,,,
+146,"LV Thüringen",Hammer,#00107,Hammer,HAM,Werkzeug,,,,,,,,,0.00,,,,"Kiste #00278",,,,,,,"Kiste #00278",,,,,,,,,,,,,,,,,,,,,,,"Einsetzbar (deployable)","2025-08-22 00:00:00",2026-01-06,,"2022-05-31 19:49:01","2026-01-06 15:11:51",,,,https://ams.bdp-th.de/hardware/146,,,,,,
+147,"LV Thüringen","Chemoplane Rechteckig",#00108,Chemoplane,CHP,Abdeckplanen,,,,,,,,,0.00,,,,"Schrank 1",,,,,,,"Schrank 1",,,,,,,,,,,,,,,,,,,,,,,"Einsetzbar (deployable)",,2023-04-07,,"2022-05-31 19:49:47","2024-05-09 15:31:18",,,,https://ams.bdp-th.de/hardware/147,,,200,400,,
+148,"LV Thüringen","Kothenplane mit Erdstreifen",#00109,"Kothenplane mit Erdstreifen (S20/53)",KPE,Zeltplane,Tortuga,,,,,,,,0.00,,,,"Kiste #00179",,,,,,,"Kiste #00179",,,,,,,,,,,,,,,,,,,,,,,"benötigt Reparatur (deployable)",,2023-04-07,,"2022-05-31 19:51:05","2023-04-07 11:59:52",,,,https://ams.bdp-th.de/hardware/148,,,,,,
+149,"LV Thüringen","Kothenplane mit Erdstreifen",#00110,"Kothenplane mit Erdstreifen (S20/53)",KPE,Zeltplane,Tortuga,,,,,,,,0.00,,,,"Kiste #00179",,,,,,,"Kiste #00179",,,,,,,,,,,,,,,,,,,,,,,"benötigt Reparatur (deployable)",,2023-04-07,,"2022-05-31 19:51:06","2023-04-07 11:59:52",,,,https://ams.bdp-th.de/hardware/149,,,,,,
+150,"LV Thüringen","Kothenplane mit Erdstreifen",#00111,"Kothenplane mit Erdstreifen (S20/53)",KPE,Zeltplane,Tortuga,,,,,,,,0.00,,,,"Regal 4 Ebene 3",,,,,,,"Regal 4 Ebene 3",,,,,,,,,,,,,,,,,,,,,,,"Einsetzbar (deployable)",,2023-04-07,,"2022-05-31 19:52:26","2024-05-09 15:31:33",,,,https://ams.bdp-th.de/hardware/150,,,,,,
+151,"LV Thüringen","Kothenplane Hochkothe",#00112,"Kothenplane für Hochkothe (S45/59)",KPH,Zeltplane,Tortuga,,2003-05-01,,2003-05-01,,,,0.00,,,,"Regal 4 Ebene 2",,,,,,,"Regal 4 Ebene 2",,,,,,,,,,,,,,,,,,,,,,,"Einsetzbar (deployable)","2025-08-22 00:00:00",2026-01-06,,"2022-05-31 19:53:16","2026-01-06 15:13:50",,,,https://ams.bdp-th.de/hardware/151,,,,,,
+152,"LV Thüringen","Kothenplane Hochkothe",#00113,"Kothenplane für Hochkothe (S45/59)",KPH,Zeltplane,Tortuga,,2003-05-01,,2003-05-01,,,,0.00,,,,"Regal 4 Ebene 2",,,,,,,"Regal 4 Ebene 2",,,,,,,,,,,,,,,,,,,,,,,"Einsetzbar (deployable)",,2023-04-07,,"2022-05-31 19:54:05","2024-05-09 15:32:02",,,,https://ams.bdp-th.de/hardware/152,,,,,,
+153,"LV Thüringen","Kothenkiste Hochkothe",#00116,Holzkiste,HOK,Container,Bundeskämmerei,,2003-05-01,,2003-05-01,,,,0.00,,,,"Regal 7 Ebene 1",,,,,,,"Regal 7 Ebene 1",,,,,,,,,,,,,,,,,,,,,,,"Einsetzbar (deployable)",,2022-06-10,,"2022-05-31 19:55:25","2024-05-09 15:32:16",,,,https://ams.bdp-th.de/hardware/153,,,,,,
+154,"LV Thüringen","Kothenplane Hochkothe",#00114,"Kothenplane für Hochkothe (S45/59)",KPH,Zeltplane,Tortuga,,2003-05-01,,2003-05-01,,,,0.00,,,,"Kiste #00116",,,,,,,"Kiste #00116",,,,,,,,,,,,,,,,,,,,,,,"Einsetzbar (deployable)",,2023-04-07,,"2022-05-31 19:56:16","2023-04-07 11:59:52",,,,https://ams.bdp-th.de/hardware/154,,,,,,
+155,"LV Thüringen",Axt,#00115,Axt,AXT,Werkzeug,,,,,,,,,0.00,,,,"Kiste #00116",,,,,,,"Kiste #00116",,,,,,,,,,,,,,,,,,,,,,,"Einsetzbar (deployable)",,2023-04-07,,"2022-05-31 19:56:45","2023-04-07 11:59:52",,,,https://ams.bdp-th.de/hardware/155,,,,,,
+156,"LV Thüringen",Werkzeugkiste,#00278,"Plastik Kiste",PLK,Container,,,,,,,,,0.00,,,,"Schuppen 2 Regal 2",,,,,,,"Schuppen 2 Regal 2",,,,,,,,,,,,,,,,,,,,,,,"Einsetzbar (deployable)",,,,"2022-05-31 19:59:27","2022-05-31 19:59:27",,,,https://ams.bdp-th.de/hardware/156,,,,,,
+157,"LV Thüringen",Axt,#00117,Axt,AXT,Werkzeug,,,,,,,,,0.00,,,,"Kiste #00175",,,,,,,"Schuppen 1","Jugendherberge 1",,"Bad Blankenburg",Thüringen,DE,07422,,,,,,,,,,,,,,,,,"Einsetzbar (deployable)",,2023-04-07,,"2022-05-31 20:00:42","2026-05-24 10:39:32",,,,https://ams.bdp-th.de/hardware/157,,,,,,
+158,"LV Thüringen",Axt,#00118,Axt,AXT,Werkzeug,,,,,,,,,0.00,,,,"Kiste #00278",,,,,,,"Kiste #00278",,,,,,,,,,,,,,,,,,,,,,,"Einsetzbar (deployable)",,2023-04-07,,"2022-05-31 20:00:42","2023-04-07 11:59:52",,,,https://ams.bdp-th.de/hardware/158,,,,,,
+159,"LV Thüringen",Jurtenabdeckplane,#00119,"Jurtenabdeckplane (Opi)",JAP,Zeltplane,Bundeskämmerei,,,,,,,,0.00,,,,"Kiste #00177",,,,,,,"Kiste #00177",,,,,,,,,,,,,,,,,,,,,,,"benötigt Reparatur (deployable)",,2023-04-07,,"2022-05-31 20:02:15","2023-04-07 11:59:51",,,,https://ams.bdp-th.de/hardware/159,,,,,,
+160,"LV Thüringen","Kothenplane Hochkothe",#00120,"Kothenplane für Hochkothe (S45/59)",KPH,Zeltplane,Tortuga,,2003-05-01,,2003-05-01,,,,0.00,,,,"Kiste #00116",,,,,,,"Kiste #00116",,,,,,,,,,,,,,,,,,,,,,,"Einsetzbar (deployable)",,2023-04-07,,"2022-05-31 20:03:00","2023-04-07 11:59:51",,,,https://ams.bdp-th.de/hardware/160,,,,,,
+161,"LV Thüringen","Kothenplane Hochkothe",#00121,"Kothenplane für Hochkothe (S45/59)",KPH,Zeltplane,Tortuga,,2003-05-01,,2003-05-01,,,,0.00,,,,"Regal 4 Ebene 2",,,,,,,"Regal 4 Ebene 2",,,,,,,,,,,,,,,,,,,,,,,"Einsetzbar (deployable)","2025-08-22 00:00:00",2026-01-06,,"2022-05-31 20:03:28","2026-01-06 15:13:59",,,,https://ams.bdp-th.de/hardware/161,,,,,,
+162,"LV Thüringen","Kothenplane Hochkothe",#00122,"Kothenplane für Hochkothe (S45/59)",KPH,Zeltplane,Tortuga,,2003-05-01,,2003-05-01,,,,0.00,,,,"Kiste #00179",,,,,,,"Kiste #00179",,,,,,,,,,,,,,,,,,,,,,,"benötigt Reparatur (deployable)",,2023-04-07,,"2022-05-31 20:04:25","2023-04-07 11:59:51",,,,https://ams.bdp-th.de/hardware/162,,,,,,
+163,"LV Thüringen","Kothenplane Hochkothe",#00123,"Kothenplane für Hochkothe (S45/59)",KPH,Zeltplane,Tortuga,,2003-05-01,,2003-05-01,,,,0.00,,,,"Kiste #00116",,,,,,,"Kiste #00116",,,,,,,,,,,,,,,,,,,,,,,"Einsetzbar (deployable)",,2023-04-07,,"2022-05-31 20:04:49","2023-04-07 11:59:51",,,,https://ams.bdp-th.de/hardware/163,,,,,,
+164,"LV Thüringen",Hammer,#00124,Hammer,HAM,Werkzeug,,,,,,,,,0.00,,,,"Kiste #00142",,,,,,,"Kiste #00175",,,,,,,,,,,,,,,,,,,,,,,"Einsetzbar (deployable)","2025-08-22 00:00:00",2026-01-06,,"2022-05-31 20:05:29","2026-05-24 10:40:01",,,,https://ams.bdp-th.de/hardware/164,,,,,,
+165,"LV Thüringen","Kothenplane mit Erdstreifen",#00125,"Kothenplane mit Erdstreifen (S20/53)",KPE,Zeltplane,Tortuga,,,,,,,,0.00,,,,"Regal 4 Ebene 3",,,,,,,"Regal 4 Ebene 3",,,,,,,,,,,,,,,,,,,,,,,"Einsetzbar (deployable)",,2023-04-07,,"2022-05-31 20:06:11","2024-05-09 15:32:30",,,,https://ams.bdp-th.de/hardware/165,,,,,,
+166,"LV Thüringen","Kothenplane mit Erdstreifen",#00126,"Kothenplane mit Erdstreifen (S20/53)",KPE,Zeltplane,Tortuga,,,,,,,,0.00,,,,"Kiste #00179",,,,,,,"Kiste #00179",,,,,,,,,,,,,,,,,,,,,,,"benötigt Reparatur (deployable)",,2023-04-07,,"2022-05-31 20:07:00","2023-04-07 11:59:50",,,,https://ams.bdp-th.de/hardware/166,,,,,,
+167,"LV Thüringen","Kothenplane Hochkothe",#00127,"Kothenplane für Hochkothe (S45/59)",KPH,Zeltplane,Tortuga,,2003-05-01,,2003-05-01,,,,0.00,,,,"Regal 4 Ebene 2",,,,,,,"Regal 4 Ebene 2",,,,,,,,,,,,,,,,,,,,,,,"Einsetzbar (deployable)",,2023-04-07,,"2022-05-31 20:07:33","2024-05-09 15:32:47",,,,https://ams.bdp-th.de/hardware/167,,,,,,
+168,"LV Thüringen","Kothenplane mit Erdstreifen",#00128,"Kothenplane mit Erdstreifen (S20/53)",KPE,Zeltplane,Tortuga,,,,,,,,0.00,,,,"Kiste #00175",,,,,,,"Kiste #00175",,,,,,,,,,,,,,,,,,,,,,,"Einsetzbar (deployable)",,2023-04-07,,"2022-05-31 20:07:51","2023-04-07 11:59:50",,,,https://ams.bdp-th.de/hardware/168,,,,,,
+169,"LV Thüringen","Kothenplane mit Erdstreifen",#00129,"Kothenplane mit Erdstreifen (S20/53)",KPE,Zeltplane,Tortuga,,,,,,,,0.00,,,,"Kiste #00175",,,,,,,"Kiste #00175",,,,,,,,,,,,,,,,,,,,,,,"Einsetzbar (deployable)",,2023-04-07,,"2022-05-31 20:08:11","2023-04-07 11:59:50",,,,https://ams.bdp-th.de/hardware/169,,,,,,
+170,"LV Thüringen",Jurte,#00130,"Zarges Kiste",ZAK,Container,Bundeskämmerei,,,,,,,,0.00,,,Zarges,"Schuppen 2","Jugendherberge 1",,"Bad Blankenburg",Thüringen,DE,07422,"Schuppen 2","Jugendherberge 1",,"Bad Blankenburg",Thüringen,DE,07422,,,,,,,,,,,,,,,,,"Einsetzbar (deployable)","2026-04-20 16:06:26",2026-04-26,,"2022-05-31 20:08:35","2026-04-26 15:50:29",,,,https://ams.bdp-th.de/hardware/170,,,60,40,50,
+171,"LV Thüringen","Chemos und Theaterplanen",#00131,"Zarges Kiste",ZAK,Container,Bundeskämmerei,,,,,,,,0.00,,,Zarges,"Schuppen 2","Jugendherberge 1",,"Bad Blankenburg",Thüringen,DE,07422,"Schuppen 2","Jugendherberge 1",,"Bad Blankenburg",Thüringen,DE,07422,,,,,,,,,,,,,,,,,"Einsetzbar (deployable)","2025-08-22 00:00:00",2026-01-06,,"2022-05-31 20:08:36","2026-01-06 15:08:44",,,,https://ams.bdp-th.de/hardware/171,,,60,40,50,
+172,"LV Thüringen",Agadir,#00132,"Zarges Kiste",ZAK,Container,Bundeskämmerei,,,,,,,,0.00,,,Zarges,"Schuppen 2","Jugendherberge 1",,"Bad Blankenburg",Thüringen,DE,07422,"Schuppen 2","Jugendherberge 1",,"Bad Blankenburg",Thüringen,DE,07422,,,,,,,,,,,,,,,,,"Einsetzbar (deployable)",,2022-08-23,,"2022-05-31 20:08:36","2022-08-23 17:12:38",,,,https://ams.bdp-th.de/hardware/172,,,60,40,50,
+173,"LV Thüringen",Jurte,#00133,"Zarges Kiste",ZAK,Container,Bundeskämmerei,,,,,,,,0.00,,,Zarges,"Schuppen 2","Jugendherberge 1",,"Bad Blankenburg",Thüringen,DE,07422,"Schuppen 2","Jugendherberge 1",,"Bad Blankenburg",Thüringen,DE,07422,,,,,,,,,,,,,,,,,"Einsetzbar (deployable)",,2022-09-20,,"2022-05-31 20:08:36","2022-11-10 12:17:49",,,,https://ams.bdp-th.de/hardware/173,,,60,40,50,
+174,"LV Thüringen",Jurtendach,#00134,"Jurtendach 610 cm",JUD,Zeltplane,Bundeskämmerei,,,,,,,,0.00,,,,"Kiste #00179",,,,,,,"Kiste #00179",,,,,,,,,,,,,,,,,,,,,,,"muss bearbeitet werden (deployable)",,2023-04-07,,"2022-05-31 20:09:52","2023-04-07 11:59:50",,,,https://ams.bdp-th.de/hardware/174,,,,,,
+175,"LV Thüringen","Jurtenplane Standart",#00135,Viereckzeltbahn,JPS,Zeltplane,Bundeskämmerei,,,,,,,,0.00,,,,"Regal 5 Ebene 2",,,,,,,"Regal 5 Ebene 2",,,,,,,,,,,,,,,,,,,,,,,"Einsetzbar (deployable)",,2023-04-05,,"2022-05-31 20:10:17","2024-05-09 15:33:00",,,,https://ams.bdp-th.de/hardware/175,,,,150,,
+176,"LV Thüringen","Doppelte Seitenplane",#00136,"Doppelzeltbahn ",DSP,Zeltplane,,,2003-05-01,,2003-05-01,,,,0.00,,,Stromeyer,"Regal 5 Ebene 3",,,,,,,"Regal 5 Ebene 3",,,,,,,,,,,,,,,,,,,,,,,"Einsetzbar (deployable)",,2023-04-07,,"2022-05-31 20:11:11","2024-06-19 11:18:25",,,,https://ams.bdp-th.de/hardware/176,,,,,,
+177,"LV Thüringen","Doppelte Seitenplane",#00137,"Doppelzeltbahn ",DSP,Zeltplane,,,2003-05-01,,2003-05-01,,,,0.00,,,Stromeyer,"Kiste #00133",,,,,,,"Kiste #00133",,,,,,,,,,,,,,,,,,,,,,,"Einsetzbar (deployable)",,2023-04-07,,"2022-05-31 20:11:12","2023-04-07 11:59:50",,,,https://ams.bdp-th.de/hardware/177,,,,,,
+178,"LV Thüringen","Jurtenplane Standart",#00138,Viereckzeltbahn,JPS,Zeltplane,Bundeskämmerei,,,,,,,,0.00,,,,"Regal 5 Ebene 2",,,,,,,"Regal 5 Ebene 2",,,,,,,,,,,,,,,,,,,,,,,"Einsetzbar (deployable)",,2023-04-05,,"2022-05-31 20:11:56","2024-05-09 15:33:22",,,,https://ams.bdp-th.de/hardware/178,,,,150,,
+179,"LV Thüringen","Doppelte Seitenplane",#00139,"Doppelzeltbahn ",DSP,Zeltplane,,,2003-05-01,,2003-05-01,,,,0.00,,,,"Regal 5 Ebene 3",,,,,,,"Regal 5 Ebene 3",,,,,,,,,,,,,,,,,,,,,,,"Einsetzbar (deployable)",,2023-04-05,,"2022-05-31 20:12:46","2024-05-09 15:33:55",,,,https://ams.bdp-th.de/hardware/179,,,,150,,
+180,"LV Thüringen","Doppelte Seitenplane",#00140,"Doppelzeltbahn ",DSP,Zeltplane,,,2003-05-01,,2003-05-01,,,,0.00,,,,"Regal 5 Ebene 3",,,,,,,"Regal 5 Ebene 3",,,,,,,,,,,,,,,,,,,,,,,"Einsetzbar (deployable)",,2023-04-05,,"2022-05-31 20:12:46","2024-05-09 15:34:13",,,,https://ams.bdp-th.de/hardware/180,,,,150,,
+181,"LV Thüringen","Doppelte Seitenplane",#00141,"Doppelzeltbahn ",DSP,Zeltplane,,,2003-05-01,,2003-05-01,,,,0.00,,,,"Regal 5 Ebene 3",,,,,,,"Regal 5 Ebene 3",,,,,,,,,,,,,,,,,,,,,,,"Einsetzbar (deployable)",,,,"2022-05-31 20:12:46","2024-05-09 15:34:25",,,,https://ams.bdp-th.de/hardware/181,,,,150,,
+182,"LV Thüringen",Jurtenabdeckplane,#00143,"Jurtenabdeckplane (Opi)",JAP,Zeltplane,Bundeskämmerei,,,,,,,,0.00,,,,"Kiste #00177",,,,,,,"Kiste #00177",,,,,,,,,,,,,,,,,,,,,,,"Einsetzbar (deployable)",,2023-04-07,,"2022-05-31 20:13:43","2023-04-07 11:59:50",,,,https://ams.bdp-th.de/hardware/182,,,,,,
+183,"LV Thüringen","Kothenabdeckplane (Opi)",#00144,"Kothenabdeckplane (Opi)",KAP,Zeltplane,Bundeskämmerei,45000205,,,,,,,0.00,,,Stromeyer,"Kiste #00142",,,,,,,"Kiste #00142",,,,,,,,,,,,,,,,,,,,,,,"Einsetzbar (deployable)",,2023-04-07,,"2022-05-31 20:14:47","2023-04-07 11:59:49",,,,https://ams.bdp-th.de/hardware/183,,,,,,
+184,"LV Thüringen",Jurtenabdeckplane,#00145,"Jurtenabdeckplane (Opi)",JAP,Zeltplane,Bundeskämmerei,,,,,,,,0.00,,,,"Regal 5 Ebene 4",,,,,,,"Regal 5 Ebene 4",,,,,,,,,,,,,,,,,,,,,,,"benötigt Reparatur (deployable)",,2023-04-07,,"2022-05-31 20:15:17","2024-05-09 15:34:55",,,,https://ams.bdp-th.de/hardware/184,,,,,,
+185,"LV Thüringen",Jurtenabdeckplane,#00147,"Jurtenabdeckplane (Opi)",JAP,Zeltplane,Bundeskämmerei,,,,,,,,0.00,,,,"Kiste #00177",,,,,,,"Kiste #00177",,,,,,,,,,,,,,,,,,,,,,,"muss bearbeitet werden (deployable)",,2023-04-07,,"2022-05-31 20:17:25","2023-04-07 11:59:49",,,,https://ams.bdp-th.de/hardware/185,,,,,,
+186,"LV Thüringen",Jurtenabdeckplane,#00148,"Jurtenabdeckplane (Opi)",JAP,Zeltplane,Bundeskämmerei,,,,,,,,0.00,,,,"Kiste #00187",,,,,,,"Kiste #00187",,,,,,,,,,,,,,,,,,,,,,,"muss bearbeitet werden (deployable)",,2023-04-07,,"2022-05-31 20:17:25","2023-04-07 11:59:49",,,,https://ams.bdp-th.de/hardware/186,,,,,,
+187,"LV Thüringen","Kothenabdeckplane (Opi)",#00146,"Kothenabdeckplane (Opi)",KAP,Zeltplane,Bundeskämmerei,,,,,,,,0.00,,,,"Regal 4 Ebene 2",,,,,,,"Regal 4 Ebene 2",,,,,,,,,,,,,,,,,,,,,,,"Einsetzbar (deployable)","2025-08-22 00:00:00",2026-01-06,,"2022-05-31 20:17:50","2026-01-06 15:13:17",,,,https://ams.bdp-th.de/hardware/187,,,,,,
+188,"LV Thüringen","Kothenabdeckplane (Opi)",#00149,"Kothenabdeckplane (Opi)",KAP,Zeltplane,Bundeskämmerei,,,,,,,,0.00,,,,"Kiste #00175",,,,,,,"Kiste #00175",,,,,,,,,,,,,,,,,,,,,,,"Einsetzbar (deployable)",,2023-04-07,,"2022-05-31 20:19:30","2023-04-07 11:59:49",,,,https://ams.bdp-th.de/hardware/188,,,,,,
+189,"LV Thüringen","Kothenabdeckplane (Opi)",#00150,"Kothenabdeckplane (Opi)",KAP,Zeltplane,Bundeskämmerei,,,,,,,,0.00,,,,"Kiste #00116",,,,,,,"Kiste #00116",,,,,,,,,,,,,,,,,,,,,,,"Einsetzbar (deployable)",,2023-04-07,,"2022-05-31 20:19:47","2023-04-07 11:59:49",,,,https://ams.bdp-th.de/hardware/189,,,,,,
+190,"LV Thüringen","Kothenabdeckplane (Opi)",#00151,"Kothenabdeckplane (Opi)",KAP,Zeltplane,Bundeskämmerei,,,,,,,,0.00,,,,"Kiste #00187",,,,,,,"Kiste #00187",,,,,,,,,,,,,,,,,,,,,,,"muss bearbeitet werden (deployable)",,2023-04-07,,"2022-05-31 20:20:41","2023-04-07 11:59:49",,,,https://ams.bdp-th.de/hardware/190,,,,,,
+191,"LV Thüringen","Kothenabdeckplane (Opi)",#00152,"Kothenabdeckplane (Opi)",KAP,Zeltplane,Bundeskämmerei,,,,,,,,0.00,,,,"Kiste #00187",,,,,,,"Kiste #00187",,,,,,,,,,,,,,,,,,,,,,,"muss bearbeitet werden (deployable)",,2023-04-07,,"2022-05-31 20:20:42","2023-04-07 11:59:48",,,,https://ams.bdp-th.de/hardware/191,,,,,,
+192,"LV Thüringen",Jurtenabdeckplane,#00153,"Jurtenabdeckplane (Opi)",JAP,Zeltplane,Bundeskämmerei,,,,,,,,0.00,,,,"Kiste #00130",,,,,,,"Kiste #00130",,,,,,,,,,,,,,,,,,,,,,,"Einsetzbar (deployable)",,2023-04-07,,"2022-05-31 20:21:18","2023-04-07 11:59:48",,,,https://ams.bdp-th.de/hardware/192,,,,,,
+193,"LV Thüringen",Theaterplane,#00154,"Jurten-Zwischendachteil (Theaterplane)",THP,Zeltplane,Tortuga,,,,,,,,0.00,,,Tortuga,"Regal 4 Ebene 4",,,,,,,"Regal 4 Ebene 4",,,,,,,,,,,,,,,,,,,,,,,"Einsetzbar (deployable)","2024-05-15 08:55:32",2024-05-24,,"2022-05-31 20:23:56","2024-05-24 13:36:28",,,,https://ams.bdp-th.de/hardware/193,,,265,165,,
+194,"LV Thüringen",Theaterplane,#00155,"Jurten-Zwischendachteil (Theaterplane)",THP,Zeltplane,Tortuga,,,,,,,,0.00,,,Tortuga,"Regal 4 Ebene 4",,,,,,,"Regal 4 Ebene 4",,,,,,,,,,,,,,,,,,,,,,,"Einsetzbar (deployable)","2024-05-15 08:55:32",2024-05-24,,"2022-05-31 20:23:57","2024-05-24 13:36:54",,,,https://ams.bdp-th.de/hardware/194,,,265,165,,
+195,"LV Thüringen","Schlaufjurte und Theaterplanen",#00192,Holzkiste,HOK,Container,Bundeskämmerei,,,,,,,,0.00,,,,"Schuppen 2","Jugendherberge 1",,"Bad Blankenburg",Thüringen,DE,07422,"Schuppen 2","Jugendherberge 1",,"Bad Blankenburg",Thüringen,DE,07422,,,,,,,,,,,,,,,,,"Einsetzbar (deployable)",,,,"2022-05-31 20:25:17","2022-06-02 20:05:45",,,,https://ams.bdp-th.de/hardware/195,,,,,,
+196,"LV Thüringen","Kothenplane Hochkothe",#00156,"Kothenplane für Hochkothe (S45/59)",KPH,Zeltplane,Tortuga,,2003-05-01,,2003-05-01,,,,0.00,,,,"Regal 4 Ebene 2",,,,,,,"Regal 4 Ebene 2",,,,,,,,,,,,,,,,,,,,,,,"Einsetzbar (deployable)",,2023-04-07,,"2022-05-31 20:26:23","2024-05-09 15:35:48",,,,https://ams.bdp-th.de/hardware/196,,,,,,
+197,"LV Thüringen","Chemoplane Rechteckig",#00157,Chemoplane,CHP,Abdeckplanen,,,,,,,,,0.00,,,,"Kiste #00116",,,,,,,"Kiste #00116",,,,,,,,,,,,,,,,,,,,,,,"Einsetzbar (deployable)",,2023-04-07,,"2022-05-31 20:26:54","2023-04-07 11:59:48",,,,https://ams.bdp-th.de/hardware/197,,,200,300,,
+198,"LV Thüringen","Kothenplane mit Erdstreifen",#00158,"Kothenplane mit Erdstreifen (S20/53)",KPE,Zeltplane,Tortuga,,,,,,,,0.00,,,,"Kiste #00175",,,,,,,"Kiste #00175",,,,,,,,,,,,,,,,,,,,,,,"Einsetzbar (deployable)",,2023-04-07,,"2022-05-31 20:27:12","2023-04-07 11:59:48",,,,https://ams.bdp-th.de/hardware/198,,,,,,
+199,"LV Thüringen","Kothenplane Hochkothe",#00159,"Kothenplane für Hochkothe (S45/59)",KPH,Zeltplane,Tortuga,,2003-05-01,,2003-05-01,,,,0.00,,,,"Regal 4 Ebene 2",,,,,,,"Regal 4 Ebene 2",,,,,,,,,,,,,,,,,,,,,,,"Einsetzbar (deployable)",,2023-04-07,,"2022-05-31 20:27:42","2024-05-09 15:35:59",,,,https://ams.bdp-th.de/hardware/199,,,,,,
+200,"LV Thüringen","Chemoplane Rechteckig",#00160,Chemoplane,CHP,Abdeckplanen,,,,,,,,,0.00,,,,Schrank,,,,,,,Schrank,,,,,,,,,,,,,,,,,,,,,,,"Einsetzbar (deployable)","2025-08-22 00:00:00",2026-01-06,,"2022-05-31 20:28:08","2026-01-06 15:08:17",,,,https://ams.bdp-th.de/hardware/200,,,400,500,,
+201,"LV Thüringen","Kothenplane Hochkothe",#00161,"Kothenplane für Hochkothe (S45/59)",KPH,Zeltplane,Tortuga,,2003-05-01,,2003-05-01,,,,0.00,,,,"Regal 4 Ebene 2",,,,,,,"Regal 4 Ebene 2",,,,,,,,,,,,,,,,,,,,,,,"Einsetzbar (deployable)",,2023-04-07,,"2022-05-31 20:28:44","2024-05-09 15:36:12",,,,https://ams.bdp-th.de/hardware/201,,,,,,
+202,"LV Thüringen","Chemoplane Rechteckig",#00162,Chemoplane,CHP,Abdeckplanen,,,,,,,,,0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Einsetzbar (deployable)","2025-08-22 00:00:00",2026-01-06,,"2022-05-31 20:29:52","2026-01-06 15:08:32",,,,https://ams.bdp-th.de/hardware/202,,,400,300,,
+203,"LV Thüringen",Jurtenabdeckplane,#00163,"Jurtenabdeckplane (Opi)",JAP,Zeltplane,Bundeskämmerei,,,,,,,,0.00,,,,"Kiste #00177",,,,,,,"Kiste #00177",,,,,,,,,,,,,,,,,,,,,,,"benötigt Reparatur (deployable)",,2023-04-07,,"2022-05-31 20:30:45","2023-04-07 11:59:47",,,,https://ams.bdp-th.de/hardware/203,,,,,,
+204,"LV Thüringen","Kothenplane Hochkothe",#00164,"Kothenplane für Hochkothe (S45/59)",KPH,Zeltplane,Tortuga,,2003-05-01,,2003-05-01,,,,0.00,,,Stromeyer,"Regal 4 Ebene 2",,,,,,,"Regal 4 Ebene 2",,,,,,,,,,,,,,,,,,,,,,,"benötigt Reparatur (deployable)",,2023-04-07,,"2022-05-31 20:31:51","2024-05-09 15:36:27",,,,https://ams.bdp-th.de/hardware/204,,,,,,
+205,"LV Thüringen","Kothenplane Hochkothe",#00165,"Kothenplane für Hochkothe (S45/59)",KPH,Zeltplane,Tortuga,,2003-05-01,,2003-05-01,,,,0.00,,,,"Regal 4 Ebene 2",,,,,,,"Regal 4 Ebene 2",,,,,,,,,,,,,,,,,,,,,,,"Einsetzbar (deployable)","2025-08-22 00:00:00",2026-01-06,,"2022-05-31 20:32:25","2026-01-06 15:14:20",,,,https://ams.bdp-th.de/hardware/205,,,,,,
+206,"LV Thüringen","Kothenplane Hochkothe",#00166,"Kothenplane für Hochkothe (S45/59)",KPH,Zeltplane,Tortuga,,2003-05-01,,2003-05-01,,,,0.00,,,Stromeyer,"Regal 4 Ebene 2",,,,,,,"Regal 4 Ebene 2",,,,,,,,,,,,,,,,,,,,,,,"benötigt Reparatur (deployable)","2025-08-22 00:00:00",2026-01-06,,"2022-05-31 20:33:01","2026-04-27 15:06:57",,,,https://ams.bdp-th.de/hardware/206,,,,,,
+207,"LV Thüringen","Kothenplane Hochkothe",#00167,"Kothenplane für Hochkothe (S45/59)",KPH,Zeltplane,Tortuga,,2003-05-01,,2003-05-01,,,,0.00,,,Stromeyer,"Regal 4 Ebene 2",,,,,,,"Regal 4 Ebene 2",,,,,,,,,,,,,,,,,,,,,,,"Einsetzbar (deployable)","2025-08-22 00:00:00",2026-01-06,,"2022-05-31 20:33:33","2026-01-06 15:14:27",,,,https://ams.bdp-th.de/hardware/207,,,,,,
+208,"LV Thüringen","Kothenplane Hochkothe",#00168,"Kothenplane für Hochkothe (S45/59)",KPH,Zeltplane,Tortuga,,2003-05-01,,2003-05-01,,,,0.00,,,Stromeyer,"Regal 4 Ebene 2",,,,,,,"Regal 4 Ebene 2",,,,,,,,,,,,,,,,,,,,,,,"Einsetzbar (deployable)","2025-08-22 00:00:00",2026-01-06,,"2022-05-31 20:33:33","2026-01-06 15:14:35",,,,https://ams.bdp-th.de/hardware/208,,,,,,
+209,"LV Thüringen","Kothenplane Hochkothe",#00169,"Kothenplane für Hochkothe (S45/59)",KPH,Zeltplane,Tortuga,,2003-05-01,,2003-05-01,,,,0.00,,,Stromeyer,"Kiste #00116",,,,,,,"Kiste #00116",,,,,,,,,,,,,,,,,,,,,,,"Einsetzbar (deployable)",,2023-04-07,,"2022-05-31 20:33:34","2024-06-19 11:19:02",,,,https://ams.bdp-th.de/hardware/209,,,,,,
+210,"LV Thüringen","Kothenabdeckplane (Opi)",#00170,"Kothenabdeckplane (Opi)",KAP,Zeltplane,Bundeskämmerei,,,,,,,,0.00,,,,"Kiste #00187",,,,,,,"Kiste #00187",,,,,,,,,,,,,,,,,,,,,,,"muss bearbeitet werden (deployable)",,2023-04-07,,"2022-05-31 20:34:41","2023-04-07 11:59:46",,,,https://ams.bdp-th.de/hardware/210,,,,,,
+211,"LV Thüringen","Kothenabdeckplane (Opi)",#00171,"Kothenabdeckplane (Opi)",KAP,Zeltplane,Bundeskämmerei,,,,,,,,0.00,,,,"Kiste #00187",,,,,,,"Kiste #00187",,,,,,,,,,,,,,,,,,,,,,,"muss bearbeitet werden (deployable)",,2023-04-07,,"2022-05-31 20:34:41","2023-04-07 11:59:46",,,,https://ams.bdp-th.de/hardware/211,,,,,,
+212,"LV Thüringen","Kothenplane mit Erdstreifen",#00172,"Kothenplane mit Erdstreifen (S20/53)",KPE,Zeltplane,Tortuga,,,,,,,,0.00,,,,"Kiste #00175",,,,,,,"Kiste #00175",,,,,,,,,,,,,,,,,,,,,,,"Einsetzbar (deployable)",,2023-04-07,,"2022-05-31 20:35:22","2023-04-07 11:59:46",,,,https://ams.bdp-th.de/hardware/212,,,,,,
+213,"LV Thüringen","Kothenplane Hochkothe",#00173,"Kothenplane für Hochkothe (S45/59)",KPH,Zeltplane,Tortuga,,2003-05-01,,2003-05-01,,,,0.00,,,Stromeyer,"Regal 4 Ebene 2",,,,,,,"Regal 4 Ebene 2",,,,,,,,,,,,,,,,,,,,,,,"Einsetzbar (deployable)","2025-08-22 00:00:00",2026-01-06,,"2022-05-31 20:36:16","2026-01-06 15:14:14",,,,https://ams.bdp-th.de/hardware/213,,,,,,
+214,"LV Thüringen",Axt,#00176,Axt,AXT,Werkzeug,,,,,,,,,0.00,,,,"Kiste #00278",,,,,,,"Kiste #00278",,,,,,,,,,,,,,,,,,,,,,,"Einsetzbar (deployable)",,2023-04-07,,"2022-05-31 20:38:15","2023-04-07 11:59:46",,,,https://ams.bdp-th.de/hardware/214,,,,,,
+215,"LV Thüringen","Chemoplane Rechteckig",#00178,Chemoplane,CHP,Abdeckplanen,,,,,,,,,0.00,,,,Schrank,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"muss bearbeitet werden (deployable)",,2022-09-20,,"2022-05-31 20:39:21","2022-11-10 12:04:33",,,,https://ams.bdp-th.de/hardware/215,,,200,200,,
+216,"LV Thüringen","Doppelte Seitenplane",#00180,"Doppelzeltbahn ",DSP,Zeltplane,,,2003-05-01,,2003-05-01,,,,0.00,,,Stromeyer,"Kiste #00130",,,,,,,"Kiste #00130",,,,,,,,,,,,,,,,,,,,,,,"Einsetzbar (deployable)",,2023-04-05,,"2022-05-31 20:40:55","2024-06-19 11:19:32",,,,https://ams.bdp-th.de/hardware/216,,,,,,
+217,"LV Thüringen","Doppelte Seitenplane",#00181,"Doppelzeltbahn ",DSP,Zeltplane,,,2003-05-01,,2003-05-01,,,,0.00,,,Stromeyer,"Kiste #00130",,,,,,,"Kiste #00130",,,,,,,,,,,,,,,,,,,,,,,"Einsetzbar (deployable)",,2023-04-05,,"2022-05-31 20:40:56","2024-06-19 11:20:07",,,,https://ams.bdp-th.de/hardware/217,,,,,,
+218,"LV Thüringen","Doppelte Seitenplane",#00183,"Doppelzeltbahn ",DSP,Zeltplane,,,2003-05-01,,2003-05-01,,,,0.00,,,Stromeyer,"Regal 5 Ebene 3",,,,,,,"Regal 5 Ebene 3",,,,,,,,,,,,,,,,,,,,,,,"Einsetzbar (deployable)",,2023-04-05,,"2022-05-31 20:40:56","2024-05-09 15:38:13",,,,https://ams.bdp-th.de/hardware/218,,,,,,
+219,"LV Thüringen","Doppelte Seitenplane",#00184,"Doppelzeltbahn ",DSP,Zeltplane,,,2003-05-01,,2003-05-01,,,,0.00,,,Stromeyer,"Regal 5 Ebene 3",,,,,,,"Regal 5 Ebene 3",,,,,,,,,,,,,,,,,,,,,,,"Einsetzbar (deployable)",,2023-04-05,,"2022-05-31 20:40:56","2024-05-09 15:38:25",,,,https://ams.bdp-th.de/hardware/219,,,,,,
+220,"LV Thüringen","Jurtenplane Standart",#00182,Viereckzeltbahn,JPS,Zeltplane,Bundeskämmerei,,,,,,,,0.00,,,Stromeyer,"Kiste #00179",,,,,,,"Kiste #00179",,,,,,,,,,,,,,,,,,,,,,,"benötigt Reparatur (deployable)",,2023-04-07,,"2022-05-31 20:42:09","2023-04-07 11:59:46",,,,https://ams.bdp-th.de/hardware/220,,,,150,,
+221,"LV Thüringen","Doppelte Seitenplane",#00185,"Doppelzeltbahn ",DSP,Zeltplane,,,2003-05-01,,2003-05-01,,,,0.00,,,Stromeyer,"Kiste #00133",,,,,,,"Kiste #00133",,,,,,,,,,,,,,,,,,,,,,,"Einsetzbar (deployable)",,2023-04-07,,"2022-05-31 20:43:10","2023-04-07 11:59:46",,,,https://ams.bdp-th.de/hardware/221,,,,,,
+222,"LV Thüringen","Doppelplane Spezial",#00186,"Doppelplane Spezial",DPS,Zeltplane,,,,,,,,,0.00,,,,"Regal 5 Ebene 3",,,,,,,"Regal 5 Ebene 3",,,,,,,,,,,,,,,,,,,,,,,"Einsetzbar (deployable)",,,,"2022-05-31 20:44:11","2024-05-09 15:38:37",,,,https://ams.bdp-th.de/hardware/222,,,,160,,
+223,"LV Thüringen","Schlaufenwand mit Tür",#00188,"Seitenwand Schlaufenjurte 640 cm mit Tür",MJT,Zelt,Seegler,,,,,,,,0.00,,,Seegler,"Kiste #00192",,,,,,,"Kiste #00192",,,,,,,,,,,,,,,,,,,,,,,"Einsetzbar (deployable)",,2023-04-07,,"2022-05-31 20:46:29","2023-04-07 11:59:45",,,,https://ams.bdp-th.de/hardware/223,,,,,,
+224,"LV Thüringen",Schlaufenwand,#00189,"Seitenwand Schlaufenjurte 640 cm",MJS,Zelt,,,,,,,,,0.00,,,Seegler,"Kiste #00192",,,,,,,"Kiste #00192",,,,,,,,,,,,,,,,,,,,,,,"Einsetzbar (deployable)",,2023-04-07,,"2022-05-31 20:46:29","2023-04-07 11:59:46",,,,https://ams.bdp-th.de/hardware/224,,,,,,
+225,"LV Thüringen",Schlaufenwand,#00190,"Seitenwand Schlaufenjurte 640 cm",MJS,Zelt,,,,,,,,,0.00,,,Seegler,"Kiste #00192",,,,,,,"Kiste #00192",,,,,,,,,,,,,,,,,,,,,,,"Einsetzbar (deployable)",,2023-04-07,,"2022-05-31 20:46:30","2023-04-07 11:59:45",,,,https://ams.bdp-th.de/hardware/225,,,,,,
+226,"LV Thüringen",Schlaufenwand,#00191,"Seitenwand Schlaufenjurte 640 cm",MJS,Zelt,,,,,,,,,0.00,,,Seegler,"Kiste #00192",,,,,,,"Kiste #00192",,,,,,,,,,,,,,,,,,,,,,,"Einsetzbar (deployable)",,2023-04-07,,"2022-05-31 20:46:30","2023-04-07 11:59:45",,,,https://ams.bdp-th.de/hardware/226,,,,,,
+227,"LV Thüringen","Jurtenplane Standart (1.60m breit)",#00193,Viereckzeltbahn,JPS,Zeltplane,Bundeskämmerei,,,,,,,,0.00,,,,"Regal 5 Ebene 2",,,,,,,"Regal 5 Ebene 2",,,,,,,,,,,,,,,,,,,,,,,"Einsetzbar (deployable)",,,,"2022-05-31 20:48:17","2024-05-09 15:38:52",,,,https://ams.bdp-th.de/hardware/227,,,,160,,
+228,"LV Thüringen","Jurtenplane Standart (1.60m breit)",#00194,Viereckzeltbahn,JPS,Zeltplane,Bundeskämmerei,,,,,,,,0.00,,,,"Regal 5 Ebene 2",,,,,,,"Regal 5 Ebene 2",,,,,,,,,,,,,,,,,,,,,,,"Einsetzbar (deployable)",,,,"2022-05-31 20:48:17","2024-05-09 15:39:05",,,,https://ams.bdp-th.de/hardware/228,,,,160,,
+229,"LV Thüringen","Jurtenplane Doppelt (1.60m breit)",#00195,"Doppelzeltbahn ",DSP,Zeltplane,,,,,,,,,0.00,,,,S.1.L.1,,,,,,,S.1.L.1,,,,,,,,,,,,,,,,,,,,,,,"Einsetzbar (deployable)",,,,"2022-05-31 20:49:01","2022-05-31 20:49:01",,,,https://ams.bdp-th.de/hardware/229,,,,160,,
+230,"LV Thüringen","Jurtenplane Doppelt (1.60m breit)",#00196,"Doppelzeltbahn ",DSP,Zeltplane,,,,,,,,,0.00,,,,S.1.L.1,,,,,,,S.1.L.1,,,,,,,,,,,,,,,,,,,,,,,"Einsetzbar (deployable)",,,,"2022-05-31 20:49:01","2022-05-31 20:49:01",,,,https://ams.bdp-th.de/hardware/230,,,,160,,
+231,"LV Thüringen","Doppelte Seitenplane",#00197,"Doppelzeltbahn ",DSP,Zeltplane,,,2003-05-01,,2003-05-01,,,,0.00,,,,"Regal 5 Ebene 1",,,,,,,"Regal 5 Ebene 1",,,,,,,,,,,,,,,,,,,,,,,"Einsetzbar (deployable)",,2023-04-05,,"2022-05-31 20:50:02","2024-05-09 15:39:18",,,,https://ams.bdp-th.de/hardware/231,,,,,,
+232,"LV Thüringen","Doppelte Seitenplane",#00199,"Doppelzeltbahn ",DSP,Zeltplane,,,2003-05-01,,2003-05-01,,,,0.00,,,,"Regal 5 Ebene 2",,,,,,,"Regal 5 Ebene 2",,,,,,,,,,,,,,,,,,,,,,,"Einsetzbar (deployable)",,2023-04-05,,"2022-05-31 20:50:03","2024-06-19 11:22:14",,,,https://ams.bdp-th.de/hardware/232,,,,,,
+233,"LV Thüringen","Jurtenplane Standart",#00198,Viereckzeltbahn,JPS,Zeltplane,Bundeskämmerei,,,,,,,,0.00,,,,"Regal 5 Ebene 2",,,,,,,"Regal 5 Ebene 2",,,,,,,,,,,,,,,,,,,,,,,"Einsetzbar (deployable)",,2023-04-07,,"2022-05-31 20:50:32","2024-06-19 11:20:37",,,,https://ams.bdp-th.de/hardware/233,,,,150,,
+234,"LV Thüringen","Jurtenplane Standart",#00200,Viereckzeltbahn,JPS,Zeltplane,Bundeskämmerei,,,,,,,,0.00,,,,"Regal 5 Ebene 2",,,,,,,"Regal 5 Ebene 2",,,,,,,,,,,,,,,,,,,,,,,"Einsetzbar (deployable)",,2023-04-07,,"2022-05-31 20:50:33","2024-06-19 11:22:46",,"2024-06-19 11:22:46",2024-07-19,https://ams.bdp-th.de/hardware/234,,,,150,,
+235,"LV Thüringen","Blaue Jurte",#00201,"Zarges Kiste",ZAK,Container,Bundeskämmerei,,,,,,,,0.00,,,Zarges,"Schuppen 2","Jugendherberge 1",,"Bad Blankenburg",Thüringen,DE,07422,"Schuppen 2","Jugendherberge 1",,"Bad Blankenburg",Thüringen,DE,07422,,,,,,,,,,,,,,,,,"muss bearbeitet werden (deployable)",,,,"2022-06-01 17:19:12","2022-06-01 17:52:21",,,,https://ams.bdp-th.de/hardware/235,,,60,40,50,
+236,"LV Thüringen","Kothenplane Hochkothe",#00202,"Kothenplane für Hochkothe (S45/59)",KPH,Zeltplane,Tortuga,,2003-05-01,,2003-05-01,,,,0.00,,,,"Regal 4 Ebene 2",,,,,,,"Regal 4 Ebene 2",,,,,,,,,,,,,,,,,,,,,,,"benötigt Reparatur (deployable)",,2023-04-07,,"2022-06-01 17:20:13","2024-05-09 15:39:46",,,,https://ams.bdp-th.de/hardware/236,,,,,,
+237,"LV Thüringen",Theaterplane,#00203,"Jurten-Zwischendachteil (Theaterplane)",THP,Zeltplane,Tortuga,,,,,,,,0.00,,,Tortuga,"Regal 4 Ebene 4",,,,,,,"Regal 4 Ebene 4",,,,,,,,,,,,,,,,,,,,,,,"Einsetzbar (deployable)","2024-05-15 08:55:32",2024-05-24,,"2022-06-01 17:20:45","2024-05-24 13:36:38",,,,https://ams.bdp-th.de/hardware/237,,,265,165,,
+238,"LV Thüringen",Theaterplane,#00204,"Jurten-Zwischendachteil (Theaterplane)",THP,Zeltplane,Tortuga,,,,,,,,0.00,,,Tortuga,"Regal 4 Ebene 4",,,,,,,"Regal 4 Ebene 4",,,,,,,,,,,,,,,,,,,,,,,"Einsetzbar (deployable)","2024-05-15 08:55:32",2024-05-24,,"2022-06-01 17:20:59","2024-06-19 11:24:10",,,,https://ams.bdp-th.de/hardware/238,,,265,165,,
+239,"LV Thüringen",Theaterplane,#00205,"Jurten-Zwischendachteil (Theaterplane)",THP,Zeltplane,Tortuga,,,,,,,,0.00,,,Tortuga,"Regal 4 Ebene 4",,,,,,,"Regal 4 Ebene 4",,,,,,,,,,,,,,,,,,,,,,,"Einsetzbar (deployable)","2024-05-15 08:55:32",2024-05-24,,"2022-06-01 17:21:20","2024-05-24 13:36:43",,,,https://ams.bdp-th.de/hardware/239,,,265,165,,
+240,"LV Thüringen",Theaterplane,#00206,"Jurten-Zwischendachteil (Theaterplane)",THP,Zeltplane,Tortuga,,,,,,,,0.00,,,Tortuga,"Regal 4 Ebene 4",,,,,,,"Regal 4 Ebene 4",,,,,,,,,,,,,,,,,,,,,,,"Einsetzbar (deployable)","2024-05-15 08:55:32",2024-05-24,,"2022-06-01 17:21:20","2024-06-19 11:24:10",,,,https://ams.bdp-th.de/hardware/240,,,265,165,,
+241,"LV Thüringen","Halbes Jurtendach",#00207,"Halbes Jurtendach",HJD,Zeltplane,,,,,,,,,0.00,,,,"Regal 5 Ebene 1",,,,,,,"Regal 5 Ebene 1",,,,,,,,,,,,,,,,,,,,,,,"benötigt Reparatur (deployable)",,,,"2022-06-01 17:22:02","2024-05-09 15:41:10",,,,https://ams.bdp-th.de/hardware/241,,,,,,
+242,"LV Thüringen","Halbes Jurtendach",#00208,"Halbes Jurtendach",HJD,Zeltplane,,,,,,,,,0.00,,,,"Regal 5 Ebene 4",,,,,,,"Regal 5 Ebene 4",,,,,,,,,,,,,,,,,,,,,,,"Einsetzbar (deployable)",,,,"2022-06-01 17:22:02","2024-05-09 15:41:20",,,,https://ams.bdp-th.de/hardware/242,,,,,,
+243,"LV Thüringen",Jurtenabdeckplane,#00209,"Jurtenabdeckplane (Opi)",JAP,Zeltplane,Bundeskämmerei,,,,,,,,0.00,,,,"Kiste #00177",,,,,,,"Kiste #00177",,,,,,,,,,,,,,,,,,,,,,,"benötigt Reparatur (deployable)",,2023-04-07,,"2022-06-01 17:23:23","2023-04-07 11:56:52",,,,https://ams.bdp-th.de/hardware/243,,,,,,
+244,"LV Thüringen","Kothenplane Hochkothe",#00210,"Kothenplane für Hochkothe (S45/59)",KPH,Zeltplane,Tortuga,,2003-05-01,,2003-05-01,,,,0.00,,,,"Kiste #00179",,,,,,,"Kiste #00179",,,,,,,,,,,,,,,,,,,,,,,"benötigt Reparatur (deployable)",,2023-04-07,,"2022-06-01 17:24:06","2023-04-07 11:56:52",,,,https://ams.bdp-th.de/hardware/244,,,,,,
+245,"LV Thüringen","Kothenplane mit Erdstreifen",#00211,"Kothenplane mit Erdstreifen (S20/53)",KPE,Zeltplane,Tortuga,,,,,,,,0.00,,,,"Kiste #00179",,,,,,,"Kiste #00179",,,,,,,,,,,,,,,,,,,,,,,"benötigt Reparatur (deployable)",,2023-04-07,,"2022-06-01 17:25:11","2023-04-07 11:56:52",,,,https://ams.bdp-th.de/hardware/245,,,,,,
+246,"LV Thüringen","Kothenplane Hochkothe",#00212,"Kothenplane für Hochkothe (S45/59)",KPH,Zeltplane,Tortuga,,2003-05-01,,2003-05-01,,,,0.00,,,,"Regal 4 Ebene 2",,,,,,,"Regal 4 Ebene 2",,,,,,,,,,,,,,,,,,,,,,,"Einsetzbar (deployable)",,2023-04-07,,"2022-06-01 17:26:18","2024-05-09 15:41:41",,,,https://ams.bdp-th.de/hardware/246,,,,,,
+247,"LV Thüringen","Kothenplane Hochkothe",#00214,"Kothenplane für Hochkothe (S45/59)",KPH,Zeltplane,Tortuga,,2003-05-01,,2003-05-01,,,,0.00,,,,"Regal 4 Ebene 2",,,,,,,"Regal 4 Ebene 2",,,,,,,,,,,,,,,,,,,,,,,"Einsetzbar (deployable)",,2023-04-07,,"2022-06-01 17:26:19","2024-05-09 15:41:56",,,,https://ams.bdp-th.de/hardware/247,,,,,,
+248,"LV Thüringen","Kothenplane Hochkothe",#00215,"Kothenplane für Hochkothe (S45/59)",KPH,Zeltplane,Tortuga,,2003-05-01,,2003-05-01,,,,0.00,,,,"Regal 4 Ebene 2",,,,,,,"Regal 4 Ebene 2",,,,,,,,,,,,,,,,,,,,,,,"Einsetzbar (deployable)",,2023-04-07,,"2022-06-01 17:26:19","2024-05-09 15:42:01",,,,https://ams.bdp-th.de/hardware/248,,,,,,
+249,"LV Thüringen","Kothenplane mit Erdstreifen",#00213,"Kothenplane mit Erdstreifen (S20/53)",KPE,Zeltplane,Tortuga,,,,,,,,0.00,,,,"Regal 4 Ebene 3",,,,,,,"Regal 4 Ebene 3",,,,,,,,,,,,,,,,,,,,,,,"Einsetzbar (deployable)",,2023-04-07,,"2022-06-01 17:27:18","2024-05-09 15:41:46",,,,https://ams.bdp-th.de/hardware/249,,,,,,
+250,"LV Thüringen","Kothenplane Hochkothe",#00216,"Kothenplane für Hochkothe (S45/59)",KPH,Zeltplane,Tortuga,,2003-05-01,,2003-05-01,,,,0.00,,,,"Kiste #00187",,,,,,,"Kiste #00187",,,,,,,,,,,,,,,,,,,,,,,"benötigt Reparatur (deployable)",,2023-04-07,,"2022-06-01 17:28:26","2023-04-07 11:56:51",,,,https://ams.bdp-th.de/hardware/250,,,,,,
+251,"LV Thüringen",Sack,#00217,Sack,SAC,Container,,,,,,,,,0.00,,,,"Kiste #00254",,,,,,,"Kiste #00254",,,,,,,,,,,,,,,,,,,,,,,"Leer (deployable)",,2023-04-07,,"2022-06-01 17:29:09","2023-04-07 11:56:51",,,,https://ams.bdp-th.de/hardware/251,,,,,,
+252,"LV Thüringen","Kothenabdeckplane (Opi)",#00218,"Kothenabdeckplane (Opi)",KAP,Zeltplane,Bundeskämmerei,,,,,,,,0.00,,,,"Regal 4 Ebene 2",,,,,,,"Regal 4 Ebene 2",,,,,,,,,,,,,,,,,,,,,,,"muss bearbeitet werden (deployable)",,2023-04-07,,"2022-06-01 17:30:10","2024-05-09 15:42:22",,,,https://ams.bdp-th.de/hardware/252,,,,,,
+253,"LV Thüringen","Sack (evtl. Waschzelt)",#00219,Sack,SAC,Container,,,,,,,,,0.00,,,,"Schuppen 2","Jugendherberge 1",,"Bad Blankenburg",Thüringen,DE,07422,"Schuppen 2","Jugendherberge 1",,"Bad Blankenburg",Thüringen,DE,07422,,,,,,,,,,,,,,,,,"muss bearbeitet werden (deployable)",,,,"2022-06-01 17:30:49","2022-06-01 17:30:49",,,,https://ams.bdp-th.de/hardware/253,,,,,,
+254,"LV Thüringen","Kothenplane Hochkothe",#00220,"Kothenplane für Hochkothe (S45/59)",KPH,Zeltplane,Tortuga,,2003-05-01,,2003-05-01,,,,0.00,,,,"Kiste #00187",,,,,,,"Kiste #00187",,,,,,,,,,,,,,,,,,,,,,,"benötigt Reparatur (deployable)",,2023-04-07,,"2022-06-01 17:31:37","2023-04-07 11:56:50",,,,https://ams.bdp-th.de/hardware/254,,,,,,
+255,"LV Thüringen",Jurtenabdeckplane,#00221,"Jurtenabdeckplane (Opi)",JAP,Zeltplane,Bundeskämmerei,,,,,,,,0.00,,,,"Regal 5 Ebene 4",,,,,,,"Regal 5 Ebene 4",,,,,,,,,,,,,,,,,,,,,,,"Einsetzbar (deployable)","2024-05-15 08:55:32",2024-05-24,,"2022-06-01 17:32:06","2024-05-24 13:35:46",,,,https://ams.bdp-th.de/hardware/255,,,,,,
+256,"LV Thüringen",Sack,#00223,Sack,SAC,Container,,,,,,,,,0.00,,,,"Kiste #00254",,,,,,,"Kiste #00254",,,,,,,,,,,,,,,,,,,,,,,"Leer (deployable)",,2023-04-07,,"2022-06-01 17:33:42","2023-04-07 11:56:50",,,,https://ams.bdp-th.de/hardware/256,,,,,,
+257,"LV Thüringen",Sack,#00224,Sack,SAC,Container,,,,,,,,,0.00,,,,"Kiste #00254",,,,,,,"Kiste #00254",,,,,,,,,,,,,,,,,,,,,,,"Leer (deployable)",,2023-04-07,,"2022-06-01 17:33:42","2023-04-07 11:56:50",,,,https://ams.bdp-th.de/hardware/257,,,,,,
+258,"LV Thüringen",Sack,#00225,Sack,SAC,Container,,,,,,,,,0.00,,,,"Kiste #00254",,,,,,,"Kiste #00254",,,,,,,,,,,,,,,,,,,,,,,"Leer (deployable)",,2023-04-07,,"2022-06-01 17:33:42","2023-04-07 11:56:50",,,,https://ams.bdp-th.de/hardware/258,,,,,,
+259,"LV Thüringen",Sack,#00226,Sack,SAC,Container,,,,,,,,,0.00,,,,"Kiste #00254",,,,,,,"Kiste #00254",,,,,,,,,,,,,,,,,,,,,,,"Leer (deployable)",,2023-04-07,,"2022-06-01 17:33:42","2023-04-07 11:56:50",,,,https://ams.bdp-th.de/hardware/259,,,,,,
+260,"LV Thüringen",Sack,#00227,Sack,SAC,Container,,,,,,,,,0.00,,,,"Kiste #00254",,,,,,,"Kiste #00254",,,,,,,,,,,,,,,,,,,,,,,"Leer (deployable)",,2023-04-07,,"2022-06-01 17:33:43","2023-04-07 11:56:50",,,,https://ams.bdp-th.de/hardware/260,,,,,,
+261,"LV Thüringen",Sack,#00228,Sack,SAC,Container,,,,,,,,,0.00,,,,"Kiste #00254",,,,,,,"Kiste #00254",,,,,,,,,,,,,,,,,,,,,,,"Leer (deployable)",,2023-04-07,,"2022-06-01 17:33:43","2023-04-07 11:56:50",,,,https://ams.bdp-th.de/hardware/261,,,,,,
+262,"LV Thüringen",Sack,#00229,Sack,SAC,Container,,,,,,,,,0.00,,,,"Kiste #00254",,,,,,,"Kiste #00254",,,,,,,,,,,,,,,,,,,,,,,"Leer (deployable)",,2023-04-07,,"2022-06-01 17:33:43","2023-04-07 11:56:50",,,,https://ams.bdp-th.de/hardware/262,,,,,,
+263,"LV Thüringen",Sack,#00230,Sack,SAC,Container,,,,,,,,,0.00,,,,"Kiste #00254",,,,,,,"Kiste #00254",,,,,,,,,,,,,,,,,,,,,,,"Leer (deployable)",,2023-04-07,,"2022-06-01 17:33:44","2023-04-07 11:56:49",,,,https://ams.bdp-th.de/hardware/263,,,,,,
+264,"LV Thüringen",Sack,#00231,Sack,SAC,Container,,,,,,,,,0.00,,,,"Kiste #00254",,,,,,,"Kiste #00254",,,,,,,,,,,,,,,,,,,,,,,"Leer (deployable)",,2023-04-07,,"2022-06-01 17:33:44","2023-04-07 11:56:49",,,,https://ams.bdp-th.de/hardware/264,,,,,,
+265,"LV Thüringen",Sack,#00232,Sack,SAC,Container,,,,,,,,,0.00,,,,"Kiste #00254",,,,,,,"Kiste #00254",,,,,,,,,,,,,,,,,,,,,,,"Leer (deployable)",,2023-04-07,,"2022-06-01 17:33:44","2023-04-07 11:56:49",,,,https://ams.bdp-th.de/hardware/265,,,,,,
+266,"LV Thüringen",Sack,#00233,Sack,SAC,Container,,,,,,,,,0.00,,,,"Kiste #00254",,,,,,,"Kiste #00254",,,,,,,,,,,,,,,,,,,,,,,"Leer (deployable)",,2023-04-07,,"2022-06-01 17:33:44","2023-04-07 11:56:49",,,,https://ams.bdp-th.de/hardware/266,,,,,,
+267,"LV Thüringen",Sack,#00234,Sack,SAC,Container,,,,,,,,,0.00,,,,"Kiste #00254",,,,,,,"Kiste #00254",,,,,,,,,,,,,,,,,,,,,,,"Leer (deployable)",,2023-04-07,,"2022-06-01 17:33:45","2023-04-07 11:56:48",,,,https://ams.bdp-th.de/hardware/267,,,,,,
+268,"LV Thüringen",Sack,#00235,Sack,SAC,Container,,,,,,,,,0.00,,,,"Kiste #00254",,,,,,,"Kiste #00254",,,,,,,,,,,,,,,,,,,,,,,"Leer (deployable)",,2023-04-07,,"2022-06-01 17:33:45","2023-04-07 11:56:49",,,,https://ams.bdp-th.de/hardware/268,,,,,,
+269,"LV Thüringen",Sack,#00236,Sack,SAC,Container,,,,,,,,,0.00,,,,"Kiste #00254",,,,,,,"Kiste #00254",,,,,,,,,,,,,,,,,,,,,,,"Leer (deployable)",,2023-04-07,,"2022-06-01 17:33:45","2023-04-07 11:56:49",,,,https://ams.bdp-th.de/hardware/269,,,,,,
+270,"LV Thüringen",Sack,#00237,Sack,SAC,Container,,,,,,,,,0.00,,,,"Kiste #00254",,,,,,,"Kiste #00254",,,,,,,,,,,,,,,,,,,,,,,"Leer (deployable)",,2023-04-07,,"2022-06-01 17:33:45","2023-04-07 11:56:49",,,,https://ams.bdp-th.de/hardware/270,,,,,,
+271,"LV Thüringen",Sack,#00238,Sack,SAC,Container,,,,,,,,,0.00,,,,"Kiste #00254",,,,,,,"Kiste #00254",,,,,,,,,,,,,,,,,,,,,,,"Leer (deployable)",,2023-04-07,,"2022-06-01 17:33:46","2023-04-07 11:56:48",,,,https://ams.bdp-th.de/hardware/271,,,,,,
+272,"LV Thüringen",Sack,#00239,Sack,SAC,Container,,,,,,,,,0.00,,,,"Kiste #00254",,,,,,,"Kiste #00254",,,,,,,,,,,,,,,,,,,,,,,"Leer (deployable)",,2023-04-07,,"2022-06-01 17:33:46","2023-04-07 11:56:48",,,,https://ams.bdp-th.de/hardware/272,,,,,,
+273,"LV Thüringen",Sack,#00240,Sack,SAC,Container,,,,,,,,,0.00,,,,"Kiste #00254",,,,,,,"Kiste #00254",,,,,,,,,,,,,,,,,,,,,,,"Leer (deployable)",,2023-04-07,,"2022-06-01 17:33:46","2023-04-07 11:56:48",,,,https://ams.bdp-th.de/hardware/273,,,,,,
+274,"LV Thüringen",Sack,#00241,Sack,SAC,Container,,,,,,,,,0.00,,,,"Kiste #00254",,,,,,,"Kiste #00254",,,,,,,,,,,,,,,,,,,,,,,"Leer (deployable)",,2023-04-07,,"2022-06-01 17:33:46","2023-04-07 11:56:48",,,,https://ams.bdp-th.de/hardware/274,,,,,,
+275,"LV Thüringen",Sack,#00242,Sack,SAC,Container,,,,,,,,,0.00,,,,"Kiste #00254",,,,,,,"Kiste #00254",,,,,,,,,,,,,,,,,,,,,,,"Leer (deployable)",,2023-04-07,,"2022-06-01 17:33:47","2023-04-07 11:56:48",,,,https://ams.bdp-th.de/hardware/275,,,,,,
+276,"LV Thüringen",Sack,#00243,Sack,SAC,Container,,,,,,,,,0.00,,,,"Kiste #00254",,,,,,,"Kiste #00254",,,,,,,,,,,,,,,,,,,,,,,"Leer (deployable)",,2023-04-07,,"2022-06-01 17:33:47","2023-04-07 11:56:48",,,,https://ams.bdp-th.de/hardware/276,,,,,,
+277,"LV Thüringen",Sack,#00244,Sack,SAC,Container,,,,,,,,,0.00,,,,"Kiste #00254",,,,,,,"Kiste #00254",,,,,,,,,,,,,,,,,,,,,,,"Leer (deployable)",,2023-04-07,,"2022-06-01 17:33:47","2023-04-07 11:56:48",,,,https://ams.bdp-th.de/hardware/277,,,,,,
+278,"LV Thüringen","Sack (evtl Agadir)",#00245,Sack,SAC,Container,,,,,,,,,0.00,,,,"Schuppen 2","Jugendherberge 1",,"Bad Blankenburg",Thüringen,DE,07422,"Schuppen 2","Jugendherberge 1",,"Bad Blankenburg",Thüringen,DE,07422,,,,,,,,,,,,,,,,,"muss bearbeitet werden (deployable)",,2022-06-01,,"2022-06-01 17:33:48","2022-06-01 17:41:19",,,,https://ams.bdp-th.de/hardware/278,,,,,,
+279,"LV Thüringen",Kothe,#00246,"Zarges Kiste",ZAK,Container,Bundeskämmerei,,,,,,,,0.00,,,,"Schuppen 2","Jugendherberge 1",,"Bad Blankenburg",Thüringen,DE,07422,"Schuppen 2","Jugendherberge 1",,"Bad Blankenburg",Thüringen,DE,07422,,,,,,,,,,,,,,,,,"Einsetzbar (deployable)","2026-04-20 16:07:28",2026-04-26,,"2022-06-01 17:33:48","2026-04-26 15:50:36",,,,https://ams.bdp-th.de/hardware/279,,,,,,
+280,"LV Thüringen",Sack,#00247,Sack,SAC,Container,,,,,,,,,0.00,,,,"Kiste #00254",,,,,,,"Kiste #00254",,,,,,,,,,,,,,,,,,,,,,,"Leer (deployable)",,2023-04-07,,"2022-06-01 17:33:48","2023-04-07 11:56:47",,,,https://ams.bdp-th.de/hardware/280,,,,,,
+281,"LV Thüringen",Sack,#00248,Sack,SAC,Container,,,,,,,,,0.00,,,,"Kiste #00254",,,,,,,"Kiste #00254",,,,,,,,,,,,,,,,,,,,,,,"Leer (deployable)",,2023-04-07,,"2022-06-01 17:33:49","2023-04-07 11:56:47",,,,https://ams.bdp-th.de/hardware/281,,,,,,
+282,"LV Thüringen",Sack,#00249,Sack,SAC,Container,,,,,,,,,0.00,,,,"Kiste #00254",,,,,,,"Kiste #00254",,,,,,,,,,,,,,,,,,,,,,,"Leer (deployable)",,2023-04-07,,"2022-06-01 17:33:49","2023-04-07 11:56:47",,,,https://ams.bdp-th.de/hardware/282,,,,,,
+283,"LV Thüringen",Sack,#00250,Sack,SAC,Container,,,,,,,,,0.00,,,,"Kiste #00254",,,,,,,"Kiste #00254",,,,,,,,,,,,,,,,,,,,,,,"Leer (deployable)",,2023-04-07,,"2022-06-01 17:33:49","2023-04-07 11:56:47",,,,https://ams.bdp-th.de/hardware/283,,,,,,
+284,"LV Thüringen",Sack,#00251,Sack,SAC,Container,,,,,,,,,0.00,,,,"Kiste #00254",,,,,,,"Kiste #00254",,,,,,,,,,,,,,,,,,,,,,,"Leer (deployable)",,2023-04-07,,"2022-06-01 17:33:50","2023-04-07 11:56:47",,,,https://ams.bdp-th.de/hardware/284,,,,,,
+285,"LV Thüringen",Sack,#00252,Sack,SAC,Container,,,,,,,,,0.00,,,,"Kiste #00254",,,,,,,"Kiste #00254",,,,,,,,,,,,,,,,,,,,,,,"Leer (deployable)",,2023-04-07,,"2022-06-01 17:33:51","2023-04-07 11:56:47",,,,https://ams.bdp-th.de/hardware/285,,,,,,
+286,"LV Thüringen",Sack,#00253,Sack,SAC,Container,,,,,,,,,0.00,,,,"Kiste #00254",,,,,,,"Kiste #00254",,,,,,,,,,,,,,,,,,,,,,,"Leer (deployable)",,2023-04-07,,"2022-06-01 17:33:51","2023-04-07 11:56:47",,,,https://ams.bdp-th.de/hardware/286,,,,,,
+287,"LV Thüringen","Doppelte Seitenplane",#00255,"Doppelzeltbahn ",DSP,Zeltplane,,,2003-05-01,,2003-05-01,,,,0.00,,,,"Regal 5 Ebene 3",,,,,,,"Regal 5 Ebene 3",,,,,,,,,,,,,,,,,,,,,,,"Einsetzbar (deployable)",,2023-04-05,,"2022-06-01 17:37:19","2024-05-09 15:44:16",,,,https://ams.bdp-th.de/hardware/287,,,,,,
+288,"LV Thüringen","Doppelte Seitenplane",#00256,"Doppelzeltbahn ",DSP,Zeltplane,,,2003-05-01,,2003-05-01,,,,0.00,,,,"Regal 5 Ebene 3",,,,,,,"Regal 5 Ebene 3",,,,,,,,,,,,,,,,,,,,,,,"Einsetzbar (deployable)",,2023-04-05,,"2022-06-01 17:37:20","2024-05-09 15:44:26",,,,https://ams.bdp-th.de/hardware/288,,,,,,
+289,"LV Thüringen",Sturmheringe,#00257,Holzkiste,HOK,Container,Bundeskämmerei,,,,,,,,0.00,,,,"Schuppen 2","Jugendherberge 1",,"Bad Blankenburg",Thüringen,DE,07422,"Schuppen 2","Jugendherberge 1",,"Bad Blankenburg",Thüringen,DE,07422,,,,,,,,,,,,,,,,,"muss bearbeitet werden (deployable)",,,,"2022-06-01 17:38:48","2022-06-01 17:38:48",,,,https://ams.bdp-th.de/hardware/289,,,,,,
+290,"LV Thüringen",Seilkiste,#00258,Blechkiste,BLK,Container,,,2022-05-28,,2022-05-28,,,,0.00,,,,"Regal 4 Ebene 1",,,,,,,"Regal 4 Ebene 1",,,,,,,,,,,,,,,,,,,,,,,"Einsetzbar (deployable)",,,,"2022-06-01 17:40:02","2024-05-09 15:44:36",,,,https://ams.bdp-th.de/hardware/290,,,,,,
+291,"LV Thüringen",Sack,#00259,Sack,SAC,Container,,,,,,,,,0.00,,,,"Kiste #00279",,,,,,,"Kiste #00279",,,,,,,,,,,,,,,,,,,,,,,"Einsetzbar (deployable)",,2023-04-07,,"2022-06-01 17:40:40","2023-04-07 11:56:47",,,,https://ams.bdp-th.de/hardware/291,,,,,,
+292,"LV Thüringen","Sack (evtl Sahara)",#00260,Sack,SAC,Container,,,,,,,,,0.00,,,,"Schuppen 2","Jugendherberge 1",,"Bad Blankenburg",Thüringen,DE,07422,"Schuppen 2","Jugendherberge 1",,"Bad Blankenburg",Thüringen,DE,07422,,,,,,,,,,,,,,,,,"muss bearbeitet werden (deployable)",,,,"2022-06-01 17:41:10","2022-06-01 17:41:10",,,,https://ams.bdp-th.de/hardware/292,,,,,,
+293,"LV Thüringen","Tasche Heringe",#00261,Tasche,TAS,Container,,,,,,,,,0.00,,,,S.1.L.2,,,,,,,S.1.L.2,,,,,,,,,,,,,,,,,,,,,,,"Leer (deployable)",,2022-09-20,,"2022-06-01 17:41:54","2022-11-10 12:11:56",,,,https://ams.bdp-th.de/hardware/293,,,,,,
+294,"LV Thüringen",Küchenjurte,#00262,Blechkiste,BLK,Container,,,2022-05-28,,2022-05-28,,,,0.00,,,,"Regal 6 Ebene 1",,,,,,,"Regal 6 Ebene 1",,,,,,,,,,,,,,,,,,,,,,,"Einsetzbar (deployable)",,,,"2022-06-01 17:42:34","2024-05-15 09:06:07",,,,https://ams.bdp-th.de/hardware/294,,,,,,
+295,"LV Thüringen",Tasche,#00263,Tasche,TAS,Container,,,,,,,,,0.00,,,,S.1.L.2,,,,,,,S.1.L.2,,,,,,,,,,,,,,,,,,,,,,,"Leer (deployable)",,,,"2022-06-01 17:42:44","2022-06-02 20:10:45",,,,https://ams.bdp-th.de/hardware/295,,,,,,
+296,"LV Thüringen",Heringssack,#00265,Sack,SAC,Container,,,,,,,,,0.00,,,,"Kiste #00264",,,,,,,"Kiste #00264",,,,,,,,,,,,,,,,,,,,,,,"Leer (deployable)",,2023-04-07,,"2022-06-01 17:43:43","2023-04-07 11:56:46",,,,https://ams.bdp-th.de/hardware/296,,,,,,
+297,"LV Thüringen",Axt,#00266,Axt,AXT,Werkzeug,,,,,,,,,0.00,,,,"Kiste #00278",,,,,,,"Kiste #00278",,,,,,,,,,,,,,,,,,,,,,,"Einsetzbar (deployable)",,2023-04-07,,"2022-06-01 17:45:49","2023-04-07 11:56:46",,,,https://ams.bdp-th.de/hardware/297,,,,,,
+298,"LV Thüringen",Axt,#00268,Axt,AXT,Werkzeug,,,,,,,,,0.00,,,,"Kiste #00133",,,,,,,"Kiste #00133",,,,,,,,,,,,,,,,,,,,,,,"Einsetzbar (deployable)",,2023-04-07,,"2022-06-01 17:45:49","2023-04-07 11:56:46",,,,https://ams.bdp-th.de/hardware/298,,,,,,
+299,"LV Thüringen",Axt,#00274,Axt,AXT,Werkzeug,,,,,,,,,0.00,,,,"Kiste #00279",,,,,,,"Kiste #00279",,,,,,,,,,,,,,,,,,,,,,,"Einsetzbar (deployable)",,2023-04-07,,"2022-06-01 17:45:50","2023-04-07 11:56:46",,,,https://ams.bdp-th.de/hardware/299,,,,,,
+300,"LV Thüringen",Axt,#00275,Axt,AXT,Werkzeug,,,,,,,,,0.00,,,,"Kiste #00278",,,,,,,"Kiste #00278",,,,,,,,,,,,,,,,,,,,,,,"Einsetzbar (deployable)",,2023-04-07,,"2022-06-01 17:45:50","2023-04-07 11:56:46",,,,https://ams.bdp-th.de/hardware/300,,,,,,
+301,"LV Thüringen",Hammer,#00267,Hammer,HAM,Werkzeug,,,,,,,,,0.00,,,,"Kiste #00278",,,,,,,"Kiste #00278",,,,,,,,,,,,,,,,,,,,,,,"Einsetzbar (deployable)",,2023-04-07,,"2022-06-01 17:47:45","2023-04-07 11:56:46",,,,https://ams.bdp-th.de/hardware/301,,,,,,
+302,"LV Thüringen",Hammer,#00271,Hammer,HAM,Werkzeug,,,,,,,,,0.00,,,,"Kiste #00278",,,,,,,"Kiste #00278",,,,,,,,,,,,,,,,,,,,,,,"Einsetzbar (deployable)",,2023-04-07,,"2022-06-01 17:47:45","2023-04-07 11:56:46",,,,https://ams.bdp-th.de/hardware/302,,,,,,
+303,"LV Thüringen",Hammer,#00272,Hammer,HAM,Werkzeug,,,,,,,,,0.00,,,,"Kiste #00278",,,,,,,"Kiste #00278",,,,,,,,,,,,,,,,,,,,,,,"Einsetzbar (deployable)",,2023-04-07,,"2022-06-01 17:47:46","2023-04-07 11:56:45",,,,https://ams.bdp-th.de/hardware/303,,,,,,
+304,"LV Thüringen",Hammer,#00273,Hammer,HAM,Werkzeug,,,,,,,,,0.00,,,,"Kiste #00278",,,,,,,"Kiste #00278",,,,,,,,,,,,,,,,,,,,,,,"Einsetzbar (deployable)",,2023-04-07,,"2022-06-01 17:47:46","2023-04-07 11:56:45",,,,https://ams.bdp-th.de/hardware/304,,,,,,
+305,"LV Thüringen",Hammer,#00276,Hammer,HAM,Werkzeug,,,,,,,,,0.00,,,,"Kiste #00278",,,,,,,"Kiste #00278",,,,,,,,,,,,,,,,,,,,,,,"Einsetzbar (deployable)",,2023-04-07,,"2022-06-01 17:47:46","2023-04-07 11:56:45",,,,https://ams.bdp-th.de/hardware/305,,,,,,
+306,"LV Thüringen",Hammer,#00294,Hammer,HAM,Werkzeug,,,,,,,,,0.00,,,,"Kiste #00278",,,,,,,"Kiste #00278",,,,,,,,,,,,,,,,,,,,,,,"Einsetzbar (deployable)",,2023-04-07,,"2022-06-01 17:47:46","2023-04-07 11:56:45",,,,https://ams.bdp-th.de/hardware/306,,,,,,
+307,"LV Thüringen",Spaten,#00269,Spaten,SPA,Werkzeug,,,,,,,,,0.00,,,,"Kiste #00278",,,,,,,"Kiste #00278",,,,,,,,,,,,,,,,,,,,,,,"Einsetzbar (deployable)",,2023-04-07,,"2022-06-01 17:48:44","2023-04-07 11:56:45",,,,https://ams.bdp-th.de/hardware/307,,,,,,
+308,"LV Thüringen",Spaten,#00270,Spaten,SPA,Werkzeug,,,,,,,,,0.00,,,,"Schuppen 1","Jugendherberge 1",,"Bad Blankenburg",Thüringen,DE,07422,"Schuppen 1","Jugendherberge 1",,"Bad Blankenburg",Thüringen,DE,07422,,,,,,,,,,,,,,,,,"Einsetzbar (deployable)",,,,"2022-06-01 17:49:01","2024-05-09 15:45:52",,,,https://ams.bdp-th.de/hardware/308,,,,,,
+309,"LV Thüringen",Sturmheringskiste,#00277,"Plastik Kiste",PLK,Container,,,,,,,,,0.00,,,,R.3.5,,,,,,,R.3.5,,,,,,,,,,,,,,,,,,,,,,,"muss bearbeitet werden (deployable)",,,,"2022-06-01 17:50:22","2022-06-01 17:51:22",,,,https://ams.bdp-th.de/hardware/309,,,,,,
+310,"LV Thüringen",Werkzeug,#00279,"Zarges Kiste",ZAK,Container,Bundeskämmerei,,,,,,,,0.00,,,Zarges,"Schuppen 2","Jugendherberge 1",,"Bad Blankenburg",Thüringen,DE,07422,"Schuppen 2","Jugendherberge 1",,"Bad Blankenburg",Thüringen,DE,07422,,,,,,,,,,,,,,,,,"Einsetzbar (deployable)","2025-08-22 00:00:00",2026-01-06,,"2022-06-01 17:52:12","2026-01-06 15:14:49",,,,https://ams.bdp-th.de/hardware/310,,,60,40,50,
+311,"LV Thüringen",Kettenkiste,#00280,"Plastik Kiste",PLK,Container,,,,,,,,,0.00,,,,R.3.1,,,,,,,R.3.1,,,,,,,,,,,,,,,,,,,,,,,"Einsetzbar (deployable)",,,,"2022-06-01 17:53:26","2022-06-01 17:53:26",,,,https://ams.bdp-th.de/hardware/311,,,,,,
+312,"LV Thüringen",Holzkiste,#00281,Holzkiste,HOK,Container,Bundeskämmerei,,,,,,,,0.00,,,,"Schuppen 2","Jugendherberge 1",,"Bad Blankenburg",Thüringen,DE,07422,"Schuppen 2","Jugendherberge 1",,"Bad Blankenburg",Thüringen,DE,07422,,,,,,,,,,,,,,,,,"Leer (deployable)",,,,"2022-06-01 17:54:59","2022-06-01 17:54:59",,,,https://ams.bdp-th.de/hardware/312,,,,,,
+313,"LV Thüringen","Technikkiste (Krimskrams)",#00282,Holzkiste,HOK,Container,Bundeskämmerei,,,,,,,,0.00,,,,"Schuppen 2","Jugendherberge 1",,"Bad Blankenburg",Thüringen,DE,07422,"Schuppen 2","Jugendherberge 1",,"Bad Blankenburg",Thüringen,DE,07422,,,,,,,,,,,,,,,,,"muss bearbeitet werden (deployable)",,,,"2022-06-01 17:56:06","2022-06-01 17:56:06",,,,https://ams.bdp-th.de/hardware/313,,,,,,
+314,"LV Thüringen",Stangensack,#00283,Sack,SAC,Container,,,,,,,,,0.00,,,,"Regal 7 Ebene 2",,,,,,,"Regal 7 Ebene 2",,,,,,,,,,,,,,,,,,,,,,,"muss bearbeitet werden (deployable)",,,,"2022-06-01 17:56:37","2024-05-09 15:46:08",,,,https://ams.bdp-th.de/hardware/314,,,,,,
+315,"LV Thüringen","Abspannschnüre Jurtenburg",#00284,"Plastik Kiste",PLK,Container,,,,,,,,,0.00,,,,R.3.4,,,,,,,R.3.4,,,,,,,,,,,,,,,,,,,,,,,"Einsetzbar (deployable)",,,,"2022-06-01 17:57:37","2022-06-01 17:57:37",,,,https://ams.bdp-th.de/hardware/315,,,,,,
+316,"LV Thüringen",Säge,#00285,Säge,SAE,Werkzeug,,,,,,,,,0.00,,,,"Kiste #00278",,,,,,,"Kiste #00278",,,,,,,,,,,,,,,,,,,,,,,"benötigt Reparatur (deployable)",,2023-04-07,,"2022-06-01 17:58:35","2023-04-07 11:56:45",,,,https://ams.bdp-th.de/hardware/316,,,,,,
+317,"LV Thüringen",Säge,#00286,Säge,SAE,Werkzeug,,,,,,,,,0.00,,,,"Kiste #00279",,,,,,,"Kiste #00279",,,,,,,,,,,,,,,,,,,,,,,"Einsetzbar (deployable)",,2023-04-07,,"2022-06-01 17:58:59","2023-04-07 11:56:45",,,,https://ams.bdp-th.de/hardware/317,,,,,,
+318,"LV Thüringen",Säge,#00287,Säge,SAE,Werkzeug,,,,,,,,,0.00,,,,"Schuppen 1","Jugendherberge 1",,"Bad Blankenburg",Thüringen,DE,07422,"Schuppen 1","Jugendherberge 1",,"Bad Blankenburg",Thüringen,DE,07422,,,,,,,,,,,,,,,,,"Einsetzbar (deployable)",,2023-04-07,,"2022-06-01 17:58:59","2024-05-09 15:46:22",,,,https://ams.bdp-th.de/hardware/318,,,,,,
+319,"LV Thüringen","Farben und Lacke",#00288,"Plastik Kiste",PLK,Container,,,,,,,,,0.00,,,,R.3.2,,,,,,,R.3.2,,,,,,,,,,,,,,,,,,,,,,,"Einsetzbar (deployable)",,,,"2022-06-01 18:00:02","2022-06-01 18:00:02",,,,https://ams.bdp-th.de/hardware/319,,,,,,
+320,"LV Thüringen",Krimskrams,#00289,"Plastik Kiste",PLK,Container,,,,,,,,,0.00,,,,R.3.2,,,,,,,R.3.2,,,,,,,,,,,,,,,,,,,,,,,"Einsetzbar (deployable)",,,,"2022-06-01 18:00:47","2022-06-01 18:00:47",,,,https://ams.bdp-th.de/hardware/320,,,,,,
+321,"LV Thüringen",Wassersäcke,#00290,"Plastik Kiste",PLK,Container,,,,,,,,,0.00,,,,R.3.2,,,,,,,R.3.2,,,,,,,,,,,,,,,,,,,,,,,"Einsetzbar (deployable)",,,,"2022-06-01 18:01:13","2022-06-02 20:13:05",,,,https://ams.bdp-th.de/hardware/321,,,,,,
+322,"LV Thüringen",Krimskrams,#00291,"Plastik Kiste",PLK,Container,,,,,,,,,0.00,,,,R.3.3,,,,,,,R.3.3,,,,,,,,,,,,,,,,,,,,,,,"Einsetzbar (deployable)",,,,"2022-06-01 18:01:34","2022-06-01 18:01:34",,,,https://ams.bdp-th.de/hardware/322,,,,,,
+323,"LV Thüringen",Gummihammer,#00292,Gummihammer,GHA,Werkzeug,,,,,,,,,0.00,,,,"Kiste #00278",,,,,,,"Kiste #00278",,,,,,,,,,,,,,,,,,,,,,,"Einsetzbar (deployable)",,2023-04-07,,"2022-06-01 18:02:18","2023-04-07 11:56:44",,,,https://ams.bdp-th.de/hardware/323,,,,,,
+324,"LV Thüringen",Gummihammer,#00293,Gummihammer,GHA,Werkzeug,,,,,,,,,0.00,,,,"Kiste #00278",,,,,,,"Kiste #00278",,,,,,,,,,,,,,,,,,,,,,,"Einsetzbar (deployable)",,2023-04-07,,"2022-06-01 18:02:37","2023-04-07 11:56:44",,,,https://ams.bdp-th.de/hardware/324,,,,,,
+325,"LV Thüringen",Hammer,#00295,Hammer,HAM,Werkzeug,,,,,,,,,0.00,,,,R.3.1,,,,,,,,,,,,,,"Kettenkiste ##00280 - Plastik Kiste",asset,,,,,,,,,,,,,,,"muss bearbeitet werden (deployed)","2022-06-01 20:03:32",,,"2022-06-01 18:03:31","2022-06-01 18:03:32",,,,https://ams.bdp-th.de/hardware/325,,,,,,
+326,"LV Thüringen","Kaputte Heringe",#00296,"Plastik Kiste",PLK,Container,,,,,,,,,0.00,,,,"Schuppen 2","Jugendherberge 1",,"Bad Blankenburg",Thüringen,DE,07422,"Schuppen 2","Jugendherberge 1",,"Bad Blankenburg",Thüringen,DE,07422,,,,,,,,,,,,,,,,,"Einsetzbar (deployable)",,,,"2022-06-01 18:04:20","2022-06-01 18:04:20",,,,https://ams.bdp-th.de/hardware/326,,,,,,
+327,"LV Thüringen",Kanthölzer,#00297,"Plastik Kiste",PLK,Container,,,,,,,,,0.00,,,,"Regal 4 Ebene 2",,,,,,,"Regal 4 Ebene 2",,,,,,,,,,,,,,,,,,,,,,,"Einsetzbar (deployable)",,,,"2022-06-01 18:05:06","2024-05-09 15:46:40",,,,https://ams.bdp-th.de/hardware/327,,,,,,
+328,"LV Thüringen",Trangia,#00298,Trangia,TRAN,"Küchenzubehör (Passiv)",Trangia,,,,,,,,0.00,,,,S.1.L.4,,,,,,,S.1.L.4,,,,,,,,,,,,,,,,,,,,,,,"muss bearbeitet werden (deployable)",,,,"2022-07-22 12:48:18","2022-07-22 12:48:55",,,,https://ams.bdp-th.de/hardware/328,,,,,,
+329,"LV Thüringen",Trangia,#00299,Trangia,TRAN,"Küchenzubehör (Passiv)",Trangia,,,,,,,,0.00,,,,S.1.L.4,,,,,,,S.1.L.4,,,,,,,,,,,,,,,,,,,,,,,"muss bearbeitet werden (deployable)",,,,"2022-07-22 12:49:26","2022-07-22 12:49:26",,,,https://ams.bdp-th.de/hardware/329,,,,,,
+330,"LV Thüringen",Trangia,#00300,Trangia,TRAN,"Küchenzubehör (Passiv)",Trangia,,,,,,,,0.00,,,,S.1.L.4,,,,,,,S.1.L.4,,,,,,,,,,,,,,,,,,,,,,,"muss bearbeitet werden (deployable)",,,,"2022-07-22 12:49:26","2022-07-22 12:49:26",,,,https://ams.bdp-th.de/hardware/330,,,,,,
+331,"LV Thüringen",Trangia,#00301,Trangia,TRAN,"Küchenzubehör (Passiv)",Trangia,,,,,,,,0.00,,,,S.1.L.4,,,,,,,S.1.L.4,,,,,,,,,,,,,,,,,,,,,,,"muss bearbeitet werden (deployable)",,,,"2022-07-22 12:49:42","2022-07-22 12:49:42",,,,https://ams.bdp-th.de/hardware/331,,,,,,
+332,"LV Thüringen",Trangia,#00302,Trangia,TRAN,"Küchenzubehör (Passiv)",Trangia,,,,,,,,0.00,,,,S.1.R.4,,,,,,,S.1.R.5,,,,,,,,,,,,,,,,,,,,,,,"Einsetzbar (deployable)",,2022-09-20,,"2022-07-22 12:50:02","2022-11-10 12:07:23",,,,https://ams.bdp-th.de/hardware/332,,,,,,
+333,"LV Thüringen",Trangia,#00303,Trangia,TRAN,"Küchenzubehör (Passiv)",Trangia,,,,,,,,0.00,,,,S.1.L.4,,,,,,,S.1.L.4,,,,,,,,,,,,,,,,,,,,,,,"muss bearbeitet werden (deployable)",,,,"2022-07-22 12:50:15","2022-07-22 12:50:15",,,,https://ams.bdp-th.de/hardware/333,,,,,,
+334,"LV Thüringen",Trangia,#00304,Trangia,TRAN,"Küchenzubehör (Passiv)",Trangia,,,,,,,,0.00,,,,S.1.L.4,,,,,,,S.1.L.4,,,,,,,,,,,,,,,,,,,,,,,"muss bearbeitet werden (deployable)",,,,"2022-07-22 12:50:30","2022-07-22 12:50:30",,,,https://ams.bdp-th.de/hardware/334,,,,,,
+335,"LV Thüringen",Trangia,#00305,Trangia,TRAN,"Küchenzubehör (Passiv)",Trangia,,,,,,,,0.00,,,,S.1.L.4,,,,,,,S.1.L.4,,,,,,,,,,,,,,,,,,,,,,,"muss bearbeitet werden (deployable)",,,,"2022-07-22 12:50:41","2022-07-22 12:50:41",,,,https://ams.bdp-th.de/hardware/335,,,,,,
+336,"LV Thüringen",Trangia,#00306,Trangia,TRAN,"Küchenzubehör (Passiv)",Trangia,,,,,,,,0.00,,,,S.1.L.4,,,,,,,S.1.L.4,,,,,,,,,,,,,,,,,,,,,,,"muss bearbeitet werden (deployable)",,,,"2022-07-22 12:50:50","2022-07-22 12:50:50",,,,https://ams.bdp-th.de/hardware/336,,,,,,
+337,"LV Thüringen",Trangia,#00307,Trangia,TRAN,"Küchenzubehör (Passiv)",Trangia,,,,,,,,0.00,,,,S.1.L.4,,,,,,,S.1.L.4,,,,,,,,,,,,,,,,,,,,,,,"muss bearbeitet werden (deployable)",,,,"2022-07-22 12:51:10","2022-07-22 12:51:10",,,,https://ams.bdp-th.de/hardware/337,,,,,,
+338,"LV Thüringen",Trangia,#00308,Trangia,TRAN,"Küchenzubehör (Passiv)",Trangia,,,,,,,,0.00,,,,S.1.L.4,,,,,,,S.1.L.4,,,,,,,,,,,,,,,,,,,,,,,"muss bearbeitet werden (deployable)",,,,"2022-07-22 12:51:21","2022-07-22 12:51:21",,,,https://ams.bdp-th.de/hardware/338,,,,,,
+339,"LV Thüringen",Trangia,#00309,Trangia,TRAN,"Küchenzubehör (Passiv)",Trangia,,,,,,,,0.00,,,,S.1.R.4,,,,,,,S.1.R.5,,,,,,,,,,,,,,,,,,,,,,,"Einsetzbar (deployable)",,2022-09-20,,"2022-07-22 12:51:41","2022-11-10 12:08:05",,,,https://ams.bdp-th.de/hardware/339,,,,,,
+340,"LV Thüringen",Trangia,#00310,Trangia,TRAN,"Küchenzubehör (Passiv)",Trangia,,,,,,,,0.00,,,,S.1.L.4,,,,,,,S.1.L.4,,,,,,,,,,,,,,,,,,,,,,,"Einsetzbar (deployable)",,,,"2022-07-22 12:52:07","2022-07-22 12:52:07",,,,https://ams.bdp-th.de/hardware/340,,,,,,
+341,"LV Thüringen",Trangia,#00311,Trangia,TRAN,"Küchenzubehör (Passiv)",Trangia,,,,,,,,0.00,,,,S.1.R.4,,,,,,,S.1.R.5,,,,,,,,,,,,,,,,,,,,,,,"Einsetzbar (deployable)",,2022-09-20,,"2022-07-22 12:52:23","2022-11-10 12:07:50",,,,https://ams.bdp-th.de/hardware/341,,,,,,
+342,"LV Thüringen",Trangia,#00312,Trangia,TRAN,"Küchenzubehör (Passiv)",Trangia,,,,,,,,0.00,,,,S.1.R.4,,,,,,,S.1.R.5,,,,,,,,,,,,,,,,,,,,,,,"Einsetzbar (deployable)",,2022-09-20,,"2022-07-22 12:52:23","2022-11-10 12:07:37",,,,https://ams.bdp-th.de/hardware/342,,,,,,
+343,"LV Thüringen",Jurtendach,#00313,"Jurtendach 610 cm",JUD,Zeltplane,Bundeskämmerei,,,,,,,,0.00,,,Stromeyer,"Kiste #00262",,,,,,,"Kiste #00262",,,,,,,,,,,,,,,,,,,,,,,"Einsetzbar (deployable)","2025-08-22 00:00:00",2026-01-06,,"2022-07-22 12:54:21","2026-01-06 15:12:35",,,,https://ams.bdp-th.de/hardware/343,,,,,,
+344,"LV Thüringen",Heringssack,#00314,Sack,SAC,Container,,,,,,,,,0.00,,,,"Kiste #00262",,,,,,,"Schuppen 2 Regal 1",,,,,,,,,,,,,,,,,,,,,,,"muss bearbeitet werden (deployable)",,2023-04-07,,"2022-07-22 12:56:03","2025-06-14 13:29:59",,,,https://ams.bdp-th.de/hardware/344,,,,,,
+345,"LV Thüringen",Jurtenabdeckplane,#00315,"Jurtenabdeckplane (Opi)",JAP,Zeltplane,Bundeskämmerei,,,,,,,,0.00,,,,,,,,,,,"Regal 5 Ebene 4",,,,,,,"Linus Heinrich",user,linus.heinrich@pfadfinderbadblankenburg.de,,linus.heinrich@pfadfinderbadblankenburg.de,,,,Materialwart,,,,,,,,"muss bearbeitet werden (deployed)","2026-04-20 16:13:38",2022-07-27,"2026-04-26 00:00:00","2022-07-22 12:56:43","2026-04-20 16:13:39",,,,https://ams.bdp-th.de/hardware/345,,,,,,
+346,"LV Thüringen",Fensterplane,#00316,Fensterplane,JPF,Zeltplane,Bundeskämmerei,,,,,,,,0.00,,,,"Kiste #00262",,,,,,,"Kiste #00262",,,,,,,,,,,,,,,,,,,,,,,"Einsetzbar (deployable)",,2023-04-07,,"2022-07-22 12:58:17","2023-04-07 11:56:44",,,,https://ams.bdp-th.de/hardware/346,,,,190,,
+347,"LV Thüringen",Fensterplane,#00317,Fensterplane,JPF,Zeltplane,Bundeskämmerei,,,,,,,,0.00,,,,"Kiste #00262",,,,,,,"Kiste #00262",,,,,,,,,,,,,,,,,,,,,,,"Einsetzbar (deployable)","2025-08-22 00:00:00",2026-01-06,,"2022-07-22 12:59:13","2026-01-06 15:09:16",,,,https://ams.bdp-th.de/hardware/347,,,,190,,
+348,"LV Thüringen",Fensterplane,#00318,Fensterplane,JPF,Zeltplane,Bundeskämmerei,,,,,,,,0.00,,,,"Kiste #00262",,,,,,,"Kiste #00262",,,,,,,,,,,,,,,,,,,,,,,"Einsetzbar (deployable)","2025-08-22 00:00:00",2026-01-06,,"2022-07-22 12:59:13","2026-01-06 15:09:31",,,,https://ams.bdp-th.de/hardware/348,,,,190,,
+349,"LV Thüringen",Fensterplane,#00319,Fensterplane,JPF,Zeltplane,Bundeskämmerei,,,,,,,,0.00,,,,"Kiste #00262",,,,,,,"Kiste #00262",,,,,,,,,,,,,,,,,,,,,,,"Einsetzbar (deployable)",,2023-04-07,,"2022-07-22 12:59:13","2023-04-07 11:56:44",,,,https://ams.bdp-th.de/hardware/349,,,,190,,
+350,"LV Thüringen",Fensterplane,#00320,Fensterplane,JPF,Zeltplane,Bundeskämmerei,,,,,,,,0.00,,,,"Kiste #00262",,,,,,,"Kiste #00262",,,,,,,,,,,,,,,,,,,,,,,"Einsetzbar (deployable)","2025-08-22 00:00:00",2026-01-06,,"2022-07-22 12:59:13","2026-01-06 15:10:57",,,,https://ams.bdp-th.de/hardware/350,,,,190,,
+351,"LV Thüringen",Fensterplane,#00321,Fensterplane,JPF,Zeltplane,Bundeskämmerei,,,,,,,,0.00,,,,"Kiste #00262",,,,,,,"Kiste #00262",,,,,,,,,,,,,,,,,,,,,,,"Einsetzbar (deployable)","2025-08-22 00:00:00",2026-01-06,,"2022-07-22 12:59:13","2026-01-06 15:11:35",,,,https://ams.bdp-th.de/hardware/351,,,,190,,
+352,"LV Thüringen","Doppelte Seitenplane",#00322,"Doppelzeltbahn ",DSP,Zeltplane,,,2003-05-01,,2003-05-01,,,,0.00,,,Stromeyer,"Kiste #00262",,,,,,,"Kiste #00262",,,,,,,,,,,,,,,,,,,,,,,"Einsetzbar (deployable)","2025-08-22 00:00:00",2026-01-06,,"2022-07-22 13:01:48","2026-01-06 15:08:57",,,,https://ams.bdp-th.de/hardware/352,,,,,,
+353,"LV Thüringen","Doppelte Seitenplane",#00323,"Doppelzeltbahn ",DSP,Zeltplane,,,2003-05-01,,2003-05-01,,,,0.00,,,Stromeyer,"Kiste #00262",,,,,,,"Kiste #00262",,,,,,,,,,,,,,,,,,,,,,,"Einsetzbar (deployable)","2025-08-22 00:00:00",2026-01-06,,"2022-07-22 13:02:12","2026-01-06 15:09:04",,,,https://ams.bdp-th.de/hardware/353,,,,,,
+354,"LV Thüringen","Doppelte Seitenplane",#00324,"Doppelzeltbahn ",DSP,Zeltplane,,,2003-05-01,,2003-05-01,,,,0.00,,,Stromeyer,"Kiste #00262",,,,,,,"Kiste #00262",,,,,,,,,,,,,,,,,,,,,,,"Einsetzbar (deployable)",,2023-04-07,,"2022-07-22 13:02:12","2023-04-07 11:56:43",,,,https://ams.bdp-th.de/hardware/354,,,,,,
+355,"LV Thüringen","Doppelte Seitenplane",#00325,"Doppelzeltbahn ",DSP,Zeltplane,,,2003-05-01,,2003-05-01,,,,0.00,,,Stromeyer,"Kiste #00262",,,,,,,"Kiste #00262",,,,,,,,,,,,,,,,,,,,,,,"Einsetzbar (deployable)",,2023-04-07,,"2022-07-22 13:02:12","2023-04-07 11:56:43",,,,https://ams.bdp-th.de/hardware/355,,,,,,
+356,"LV Thüringen","Doppelte Seitenplane",#00326,"Doppelzeltbahn ",DSP,Zeltplane,,,2003-05-01,,2003-05-01,,,,0.00,,,Stromeyer,"Kiste #00262",,,,,,,"Kiste #00262",,,,,,,,,,,,,,,,,,,,,,,"Einsetzbar (deployable)",,2023-04-07,,"2022-07-22 13:02:12","2023-04-07 11:56:43",,,,https://ams.bdp-th.de/hardware/356,,,,,,
+357,"LV Thüringen","Doppelte Seitenplane",#00327,"Doppelzeltbahn ",DSP,Zeltplane,,,2003-05-01,,2003-05-01,,,,0.00,,,Stromeyer,"Kiste #00262",,,,,,,"Kiste #00262",,,,,,,,,,,,,,,,,,,,,,,"Einsetzbar (deployable)",,2023-04-07,,"2022-07-22 13:02:12","2023-04-07 11:56:43",,,,https://ams.bdp-th.de/hardware/357,,,,,,
+358,"LV Thüringen","Kothenabdeckplane (Opi)",#00328,"Kothenabdeckplane (Opi)",KAP,Zeltplane,Bundeskämmerei,,,,,,,,0.00,,,,S.1.L.3,,,,,,,S.1.L.3,,,,,,,,,,,,,,,,,,,,,,,"muss bearbeitet werden (deployable)",,,,"2022-07-22 13:04:01","2022-07-22 13:04:01",,,,https://ams.bdp-th.de/hardware/358,,,,,,
+359,"LV Thüringen","Kothenplane Hochkothe",#00329,"Kothenplane für Hochkothe (S45/59)",KPH,Zeltplane,Tortuga,,2003-05-01,,2003-05-01,,,,0.00,,,,S.1.R.3,,,,,,,S.1.R.3,,,,,,,,,,,,,,,,,,,,,,,"benötigt Reparatur (deployable)",,,,"2022-07-22 13:05:58","2022-07-22 13:05:58",,,,https://ams.bdp-th.de/hardware/359,,,,,,
+360,"LV Thüringen","Kothenplane Hochkothe",#00330,"Kothenplane für Hochkothe (S45/59)",KPH,Zeltplane,Tortuga,,2003-05-01,,2003-05-01,,,,0.00,,,,S.1.R.3,,,,,,,S.1.R.3,,,,,,,,,,,,,,,,,,,,,,,"Einsetzbar (deployable)",,,,"2022-07-22 13:06:19","2022-07-22 13:06:19",,,,https://ams.bdp-th.de/hardware/360,,,,,,
+361,"LV Thüringen","Kothenplane Hochkothe",#00331,"Kothenplane für Hochkothe (S45/59)",KPH,Zeltplane,Tortuga,,2003-05-01,,2003-05-01,,,,0.00,,,,S.1.L.3,,,,,,,S.1.L.3,,,,,,,,,,,,,,,,,,,,,,,"benötigt Reparatur (deployable)",,,,"2022-07-22 13:06:27","2022-07-22 13:06:27",,,,https://ams.bdp-th.de/hardware/361,,,,,,
+362,"LV Thüringen","Kothenplane Hochkothe",#00332,"Kothenplane für Hochkothe (S45/59)",KPH,Zeltplane,Tortuga,,2003-05-01,,2003-05-01,,,,0.00,,,,S.1.L.3,,,,,,,S.1.L.3,,,,,,,,,,,,,,,,,,,,,,,"benötigt Reparatur (deployable)",,,,"2022-07-22 13:06:40","2022-07-22 13:06:40",,,,https://ams.bdp-th.de/hardware/362,,,,,,
+363,"LV Thüringen","Kothenplane Hochkothe",#00333,"Kothenplane für Hochkothe (S45/59)",KPH,Zeltplane,Tortuga,,2003-05-01,,2003-05-01,,,,0.00,,,,S.1.L.3,,,,,,,S.1.L.3,,,,,,,,,,,,,,,,,,,,,,,"Einsetzbar (deployable)",,,,"2022-07-22 13:07:31","2022-07-22 13:07:31",,,,https://ams.bdp-th.de/hardware/363,,,,,,
+364,"LV Thüringen","Kothenplane Hochkothe",#00334,"Kothenplane für Hochkothe (S45/59)",KPH,Zeltplane,Tortuga,,2003-05-01,,2003-05-01,,,,0.00,,,,S.1.L.3,,,,,,,S.1.L.3,,,,,,,,,,,,,,,,,,,,,,,"benötigt Reparatur (deployable)",,,,"2022-07-22 13:07:51","2022-07-22 13:08:29",,,,https://ams.bdp-th.de/hardware/364,,,,,,
+365,"LV Thüringen","Kothenplane Hochkothe",#00335,"Kothenplane für Hochkothe (S45/59)",KPH,Zeltplane,Tortuga,,2003-05-01,,2003-05-01,,,,0.00,,,,S.1.R.3,,,,,,,S.1.R.3,,,,,,,,,,,,,,,,,,,,,,,"Kaputt (deployable)",,,,"2022-07-22 13:09:00","2022-07-22 13:09:00",,,,https://ams.bdp-th.de/hardware/365,,,,,,
+366,"LV Thüringen","Kothenplane Hochkothe",#00336,"Kothenplane für Hochkothe (S45/59)",KPH,Zeltplane,Tortuga,,2003-05-01,,2003-05-01,,,,0.00,,,,S.1.R.3,,,,,,,S.1.R.3,,,,,,,,,,,,,,,,,,,,,,,"benötigt Reparatur (deployable)",,,,"2022-07-22 13:09:16","2022-07-22 13:09:16",,,,https://ams.bdp-th.de/hardware/366,,,,,,
+367,"LV Thüringen",Jurtenabdeckplane,#00337,"Jurtenabdeckplane (Opi)",JAP,Zeltplane,Bundeskämmerei,,,,,,,,0.00,,,,"Kiste #00177",,,,,,,"Kiste #00177",,,,,,,,,,,,,,,,,,,,,,,"muss bearbeitet werden (deployable)",,2023-04-07,,"2022-07-22 13:09:59","2023-04-07 11:56:42",,,,https://ams.bdp-th.de/hardware/367,,,,,,
+368,"LV Thüringen",Jurtenabdeckplane,#00338,"Jurtenabdeckplane (Opi)",JAP,Zeltplane,Bundeskämmerei,,,,,,,,0.00,,,,"Kiste #00177",,,,,,,"Kiste #00177",,,,,,,,,,,,,,,,,,,,,,,"Einsetzbar (deployable)",,2023-04-07,,"2022-07-22 13:10:54","2023-04-07 11:56:42",,,,https://ams.bdp-th.de/hardware/368,,,,,,
+369,"LV Thüringen",Jurtenabdeckplane,#00339,"Jurtenabdeckplane (Opi)",JAP,Zeltplane,Bundeskämmerei,,,,,,,,0.00,,,,"Kiste #00177",,,,,,,"Kiste #00177",,,,,,,,,,,,,,,,,,,,,,,"Einsetzbar (deployable)",,2023-04-07,,"2022-07-22 13:10:54","2023-04-07 11:56:42",,,,https://ams.bdp-th.de/hardware/369,,,,,,
+370,"LV Thüringen",Jurtenabdeckplane,#00340,"Jurtenabdeckplane (Opi)",JAP,Zeltplane,Bundeskämmerei,,,,,,,,0.00,,,,"Kiste #00177",,,,,,,"Kiste #00177",,,,,,,,,,,,,,,,,,,,,,,"muss bearbeitet werden (deployable)",,2023-04-07,,"2022-07-22 13:11:06","2023-04-07 11:56:42",,,,https://ams.bdp-th.de/hardware/370,,,,,,
+371,"LV Thüringen",Kothensack,#00341,Sack,SAC,Container,,,,,,,,,0.00,,,,"Schuppen 2","Jugendherberge 1",,"Bad Blankenburg",Thüringen,DE,07422,"Schuppen 2","Jugendherberge 1",,"Bad Blankenburg",Thüringen,DE,07422,,,,,,,,,,,,,,,,,"Leer (deployable)",,,,"2022-07-22 13:12:35","2022-07-22 13:12:35",,,,https://ams.bdp-th.de/hardware/371,,,,,,
+372,"LV Thüringen",Kothensack,#00342,Sack,SAC,Container,,,,,,,,,0.00,,,,"Schuppen 2","Jugendherberge 1",,"Bad Blankenburg",Thüringen,DE,07422,"Schuppen 2","Jugendherberge 1",,"Bad Blankenburg",Thüringen,DE,07422,,,,,,,,,,,,,,,,,"benötigt Reparatur (deployable)",,,,"2022-07-22 13:12:48","2022-07-22 13:12:48",,,,https://ams.bdp-th.de/hardware/372,,,,,,
+373,"LV Thüringen",Küchenkiste,#00343,"Zarges Kiste",ZAK,Container,Bundeskämmerei,,,,,,,,0.00,,,Zarges,"Schuppen 1","Jugendherberge 1",,"Bad Blankenburg",Thüringen,DE,07422,"Schuppen 1","Jugendherberge 1",,"Bad Blankenburg",Thüringen,DE,07422,,,,,,,,,,,,,,,,,"Einsetzbar (deployable)",,2022-09-20,,"2022-07-22 13:15:30","2022-11-10 12:18:05",,,,https://ams.bdp-th.de/hardware/373,,,80,60,50,
+374,"LV Thüringen",Küchenkiste,#00344,Holzkiste,HOK,Container,Bundeskämmerei,,,,,,,,0.00,,,,"Schuppen 1","Jugendherberge 1",,"Bad Blankenburg",Thüringen,DE,07422,"Schuppen 1","Jugendherberge 1",,"Bad Blankenburg",Thüringen,DE,07422,,,,,,,,,,,,,,,,,"Einsetzbar (deployable)",,2022-09-20,,"2022-07-22 13:16:08","2022-11-10 12:18:11",,,,https://ams.bdp-th.de/hardware/374,,,,,,
+375,"LV Thüringen",Kühlbox,#00345,"Plastik Kiste",PLK,Container,,,,,,,,,0.00,,,,Lagerraum,,,,,,,Lagerraum,,,,,,,,,,,,,,,,,,,,,,,"Einsetzbar (deployable)",,,,"2022-07-22 13:16:47","2022-07-22 13:16:47",,,,https://ams.bdp-th.de/hardware/375,,,,,,
+376,"LV Thüringen",Kühlbox,#00346,"Plastik Kiste",PLK,Container,,,,,,,,,0.00,,,,Lagerraum,,,,,,,Lagerraum,,,,,,,,,,,,,,,,,,,,,,,"Einsetzbar (deployable)",,,,"2022-07-22 13:16:47","2022-07-22 13:16:47",,,,https://ams.bdp-th.de/hardware/376,,,,,,
+377,"LV Thüringen",Petrolas,#00347,"Zarges Kiste",ZAK,Container,Bundeskämmerei,,,,,,,,0.00,,,Zarges,"Schuppen 1","Jugendherberge 1",,"Bad Blankenburg",Thüringen,DE,07422,"Schuppen 1","Jugendherberge 1",,"Bad Blankenburg",Thüringen,DE,07422,,,,,,,,,,,,,,,,,"Einsetzbar (deployable)",,2022-09-20,,"2022-07-22 13:17:13","2022-11-10 12:18:15",,,,https://ams.bdp-th.de/hardware/377,,,60,40,50,
+378,"LV Thüringen",Spielzeugkiste,#00348,Holzkiste,HOK,Container,Bundeskämmerei,,,,,,,,0.00,,,,Lagerraum,,,,,,,Lagerraum,,,,,,,,,,,,,,,,,,,,,,,"Einsetzbar (deployable)",,2022-09-20,,"2022-07-22 13:17:36","2022-11-10 12:18:20",,,,https://ams.bdp-th.de/hardware/378,,,,,,
+379,"LV Thüringen",Armeeplane,#00349,Armeeplane,AMP,Abdeckplanen,,,,,,,,,0.00,,,,"Kiste #00131",,,,,,,"Kiste #00131",,,,,,,,,,,,,,,,,,,,,,,"muss bearbeitet werden (deployable)",,2023-04-07,,"2022-07-22 13:18:13","2023-04-07 11:56:42",,,,https://ams.bdp-th.de/hardware/379,,,,,,
+380,"LV Thüringen","Kocher und Kanister",#00350,"Zarges Kiste",ZAK,Container,Bundeskämmerei,,,,,,,,0.00,,,Zarges,"Schuppen 1","Jugendherberge 1",,"Bad Blankenburg",Thüringen,DE,07422,"Schuppen 1","Jugendherberge 1",,"Bad Blankenburg",Thüringen,DE,07422,,,,,,,,,,,,,,,,,"Einsetzbar (deployable)",,2022-09-20,,"2022-07-22 13:19:23","2022-11-10 12:18:25",,,,https://ams.bdp-th.de/hardware/380,,,80,60,50,
+381,"LV Thüringen","Blaue Jurte",#00351,"Zarges Kiste",ZAK,Container,Bundeskämmerei,,,,,,,,0.00,,,Zarges,"Schuppen 2","Jugendherberge 1",,"Bad Blankenburg",Thüringen,DE,07422,"Schuppen 2","Jugendherberge 1",,"Bad Blankenburg",Thüringen,DE,07422,,,,,,,,,,,,,,,,,"Einsetzbar (deployable)",,,,"2022-07-22 13:19:51","2022-07-22 13:20:01",,,,https://ams.bdp-th.de/hardware/381,,,60,40,50,
+382,"LV Thüringen",Seilsack,#00352,Sack,SAC,Container,,,,,,,,,0.00,,,,"Kiste #00279",,,,,,,"Kiste #00279",,,,,,,,,,,,,,,,,,,,,,,"Einsetzbar (deployable)",,2023-04-07,,"2022-07-27 03:55:56","2023-04-07 11:56:42",,,,https://ams.bdp-th.de/hardware/382,,,,,,
+383,Herberge,"Erdstreifen Rainbow Kothe",#00353,"Erdstreifen Rainbow Kothe",ERK,Zeltplane,Seegler,,2016-10-17,,2016-10-17,,,,0.00,,,Seegler,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Einsetzbar (deployable)","2022-08-12 00:00:00",2026-04-27,,"2022-07-27 04:00:33","2026-04-27 16:31:56",,,,https://ams.bdp-th.de/hardware/383,,,,,,
+384,Herberge,"Erdstreifen Rainbow Kothe",#00354,"Erdstreifen Rainbow Kothe",ERK,Zeltplane,Seegler,,2016-10-17,,2016-10-17,,,,0.00,,,Seegler,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Einsetzbar (deployable)","2022-08-12 00:00:00",2026-04-27,,"2022-07-27 04:00:33","2026-04-27 16:32:23",,,,https://ams.bdp-th.de/hardware/384,,,,,,
+385,Herberge,"Erdstreifen Rainbow Kothe",#00355,"Erdstreifen Rainbow Kothe",ERK,Zeltplane,Seegler,,2016-10-17,,2016-10-17,,,,0.00,,,Seegler,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Einsetzbar (deployable)","2022-08-12 00:00:00",2026-04-27,,"2022-07-27 04:00:33","2026-04-27 16:32:27",,,,https://ams.bdp-th.de/hardware/385,,,,,,
+386,Herberge,"Erdstreifen Rainbow Kothe",#00356,"Erdstreifen Rainbow Kothe",ERK,Zeltplane,Seegler,,2016-10-17,,2016-10-17,,,,0.00,,,Seegler,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Einsetzbar (deployable)","2022-08-12 00:00:00",2026-04-27,,"2022-07-27 04:00:33","2026-04-27 16:32:30",,,,https://ams.bdp-th.de/hardware/386,,,,,,
+387,Herberge,"Erdstreifen Rainbow Kothe",#00357,"Erdstreifen Rainbow Kothe",ERK,Zeltplane,Seegler,,2016-10-17,,2016-10-17,,,,0.00,,,Seegler,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Einsetzbar (deployable)","2022-08-12 00:00:00",2026-04-27,,"2022-07-27 04:00:33","2026-04-27 16:32:34",,,,https://ams.bdp-th.de/hardware/387,,,,,,
+388,Herberge,"Eingang Rainbow",#00358,"Vorzelt Rainbow Kothe",VRK,Zeltplane,,,2016-10-17,,2016-10-17,,,,0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Einsetzbar (deployable)","2022-08-12 00:00:00",2026-04-27,,"2022-07-27 04:02:27","2026-04-27 16:32:38",,,,https://ams.bdp-th.de/hardware/388,,,,,,
+389,Herberge,"Plane Rainbowkothe",#00359,"Rainbow Kothenplane ",KPR,Zeltplane,Bundeskämmerei,,2016-10-27,,2016-10-27,,,,0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Einsetzbar (deployable)","2022-08-12 00:00:00",2026-04-27,,"2022-07-27 04:03:18","2026-04-27 16:32:43",,,,https://ams.bdp-th.de/hardware/389,,,,,,
+390,Herberge,"Plane Rainbowkothe",#00360,"Rainbow Kothenplane ",KPR,Zeltplane,Bundeskämmerei,,2016-10-27,,2016-10-27,,,,0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Einsetzbar (deployable)","2022-08-12 00:00:00",2026-04-27,,"2022-07-27 04:03:18","2026-04-27 16:32:46",,,,https://ams.bdp-th.de/hardware/390,,,,,,
+391,Herberge,"Plane Rainbowkothe",#00361,"Rainbow Kothenplane ",KPR,Zeltplane,Bundeskämmerei,,2016-10-27,,2016-10-27,,,,0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Einsetzbar (deployable)","2022-08-12 00:00:00",2026-04-27,,"2022-07-27 04:03:18","2026-04-27 16:32:50",,,,https://ams.bdp-th.de/hardware/391,,,,,,
+392,Herberge,"Plane Rainbowkothe",#00362,"Rainbow Kothenplane ",KPR,Zeltplane,Bundeskämmerei,,2016-10-27,,2016-10-27,,,,0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Einsetzbar (deployable)","2022-08-12 00:00:00",2026-04-27,,"2022-07-27 04:03:18","2026-04-27 16:32:52",,,,https://ams.bdp-th.de/hardware/392,,,,,,
+393,Herberge,"Plane Rainbowkothe",#00363,"Rainbow Kothenplane ",KPR,Zeltplane,Bundeskämmerei,,2016-10-27,,2016-10-27,,,,0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Einsetzbar (deployable)","2022-08-12 00:00:00",2026-04-27,,"2022-07-27 04:03:18","2026-04-27 16:32:55",,,,https://ams.bdp-th.de/hardware/393,,,,,,
+394,Herberge,"Kothenabdeckplane Rainbow Kothe (Opi)",#00364,"Kothenabdeckplane (Opi)",KAP,Zeltplane,Bundeskämmerei,,,,,,,,0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Einsetzbar (deployable)","2022-08-12 00:00:00",2026-04-27,,"2022-07-27 04:03:59","2026-04-27 16:32:59",,,,https://ams.bdp-th.de/hardware/394,,,,,,
+395,Herberge,"Chemoplane Rainbow Kothe",#00365,Chemoplane,CHP,Abdeckplanen,,,,,,,,,0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Einsetzbar (deployable)","2022-08-12 00:00:00",2026-04-27,,"2022-07-27 04:04:32","2026-04-27 16:33:02",,,,https://ams.bdp-th.de/hardware/395,,,,,,
+396,"LV Thüringen",Stangenkiste,#00366,Holzkiste,HOK,Container,Bundeskämmerei,,,,,,,,0.00,,,,"Regal 7 Ebene 2",,,,,,,"Regal 7 Ebene 2",,,,,,,,,,,,,,,,,,,,,,,"Einsetzbar (deployable)",,,,"2022-07-27 04:04:56","2024-05-09 15:47:38",,,,https://ams.bdp-th.de/hardware/396,,,,,,
+397,"Falken vom Greifenstein",Chemoplane,#00367,Chemoplane,CHP,Abdeckplanen,,,2024-05-15,10.00,,,,10.00,0.00,,,Parkside,"Kiste #00262",,,,,,,"Kiste #00262",,,,,,,,,,,,,,,,,,,,,,,"Einsetzbar (deployable)",,,,"2024-05-15 11:46:43","2024-05-15 11:48:29",,,,https://ams.bdp-th.de/hardware/397,,,400,300,,
+398,"Falken vom Greifenstein",Chemoplane,#00368,Chemoplane,CHP,Abdeckplanen,,,2024-05-15,10.00,,,,10.00,0.00,,,Parkside,"Kiste #00262",,,,,,,"Kiste #00262",,,,,,,,,,,,,,,,,,,,,,,"Einsetzbar (deployable)",,,,"2024-05-15 11:48:21","2024-05-15 11:48:21",,,,https://ams.bdp-th.de/hardware/398,,,400,300,,
+399,"LV Thüringen","Doppelfensterstück Tüll ",#00369,"Doppelfensterstück Tüll",,Zeltplane,Tortuga,,2024-05-13,183.60,,,,183.60,0.00,,,Jurtenwelt,"Regal 5 Ebene 4",,,,,,,"Regal 5 Ebene 4",,,,,,,,,,,,,,,,,,,,,,,"Einsetzbar (deployable)",,,,"2024-05-16 20:11:39","2024-05-16 20:12:58",,,,https://ams.bdp-th.de/hardware/399,,,,,,
+400,"LV Thüringen","Doppelfensterstück Tüll ",#00370,"Doppelfensterstück Tüll",,Zeltplane,Tortuga,,2024-05-13,183.60,,,,183.60,0.00,,,Jurtenwelt,"Regal 5 Ebene 4",,,,,,,"Regal 5 Ebene 4",,,,,,,,,,,,,,,,,,,,,,,"Einsetzbar (deployable)",,,,"2024-05-16 20:13:12","2024-05-16 20:13:12",,,,https://ams.bdp-th.de/hardware/400,,,,,,
+401,"Falken vom Greifenstein",Chemoplane,#00371,Chemoplane,CHP,Abdeckplanen,,,2024-05-15,15.89,,,,15.89,0.00,,,Obi,Schrank,,,,,,,Schrank,,,,,,,,,,,,,,,,,,,,,,,"Einsetzbar (deployable)","2025-08-22 00:00:00",2026-01-06,,"2024-05-24 13:27:55","2026-01-06 15:06:46",,,,https://ams.bdp-th.de/hardware/401,,,500,400,,
+402,"Falken vom Greifenstein",Chemoplane,#00372,Chemoplane,CHP,Abdeckplanen,,,2024-05-15,15.89,,,,15.89,0.00,,,Obi,Schrank,,,,,,,Schrank,,,,,,,,,,,,,,,,,,,,,,,"Einsetzbar (deployable)","2025-08-22 00:00:00",2026-01-06,,"2024-05-24 13:28:03","2026-01-06 15:07:33",,,,https://ams.bdp-th.de/hardware/402,,,500,400,,
+403,"Falken vom Greifenstein",Chemoplane,#00373,Chemoplane,CHP,Abdeckplanen,,,2024-05-15,15.89,,,,15.89,0.00,,,Obi,Schrank,,,,,,,Schrank,,,,,,,,,,,,,,,,,,,,,,,"Einsetzbar (deployable)","2025-08-22 00:00:00",2026-01-06,,"2024-05-24 13:28:11","2026-01-06 15:08:06",,,,https://ams.bdp-th.de/hardware/403,,,500,400,,

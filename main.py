@@ -5,7 +5,7 @@ import pandas as pd
 import copy as _copy, os, re
 import lib3mf   # je nach Install heißt das Paket lib3mf
 import zipfile
-
+from pathlib import Path
 MODEL_SETTINGS = """<?xml version="1.0" encoding="UTF-8"?>
 <config>
   <object id="{obj_id}">
@@ -110,13 +110,14 @@ def make_sign(label: str):
 
 
 df = pd.read_csv("Daten.csv")
-
-labels = sorted(list(df[df["Modell"] == "Kothenplane für Hochkothe (S45/59)"]["Asset Tag"]))
+df_filter = df["Modell"] == "Kothenplane für Hochkothe (S45/59)"
+labels = list(df[df_filter]["Asset Tag"])
+urls = list(df[df_filter]["URL"])
 #labels = ["#00001", "#00002", "#00003", "#00004", "#00005", "#00006", "#00007", "#00008", "#00009", "#00010"]
-OUTDIR    = "Kothenplane für Hochkothe"
+OUTDIR    = Path("Schilder/Kothenplane für Hochkothe")
 os.makedirs(OUTDIR, exist_ok=True)
 
-for label in labels:
+for label,url in zip(labels, urls):
     plate, text = make_sign(label)
     m = Mesher()
     plate_mesh = make_mesh(m, plate, Color("white"))
